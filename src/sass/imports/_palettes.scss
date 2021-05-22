@@ -78,7 +78,7 @@
   .button {
     background: _palette(accent-blue);
     border-color: _palette(accent-blue);
-    color: #fff;
+    color: #AAA;
 
     &:hover,
     &:focus,
@@ -98,7 +98,7 @@
     &:active {
       background: _palette(accent-blue);
       border-color: _palette(accent-blue);
-      color: #fff;
+      color: #AAA;
     }
   }
 
