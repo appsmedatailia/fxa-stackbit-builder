@@ -9,6 +9,7 @@ seo:
   extra: []
   type: stackbit_page_meta
 template: page
+img_path: /images/1.jpg
 ---
 ## Lorem ipsum
 
