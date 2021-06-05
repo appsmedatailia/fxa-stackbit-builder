@@ -4,7 +4,7 @@
     "palette": "green",
     "header": {
         "type": "header",
-        "title": "Fennex Blog",
+        "title": "Fennex Agnecy Blog",
         "logo_img": "images/logo.svg",
         "logo_img_alt": "Fennex Agnecy Blog Logo",
         "has_nav": true,
