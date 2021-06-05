@@ -24,7 +24,7 @@ form_fields:
       - Error on the site
       - Sponsorship
       - Other
-    default_value: Your message su
+    default_value: Your message subjet
   - type: form_field
     input_type: textarea
     name: message
