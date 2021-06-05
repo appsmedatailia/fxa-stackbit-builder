@@ -19,7 +19,7 @@
                 "type": "action",
                 "label": "Contact",
                 "url": "/contact",
-                "style": "link"
+                "style": "primary"
             },
             {
                 "label": "Fennex Agency",
