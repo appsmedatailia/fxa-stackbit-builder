@@ -111,7 +111,7 @@ FBA might not be the right solution for your needs. Here are some factors to con
 
 For Amazon (FBA fee) fees, see[ ](https://sellercentral.amazon.com/hz/fba/profitabilitycalculator/index?lang=en_US)[Amazon FBA Fees Calculator](https://sellercentral.amazon.com/hz/fba/profitabilitycalculator/index?lang=en_US).
 
- 
+
 
 ## How Can I Get Started with Amazon FBA?
 
@@ -135,9 +135,7 @@ But with focused knowledge and organization, you'll be on your way to success.
 
 To help you with that, we get you helpful tools to go from zero to hero with FBA.
 
- 
-
- 
+  
 
 ## How to Sell on Amazon FBA Program?
 
@@ -152,8 +150,6 @@ If you have ever worked with a project management system, you can consider the F
 We aimed to keep the guide as simple as possible so that you can take action rapidly and not get into the analysis paralysis.
 
 For a better understanding, each milestone of the guide will be a subject of a blog post.
-
-PS
 
  
 
