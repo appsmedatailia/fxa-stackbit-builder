@@ -65,7 +65,7 @@ seo:
     - name: 'twitter:description'
       value: This is the contact page
 template: contact
-img_alt: 'Get In Touch '
+img_alt: Get In Touch Img
 ---
 
 Fill the form below to get in touch with me.
