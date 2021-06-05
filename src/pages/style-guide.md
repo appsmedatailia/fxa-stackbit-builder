@@ -1,5 +1,5 @@
 ---
-title: Style Guide
+title: Fulfillment by Amazon (FBA) | How to start a business online from scratch
 subtitle: >-
   The style guide provides you with a blueprint of default post and page styles.
   The style guide is also a great reference for suggested typographic treatment
