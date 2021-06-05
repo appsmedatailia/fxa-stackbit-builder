@@ -1,7 +1,7 @@
 ---
 title: Fulfillment by Amazon (FBA) | How to start a business online from scratch
 img_path: /images/AMAZON-FBA.webp
-img_alt: Amazon FBA Blog Post Img
+img_alt: 'Amazon FBA - '
 seo:
   type: stackbit_page_meta
   title: Theme Style Guide
