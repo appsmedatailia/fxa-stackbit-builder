@@ -1,6 +1,6 @@
 ---
 title: Fulfillment by Amazon (FBA) | How to start a business online from scratch
-img_path: images/6.jpg
+img_path: /images/AMAZON-FBA.webp
 img_alt: Snow covered mountains
 seo:
   type: stackbit_page_meta
