@@ -1,9 +1,5 @@
 ---
 title: Fulfillment by Amazon (FBA) | How to start a business online from scratch
-subtitle: >-
-  Learn how Fulfillment by Amazon (FBA) business works, pros, cons, and how to
-  leverage the power of knowledge and organization to start a successful Amazon
-  FBA business. For US and UK small business owners
 img_path: images/6.jpg
 img_alt: Snow covered mountains
 seo:
