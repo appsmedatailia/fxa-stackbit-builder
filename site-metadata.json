@@ -4,7 +4,7 @@
     "palette": "green",
     "header": {
         "type": "header",
-        "title": "Ampersand",
+        "title": "Fennex Blog",
         "logo_img": "images/logo.svg",
         "logo_img_alt": "Ampersand Logo",
         "has_nav": true,
