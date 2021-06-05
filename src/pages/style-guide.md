@@ -34,6 +34,10 @@ seo:
       value: images/6.jpg
       relativeUrl: true
 template: page
+subtitle: >-
+  Learn how Fulfillment by Amazon (FBA) business works, pros, cons, and how to
+  leverage the power of knowledge and organization to start a successful Amazon
+  FBA business. For US and UK small business owners
 ---
 
 **This is a paragraph**. Paragraphs are usually represented in visual media as blocks of text separated from adjacent blocks by blank lines and/or first-line [indentation](https://en.wikipedia.org/wiki/Indentation_(typesetting)), but <abbr title="HyperText Markup Language">HTML</abbr> paragraphs can be any structural grouping of related content, such as images or form fields.
