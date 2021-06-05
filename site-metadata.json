@@ -24,7 +24,7 @@
             {
                 "label": "Fennex Agency",
                 "url": "fennex.agency",
-                "style": "icon",
+                "style": "secondary",
                 "icon_class": "dev",
                 "new_window": true,
                 "no_follow": false,
