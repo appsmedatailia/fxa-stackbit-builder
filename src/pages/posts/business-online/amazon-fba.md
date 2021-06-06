@@ -5,7 +5,7 @@ subtitle: >-
   leverage the power of knowledge and organization to start a successful Amazon
   FBA business. The Ultimate Guide For entrepreneurs and small business owners.
 date: '2021-06-06'
-thumb_img_alt: A white modern house
+thumb_img_alt: amazon-fba-how-to-start-a-business-online
 content_img_alt: A white modern house
 excerpt: >-
   Work at home parent is an entrepreneur who works from home and integrates
