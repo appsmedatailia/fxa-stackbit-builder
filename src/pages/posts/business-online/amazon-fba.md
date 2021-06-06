@@ -37,7 +37,7 @@ seo:
       relativeUrl: true
 template: post
 thumb_img_path: images/9.jpg
-content_img_path: images/9.jpg
+content_img_path: /images/diligent-giraffe.webp
 ---
 # How to Start an Amazon FBA Business from Scratch?
 
