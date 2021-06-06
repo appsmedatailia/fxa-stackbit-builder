@@ -6,7 +6,7 @@ subtitle: >-
   FBA business. The Ultimate Guide For entrepreneurs and small business owners.
 date: '2021-06-06'
 thumb_img_alt: amazon-fba-how-to-start-a-business-online
-content_img_alt: A white modern house
+content_img_alt: amazon-fba-how-to-start-a-business-online
 excerpt: >-
   Work at home parent is an entrepreneur who works from home and integrates
   parenting into his or her business activities. They are sometimes referred to
