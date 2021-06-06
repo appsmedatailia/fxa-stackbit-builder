@@ -1,8 +1,5 @@
 ---
-title: >-
-  Learn How Fulfillment By Amazon (FBA) Business Works, Pros, Cons, And How To
-  Leverage The Power Of Knowledge And Organization To Start A Successful Amazon
-  FBA Business. The Ultimate Guide For Entrepreneurs And Small Business Owners. 
+title: Fulfillment By Amazon (fba) | How To Start A Business Online From Scratch.
 subtitle: >-
   Learn How Fulfillment By Amazon (FBA) Business Works, Pros, Cons, And How To
   Leverage The Power Of Knowledge And Organization To Start A Successful Amazon
