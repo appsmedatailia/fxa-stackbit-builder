@@ -1,5 +1,5 @@
 ---
-title: The Advantages and Disadvantages of Working from Home
+title: Fulfillment by Amazon (FBA) | How to start a business online from scratch
 subtitle: lorem-ipsum
 date: '2019-03-30'
 thumb_img_alt: A white modern house
