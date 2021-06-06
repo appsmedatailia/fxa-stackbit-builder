@@ -111,8 +111,6 @@ FBA might not be the right solution for your needs. Here are some factors to con
 
 For Amazon (FBA fee) fees, see[ ](https://sellercentral.amazon.com/hz/fba/profitabilitycalculator/index?lang=en_US)[Amazon FBA Fees Calculator](https://sellercentral.amazon.com/hz/fba/profitabilitycalculator/index?lang=en_US).
 
-
-
 ## How Can I Get Started with Amazon FBA?
 
 Getting started with Amazon FBA Programs is very simple if you have your product ready to sell.
@@ -239,7 +237,7 @@ For a better understanding, each milestone of the guide will be a subject of a b
 
  
 
-… While waiting for the samples
+***… While waiting for the samples***
 
 ### Milestone 6: Branding | Brainstorming
 
@@ -265,7 +263,7 @@ For a better understanding, each milestone of the guide will be a subject of a b
 
  
 
-… When the samples arrive
+***… When the samples arrive***
 
 ### Milestone 8: Product Validation (FBA Amazon Fees and Profits)
 
@@ -339,7 +337,7 @@ For a better understanding, each milestone of the guide will be a subject of a b
 
  
 
-… When production starts
+***… When production starts***
 
 ### Milestone 13: Listing Creation
 
@@ -375,7 +373,7 @@ For a better understanding, each milestone of the guide will be a subject of a b
 
  
 
-… When production ends
+***… When production ends***
 
 ### Milestone 15: Shipping Plan
 
@@ -397,7 +395,7 @@ For a better understanding, each milestone of the guide will be a subject of a b
 
  
 
-… Shipment received by Amazon warehouse
+***… When shipment received by Amazon warehouse***
 
 ### Milestone 16: Launching
 
@@ -439,4 +437,4 @@ For a better understanding, each milestone of the guide will be a subject of a b
 
  
 
-P.S. the guide above is worth a dozen of the best Amazon FBA Training & Courses
+***P.S. the guide above is worth a dozen of the best Amazon FBA Training & Courses***
