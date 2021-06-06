@@ -34,8 +34,6 @@ seo:
       relativeUrl: true
     - name: 'twitter:card'
       value: summary_large_image
-    - name: 'twitter:description'
-      value: Work at home parent is an entrepreneur who works from home
   title: Fulfillment By Amazon (FBA) | How To Start A Business Online
 template: post
 thumb_img_path: /images/amazon-fba-how-to-start-a-business-online.webp
