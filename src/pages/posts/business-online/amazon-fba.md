@@ -8,9 +8,9 @@ date: '2021-06-06'
 thumb_img_alt: amazon-fba-how-to-start-a-business-online
 content_img_alt: amazon-fba-how-to-start-a-business-online
 excerpt: >-
-  Work at home parent is an entrepreneur who works from home and integrates
-  parenting into his or her business activities. They are sometimes referred to
-  as a WAHM (work at home mom) or a WAHD (work at home dad).
+  Learn how Fulfillment by Amazon (FBA) business works, pros, cons, and how to
+  leverage the power of knowledge and organization to start a successful Amazon
+  FBA business. The Ultimate Guide For entrepreneurs and small business owners.
 seo:
   type: stackbit_page_meta
   title: The Advantages and Disadvantages of Working from Home
