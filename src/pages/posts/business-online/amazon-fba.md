@@ -32,8 +32,6 @@ seo:
       value: /_static/app-assets/polite-oak.webp
       keyName: property
       relativeUrl: true
-    - name: 'twitter:card'
-      value: summary_large_image
   title: Fulfillment By Amazon (FBA) | How To Start A Business Online
 template: post
 thumb_img_path: /images/amazon-fba-how-to-start-a-business-online.webp
