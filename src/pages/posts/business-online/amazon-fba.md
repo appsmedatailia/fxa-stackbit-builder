@@ -38,9 +38,6 @@ seo:
       value: The Advantages and Disadvantages of Working from Home
     - name: 'twitter:description'
       value: Work at home parent is an entrepreneur who works from home
-    - name: 'twitter:image'
-      value: images/9.jpg
-      relativeUrl: true
   title: Fulfillment By Amazon (FBA) | How To Start A Business Online
 template: post
 thumb_img_path: /images/amazon-fba-how-to-start-a-business-online.webp
