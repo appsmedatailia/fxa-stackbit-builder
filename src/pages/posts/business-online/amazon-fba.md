@@ -37,6 +37,7 @@ seo:
     - name: 'twitter:image'
       value: images/9.jpg
       relativeUrl: true
+  title: Fulfillment By Amazon (FBA) | How To Start A Business Online From Scratch
 template: post
 thumb_img_path: /images/amazon-fba-how-to-start-a-business-online.webp
 content_img_path: /images/nervous-plankton.webp
