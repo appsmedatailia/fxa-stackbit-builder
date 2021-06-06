@@ -4,7 +4,7 @@ subtitle: >-
   Learn how Fulfillment by Amazon (FBA) business works, pros, cons, and how to
   leverage the power of knowledge and organization to start a successful Amazon
   FBA business. The Ultimate Guide For entrepreneurs and small business owners.
-date: '2019-03-30'
+date: '2021-06-06'
 thumb_img_alt: A white modern house
 content_img_alt: A white modern house
 excerpt: >-
