@@ -13,7 +13,9 @@ excerpt: >-
   FBA Business. The Ultimate Guide For Entrepreneurs And Small Business Owners.
 seo:
   type: stackbit_page_meta
-  description: Work at home parent is an entrepreneur who works from home
+  description: >-
+    Learn How Fulfillment By Amazon (FBA) Business Works. The Ultimate Guide For
+    Entrepreneurs And Small Business Owners.
   extra:
     - name: 'og:type'
       value: article
