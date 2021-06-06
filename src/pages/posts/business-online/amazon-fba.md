@@ -13,7 +13,6 @@ excerpt: >-
   FBA Business. The Ultimate Guide For Entrepreneurs And Small Business Owners.
 seo:
   type: stackbit_page_meta
-  title: The Advantages and Disadvantages of Working from Home
   description: Work at home parent is an entrepreneur who works from home
   extra:
     - name: 'og:type'
