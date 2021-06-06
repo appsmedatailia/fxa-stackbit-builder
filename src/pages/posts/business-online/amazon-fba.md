@@ -24,7 +24,9 @@ seo:
       value: Fulfillment By Amazon (FBA) | How To Start A Business Online
       keyName: property
     - name: 'og:description'
-      value: Work at home parent is an entrepreneur who works from home
+      value: >-
+        Learn How Fulfillment By Amazon (FBA) Business Works. The Ultimate Guide
+        For Entrepreneurs And Small Business Owners.
       keyName: property
     - name: 'og:image'
       value: /_static/app-assets/polite-oak.webp
