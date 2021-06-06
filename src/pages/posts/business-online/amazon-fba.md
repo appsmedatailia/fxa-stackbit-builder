@@ -8,9 +8,9 @@ date: '2021-06-06'
 thumb_img_alt: amazon-fba-how-to-start-a-business-online
 content_img_alt: amazon-fba-how-to-start-a-business-online
 excerpt: >-
-  Learn how Fulfillment by Amazon (FBA) business works, pros, cons, and how to
-  leverage the power of knowledge and organization to start a successful Amazon
-  FBA business. The Ultimate Guide For entrepreneurs and small business owners.
+  Learn How Fulfillment By Amazon (FBA) Business Works, Pros, Cons, And How To
+  Leverage The Power Of Knowledge And Organization To Start A Successful Amazon
+  FBA Business. The Ultimate Guide For Entrepreneurs And Small Business Owners.
 seo:
   type: stackbit_page_meta
   title: The Advantages and Disadvantages of Working from Home
