@@ -40,7 +40,7 @@ seo:
       relativeUrl: true
 template: post
 thumb_img_path: /images/amazon-fba-how-to-start-a-business-online.webp
-content_img_path: /images/diligent-giraffe.webp
+content_img_path: /images/nervous-plankton.webp
 ---
 # How to Start an Amazon FBA Business from Scratch?
 
