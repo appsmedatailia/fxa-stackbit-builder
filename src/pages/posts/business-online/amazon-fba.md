@@ -21,7 +21,7 @@ seo:
       value: article
       keyName: property
     - name: 'og:title'
-      value: The Advantages and Disadvantages of Working from Home
+      value: Fulfillment By Amazon (FBA) | How To Start A Business Online
       keyName: property
     - name: 'og:description'
       value: Work at home parent is an entrepreneur who works from home
