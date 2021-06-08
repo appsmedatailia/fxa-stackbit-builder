@@ -31,8 +31,6 @@ seo:
       value: images/fxa-blog-preview.png
       keyName: property
       relativeUrl: true
-    - name: 'twitter:card'
-      value: summary_large_image
     - name: 'twitter:title'
       value: Fennex Agency Blog
     - name: 'twitter:description'
