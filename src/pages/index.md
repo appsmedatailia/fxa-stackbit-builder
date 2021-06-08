@@ -20,7 +20,6 @@ more_link_text: Read more
 seo:
   type: stackbit_page_meta
   title: Fennex Agency Blog
-  description: The preview of the Ampersand theme
   extra:
     - name: 'og:type'
       value: website
