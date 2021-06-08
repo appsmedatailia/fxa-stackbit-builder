@@ -1,5 +1,4 @@
 ---
-title: Get in Touch
 img_path: /images/Get in touch.svg
 form_id: contactForm
 form_action: /contact-success
