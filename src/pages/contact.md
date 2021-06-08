@@ -1,7 +1,6 @@
 ---
 title: Get in Touch
-img_path: images/contact.jpg
-img_alt: Post in the door mailbox
+img_path: /images/Get in touch.svg
 form_id: contactForm
 form_action: /contact-success
 form_fields:
@@ -18,14 +17,14 @@ form_fields:
     default_value: Your email address
     is_required: true
   - type: form_field
-    input_type: select
+    input_type: text
     name: subject
     label: Subject
-    default_value: Please select
     options:
       - Error on the site
       - Sponsorship
       - Other
+    default_value: Your message subject
   - type: form_field
     input_type: textarea
     name: message
@@ -59,6 +58,7 @@ seo:
     - name: 'twitter:description'
       value: This is the contact page
 template: contact
+img_alt: Get In Touch Image
 ---
 
 Fill the form below to get in touch with me.

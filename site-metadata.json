@@ -1,5 +1,4 @@
 {
-    "title": "Stackbit Ampersand Theme",
     "layout_style": "grid",
     "palette": "green",
     "header": {
@@ -17,21 +16,18 @@
             },
             {
                 "type": "action",
-                "label": "About",
-                "url": "/about",
-                "style": "link"
-            },
-            {
-                "type": "action",
-                "label": "Style Guide",
-                "url": "/style-guide",
-                "style": "link"
-            },
-            {
-                "type": "action",
                 "label": "Contact",
                 "url": "/contact",
-                "style": "link"
+                "style": "primary"
+            },
+            {
+                "label": "Fennex Agency",
+                "url": "fennex.agency",
+                "style": "secondary",
+                "icon_class": "dev",
+                "new_window": true,
+                "no_follow": false,
+                "type": "action"
             }
         ]
     },
@@ -83,7 +79,9 @@
         ],
         "has_subscribe": true,
         "subscribe_title": "Subscribe for new updates",
-        "subscribe_content": "Subscribe to my email newsletter to receive useful articles and special offers. This monthly email is sent out on the first of every month.",
+        "subscribe_content": "Subscribe to our email newsletter to receive useful articles and special offers. This monthly email is sent out on the first of every month.",
         "subscribe_action": "/subscribe-success"
-    }
+    },
+    "domain": "https://blog-fennex-agency.netlify.app",
+    "title": "Fennex Agency Blog"
 }
