@@ -1,5 +1,5 @@
 ---
-img_path: /images/Get in touch.svg
+img_path: /images/get-in-touch.webp
 form_id: contactForm
 form_action: /contact-success
 form_fields:
@@ -39,6 +39,7 @@ submit_label: Send Message
 seo:
   type: stackbit_page_meta
   title: Get in Touch
+  description: Fennex Agency Blog Contact Form.
   extra:
     - name: 'og:type'
       value: website

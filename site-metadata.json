@@ -1,10 +1,10 @@
 {
     "layout_style": "grid",
-    "palette": "green",
+    "palette": "red",
     "header": {
         "type": "header",
         "title": "Fennex Agnecy Blog",
-        "logo_img": "/images/fxa-logo-v5.png",
+        "logo_img": "/images/fxa-blog-logo-v3.webp",
         "logo_img_alt": "Fennex Agnecy Blog Logo",
         "has_nav": true,
         "nav_links": [
@@ -22,7 +22,7 @@
             },
             {
                 "label": "Fennex Agency",
-                "url": "https://www.fennex.agency/",
+                "url": "https://www.fennex.agency",
                 "style": "secondary",
                 "icon_class": "dev",
                 "new_window": true,
@@ -54,26 +54,10 @@
             },
             {
                 "type": "action",
-                "label": "GitHub",
-                "url": "https://github.com/",
-                "style": "icon",
-                "icon_class": "github",
-                "new_window": true
-            },
-            {
-                "type": "action",
                 "label": "LinkedIn",
                 "url": "https://www.linkedin.com/",
                 "style": "icon",
                 "icon_class": "linkedin",
-                "new_window": true
-            },
-            {
-                "type": "action",
-                "label": "DEV",
-                "url": "https://dev.to/",
-                "style": "icon",
-                "icon_class": "dev",
                 "new_window": true
             }
         ],

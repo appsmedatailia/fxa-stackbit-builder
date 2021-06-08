@@ -1,7 +1,7 @@
 ---
 title: Home
 has_intro: true
-intro_content: >
+intro_content: >-
   Learn How To Make Money Online. How To Build Successful Business And How To
   Leverage Digital Marketing To Scale Up And Beat The Competition.
 intro_actions:
@@ -14,6 +14,8 @@ more_link_text: Read more
 seo:
   type: stackbit_page_meta
   title: Fennex Agency Blog
+  description: >-
+    Learn How To Make Money Online. How To Build Successful Business And How To Leverage Digital Marketing To Scale Up And Beat The Competition.
   extra:
     - name: 'og:type'
       value: website
@@ -22,22 +24,20 @@ seo:
       value: Fennex Agency Blog
       keyName: property
     - name: 'og:description'
-      value: >-
-        Learn How To Make Money Online. How To Build Successful Business And How
-        To Leverage Digital Marketing To Scale Up And Beat The Competition.
+      value:  >-
+        Learn How To Make Money Online. How To Build Successful Business And How To Leverage Digital Marketing To Scale Up And Beat The Competition.
       keyName: property
     - name: 'og:image'
-      value: /_static/app-assets/fxa-blog-preview.png
+      value: images/fxa-blog-preview.png
       keyName: property
       relativeUrl: true
     - name: 'twitter:title'
-      value: >-
-        Learn How To Make Money Online. How To Build Successful Business And How
-        To Leverage Digital Marketing To Scale Up And Beat The Competition.
+      value: Fennex Agency Blog
     - name: 'twitter:description'
-      value: The preview of the Ampersand theme
-  description: >-
-    Learn How To Make Money Online. How To Build Successful Business And How To
-    Leverage Digital Marketing To Scale Up And Beat The Competition.
+      value: >-
+        Learn How To Make Money Online. How To Build Successful Business And How To Leverage Digital Marketing To Scale Up And Beat The Competition.
+    - name: 'twitter:image'
+      value: images/fxa-blog-preview.png
+      relativeUrl: true
 template: home
 ---
