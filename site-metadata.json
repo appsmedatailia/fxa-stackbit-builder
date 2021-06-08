@@ -4,9 +4,9 @@
     "palette": "green",
     "header": {
         "type": "header",
-        "title": "Ampersand",
-        "logo_img": "images/logo.svg",
-        "logo_img_alt": "Ampersand Logo",
+        "title": "Fennex Agnecy Blog",
+        "logo_img": "/images/fxa-blog-logo-v3.webp",
+        "logo_img_alt": "Fennex Agnecy Blog Logo",
         "has_nav": true,
         "nav_links": [
             {
