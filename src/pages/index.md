@@ -6,10 +6,6 @@ intro_content: >
   Leverage Digital Marketing To Scale Up And Beat The Competition.
 intro_actions:
   - type: action
-    label: Learn More
-    url: /about
-    style: primary
-  - type: action
     label: Contact
     url: /contact
     style: secondary
