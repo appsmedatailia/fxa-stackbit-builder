@@ -36,9 +36,6 @@ seo:
       value: Stackbit Ampersand Theme
     - name: 'twitter:description'
       value: The preview of the Ampersand theme
-    - name: 'twitter:image'
-      value: images/ampersand-preview.png
-      relativeUrl: true
   description: >-
     Learn How To Make Money Online. How To Build Successful Business And How To
     Leverage Digital Marketing To Scale Up And Beat The Competition.
