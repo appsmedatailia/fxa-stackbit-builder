@@ -30,8 +30,6 @@ seo:
       value: /_static/app-assets/fxa-blog-preview.png
       keyName: property
       relativeUrl: true
-    - name: 'twitter:card'
-      value: summary_large_image
     - name: 'twitter:title'
       value: Stackbit Ampersand Theme
     - name: 'twitter:description'
