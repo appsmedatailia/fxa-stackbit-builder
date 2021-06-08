@@ -25,7 +25,7 @@ seo:
       value: The preview of the Ampersand theme
       keyName: property
     - name: 'og:image'
-      value: images/ampersand-preview.png
+      value: /_static/app-assets/fxa-blog-preview.png
       keyName: property
       relativeUrl: true
     - name: 'twitter:card'
