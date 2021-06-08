@@ -1,16 +1,10 @@
 ---
 title: Home
-has_intro: false
+has_intro: true
 intro_content: >-
-  This is the "about" excerpt. It can be used to provide a paragraph about
-  yourself that people can read on the homepage to get a sense of who you are.
-  There also exists a dedicated about page where you can write more about
-  yourself for those who are interested.
+  Learn How To Make Money Online. How To Build Successful Business And How To
+  Leverage Digital Marketing To Scale Up And Beat The Competition.
 intro_actions:
-  - type: action
-    label: Learn More
-    url: /about
-    style: primary
   - type: action
     label: Contact
     url: /contact
@@ -19,30 +13,33 @@ has_more_link: true
 more_link_text: Read more
 seo:
   type: stackbit_page_meta
-  title: Stackbit Ampersand Theme
-  description: The preview of the Ampersand theme
+  title: Fennex Agency Blog
+  description: >-
+    Learn How To Make Money Online. How To Build Successful Business And How To Leverage Digital Marketing To Scale Up And Beat The Competition.
   extra:
     - name: 'og:type'
       value: website
       keyName: property
     - name: 'og:title'
-      value: Stackbit Ampersand Theme
+      value: Fennex Agency Blog
       keyName: property
     - name: 'og:description'
-      value: The preview of the Ampersand theme
+      value:  >-
+        Learn How To Make Money Online. How To Build Successful Business And How To Leverage Digital Marketing To Scale Up And Beat The Competition.
       keyName: property
     - name: 'og:image'
-      value: images/ampersand-preview.png
+      value: images/fxa-blog-preview.png
       keyName: property
       relativeUrl: true
     - name: 'twitter:card'
       value: summary_large_image
     - name: 'twitter:title'
-      value: Stackbit Ampersand Theme
+      value: Fennex Agency Blog
     - name: 'twitter:description'
-      value: The preview of the Ampersand theme
+      value: >-
+        Learn How To Make Money Online. How To Build Successful Business And How To Leverage Digital Marketing To Scale Up And Beat The Competition.
     - name: 'twitter:image'
-      value: images/ampersand-preview.png
+      value: images/fxa-blog-preview.png
       relativeUrl: true
 template: home
 ---
