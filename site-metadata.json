@@ -22,7 +22,7 @@
             },
             {
                 "label": "Fennex Agency",
-                "url": "fennex.agency",
+                "url": "https://www.fennex.agency/",
                 "style": "secondary",
                 "icon_class": "dev",
                 "new_window": true,
