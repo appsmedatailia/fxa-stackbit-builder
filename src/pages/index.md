@@ -22,7 +22,9 @@ seo:
       value: Fennex Agency Blog
       keyName: property
     - name: 'og:description'
-      value: The preview of the Ampersand theme
+      value: >-
+        Learn How To Make Money Online. How To Build Successful Business And How
+        To Leverage Digital Marketing To Scale Up And Beat The Competition.
       keyName: property
     - name: 'og:image'
       value: /_static/app-assets/fxa-blog-preview.png
