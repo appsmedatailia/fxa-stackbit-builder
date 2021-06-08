@@ -39,7 +39,6 @@ submit_label: Send Message
 seo:
   type: stackbit_page_meta
   title: Get in Touch
-  description: This is the contact page
   extra:
     - name: 'og:type'
       value: website
