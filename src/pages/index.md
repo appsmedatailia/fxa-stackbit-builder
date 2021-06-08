@@ -43,5 +43,8 @@ seo:
     - name: 'twitter:image'
       value: images/ampersand-preview.png
       relativeUrl: true
+  description: >-
+    Learn How To Make Money Online. How To Build Successful Business And How To
+    Leverage Digital Marketing To Scale Up And Beat The Competition.
 template: home
 ---
