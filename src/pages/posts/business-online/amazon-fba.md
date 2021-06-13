@@ -1,6 +1,6 @@
 ---
 title: Fulfillment By Amazon (fba) | How To Start A Business Online From Scratch.
-html: custom html
+html: <script async data-uid="a5b571f857" src="https://fennex-agency.ck.page/a5b571f857/index.js"></script>
 subtitle: >-
   Learn How Fulfillment By Amazon (FBA) Business Works, Pros, Cons, And How To
   Leverage The Power Of Knowledge And Organization To Start A Successful Amazon
