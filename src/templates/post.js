@@ -42,7 +42,7 @@ export default class Post extends React.Component {
                   {htmlToReact(_.get(this.props, 'pageContext.html', null))}
                 </div>
                  <div className="post-content inner-md">
-                  {htmlToReact(_.get(this.props, 'pageContext.html', null))}
+                  {htmlToReact(_.get(this.props, 'pageContext.frontmatter.html', null))}
                 </div>
               </article>
             </Layout>
