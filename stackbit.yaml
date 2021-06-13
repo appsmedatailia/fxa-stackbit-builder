@@ -366,6 +366,10 @@ models:
         name: title
         label: Title
         description: The title of the post.
+        - type: string
+        name: title
+        label: Title
+        description: The title of the post.
         required: true
       - type: string
         name: subtitle
