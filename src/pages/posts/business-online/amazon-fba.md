@@ -5,7 +5,8 @@ subtitle: >-
   Leverage The Power Of Knowledge And Organization To Start A Successful Amazon
   FBA Business. The Ultimate Guide For Entrepreneurs And Small Business Owners.
 date: '2021-06-06'
-thumb_img_alt: amazon-fba-how-to-start-a-business-online
+thumb_img_alt: content_img_alt: amazon-fba-how-to-start-a-business-online
+
 content_img_alt: amazon-fba-how-to-start-a-business-online
 excerpt: >-
   Learn How Fulfillment By Amazon (FBA) Business Works, Pros, Cons, And How To
