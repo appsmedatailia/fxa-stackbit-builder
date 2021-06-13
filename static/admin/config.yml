@@ -774,7 +774,7 @@ collections:
         name: html
         label: Html
         required: false
-        hint: The text shown just below the post title.
+        hint: Custom Html.
       - widget: string
         name: subtitle
         label: Subtitle
