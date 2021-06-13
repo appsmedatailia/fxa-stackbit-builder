@@ -770,7 +770,7 @@ collections:
         label: Title
         required: true
         hint: The title of the post.
-      - widget: html
+      - widget: string
         name: html
         label: Html
         required: false
