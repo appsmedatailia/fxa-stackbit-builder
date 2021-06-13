@@ -370,7 +370,7 @@ models:
         name: html
         label: Html
         description: Custom html.
-        required: false
+        required: true
       - type: string
         name: subtitle
         label: Subtitle
