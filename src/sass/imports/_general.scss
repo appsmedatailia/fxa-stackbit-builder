@@ -459,7 +459,8 @@ img {
 
 .post-content {
   ck-form {
-    border-radius: 3px;
+    height: auto;
+    max-width: 100%;
   }
 }
 
