@@ -210,7 +210,7 @@ For a better understanding, each milestone of the guide will be a subject of a b
 
 *   Check estimated ROI (Return On Investment) at least 100undefined Profit Margin.
 
- 
+<script async data-uid="a5b571f857" src="https://fennex-agency.ck.page/a5b571f857/index.js"></script> 
 
 ### Milestone 4: Sourcing Top 5 | 1st Stage
 
