@@ -368,7 +368,7 @@ models:
         description: The title of the post.
       - type: html
         name: html
-        label: HTML
+        label: Html
         description: Custom html.
       required: true
       - type: string
