@@ -46,6 +46,15 @@
   }
 }
 
+.post-thumbnail {
+  display: block;
+  margin-bottom: 2.5rem;
+
+  img {
+    width: 100%;
+  }
+}
+
 /* Post feed */
 .post-feed,
 .post-card {
