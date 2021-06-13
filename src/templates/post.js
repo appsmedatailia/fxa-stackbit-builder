@@ -41,8 +41,8 @@ export default class Post extends React.Component {
                 <div className="post-content inner-md">
                   {htmlToReact(_.get(this.props, 'pageContext.html', null))}
                 </div>
-                <div className="post-custom-html">
-                  <img className="thumbnail" src={withPrefix(_.get(this.props, 'pageContext.frontmatter.content_img_path', null))} alt={_.get(this.props, 'pageContext.frontmatter.content_img_alt', null)} />
+                 <div className="post-content inner-md">
+                  {htmlToReact(_.get(this.props, 'pageContext.html', null))}
                 </div>
               </article>
             </Layout>
