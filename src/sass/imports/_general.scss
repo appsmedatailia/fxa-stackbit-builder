@@ -457,6 +457,12 @@ img {
   }
 }
 
+.post-content {
+  ck-form {
+    border-radius: 3px;
+  }
+}
+
 /* Text meant only for screen readers */
 .screen-reader-text,
 .site-logo + .site-title {
