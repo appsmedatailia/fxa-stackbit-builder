@@ -369,7 +369,7 @@ models:
       - type: html
       name: html
       label: HTML
-      description: The title of the post.
+      description: Custom Html
       required: true
       - type: string
         name: subtitle
