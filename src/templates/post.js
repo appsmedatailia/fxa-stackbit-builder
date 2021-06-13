@@ -41,7 +41,7 @@ export default class Post extends React.Component {
                 <div className="post-content inner-md">
                   {htmlToReact(_.get(this.props, 'pageContext.html', null))}
                 </div>
-                <div className="post-content ck-form">
+                <div className="ck-form">
                   {htmlToReact(_.get(this.props, 'pageContext.frontmatter.html', null))}
                 </div>
               </article>
