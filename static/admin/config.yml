@@ -775,6 +775,11 @@ collections:
         label: Subtitle
         required: false
         hint: The text shown just below the post title.
+      - widget: string
+        name: subtitle
+        label: Subtitle
+        required: false
+        hint: The text shown just below the post title.
       - widget: date
         name: date
         label: Date
