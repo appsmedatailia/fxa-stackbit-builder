@@ -42,7 +42,7 @@ export default class Post extends React.Component {
                   {htmlToReact(_.get(this.props, 'pageContext.html', null))}
                 </div>
                 <div className="ck-form">
-                  <div{htmlToReact(_.get(this.props, 'pageContext.frontmatter.html', null))}
+                  <{htmlToReact(_.get(this.props, 'pageContext.frontmatter.html', null))}
                 </div>
               </article>
             </Layout>
