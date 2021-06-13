@@ -770,9 +770,9 @@ collections:
         label: Title
         required: true
         hint: The title of the post.
-      - widget: string
-        name: subtitle
-        label: Subtitle
+      - widget: html
+        name: html
+        label: Html
         required: false
         hint: The text shown just below the post title.
       - widget: string
