@@ -10,7 +10,7 @@ template: contact
 img_alt: get-in-touch-image
 img_path: /images/terrific-primrose.webp
 form_id: contact-form
-submit_label: Submit
+submit_label: Submit Now!
 ---
 ## Lorem ipsum
 
