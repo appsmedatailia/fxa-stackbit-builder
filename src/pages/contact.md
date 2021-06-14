@@ -7,7 +7,7 @@ form_fields:
     is_required: false
     type: form_field
   - input_type: email
-    name: E
+    name: Email
     label: lorem-ipsum
     default_value: lorem-ipsum
     options: []
