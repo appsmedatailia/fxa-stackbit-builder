@@ -11,7 +11,7 @@ seo:
 template: contact
 img_alt: get-in-touch-image
 img_path: /images/terrific-primrose.webp
-form_id: c
+form_id: contact-form
 ---
 ## Lorem ipsum
 
