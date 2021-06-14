@@ -11,7 +11,7 @@ form_fields:
     label: Your email?
     options:
       - lorem-ipsum
-    is_required: true
+    is_required: false
     type: form_field
 seo:
   title: ''
