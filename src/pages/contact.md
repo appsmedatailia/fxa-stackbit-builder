@@ -3,7 +3,6 @@ form_fields:
   - input_type: text
     name: Name
     label: Your name?
-    default_value: lorem-ipsum
     options: []
     is_required: false
     type: form_field
