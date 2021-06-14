@@ -1,28 +1,64 @@
 ---
-form_fields:
-  - input_type: text
-    name: Name
-    label: Your name?
-    options: []
-    is_required: false
-    type: form_field
-  - input_type: email
-    name: Email
-    label: Your email?
-    options:
-      - lorem-ipsum
-    is_required: false
-    type: form_field
-seo:
-  title: ''
-  description: ''
-  robots: []
-  extra: []
-  type: stackbit_page_meta
-template: contact
-img_alt: get-in-touch-image
-img_path: /images/terrific-primrose.webp
-form_id: contact-form
-submit_label: Submit Now!
+img_path: /images/get-in-touch.webp
+form_id: contactForm
 form_action: /contact-success
+form_fields:
+  - type: form_field
+    input_type: text
+    name: name
+    label: Name
+    default_value: Your name
+    is_required: true
+  - type: form_field
+    input_type: email
+    name: email
+    label: Email
+    default_value: Your email address
+    is_required: true
+  - type: form_field
+    input_type: text
+    name: subject
+    label: Subject
+    options:
+      - Error on the site
+      - Sponsorship
+      - Other
+    default_value: Your message subject
+  - type: form_field
+    input_type: textarea
+    name: message
+    label: Message
+    default_value: Your message
+  - type: form_field
+    input_type: checkbox
+    name: consent
+    label: >-
+      I understand that this form is storing my submitted information so I can
+      be contacted.
+submit_label: Send Message
+seo:
+  type: stackbit_page_meta
+  title: Get in Touch
+  description: Fennex Agency Blog Contact Form.
+  extra:
+    - name: 'og:type'
+      value: website
+      keyName: property
+    - name: 'og:title'
+      value: Get in Touch
+      keyName: property
+    - name: 'og:description'
+      value: This is the contact page
+      keyName: property
+    - name: 'twitter:card'
+      value: summary
+    - name: 'twitter:title'
+      value: Get in Touch
+    - name: 'twitter:description'
+      value: This is the contact page
+  description: Fennex Agency Blog Contact Form.
+template: contact
+img_alt: Get In Touch Image
 ---
+
+Fill the form below to get in touch with me.
