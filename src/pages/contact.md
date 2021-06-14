@@ -9,7 +9,8 @@ form_fields:
   - input_type: email
     name: Email
     label: Your email?
-    options: []
+    options:
+      - lorem-ipsum
     is_required: true
     type: form_field
 seo:
