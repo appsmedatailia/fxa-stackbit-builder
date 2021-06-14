@@ -1,5 +1,4 @@
 ---
-form_action: lorem-ipsum
 form_fields: []
 submit_label: lorem-ipsum
 seo:
