@@ -8,7 +8,7 @@ form_fields:
     type: form_field
   - input_type: email
     name: Email
-    label: lorem-ipsum
+    label: 'Y'
     default_value: lorem-ipsum
     options: []
     is_required: false
