@@ -1,6 +1,5 @@
 ---
 form_fields: []
-submit_label: lorem-ipsum
 seo:
   title: ''
   description: ''
