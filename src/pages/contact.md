@@ -1,5 +1,4 @@
 ---
-img_alt: lorem-ipsum
 form_id: lorem-ipsum
 form_action: lorem-ipsum
 form_fields: []
