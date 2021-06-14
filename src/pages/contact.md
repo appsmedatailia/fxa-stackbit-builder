@@ -10,6 +10,8 @@ seo:
   extra: []
   type: stackbit_page_meta
 template: contact
+img_alt: get-in-touch-image
+img_path: /images/terrific-primrose.webp
 ---
 ## Lorem ipsum
 
