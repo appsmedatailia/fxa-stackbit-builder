@@ -8,10 +8,9 @@ form_fields:
     type: form_field
   - input_type: email
     name: Email
-    label: 'Y'
-    default_value: lorem-ipsum
+    label: Your email?
     options: []
-    is_required: false
+    is_required: true
     type: form_field
 seo:
   title: ''
