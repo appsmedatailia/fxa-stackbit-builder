@@ -56,9 +56,7 @@ seo:
       value: Get in Touch
     - name: 'twitter:description'
       value: This is the contact page
-  description: Fennex Agency Blog Contact Form.
 template: contact
 img_alt: Get In Touch Image
 ---
 
-Fill the form below to get in touch with me.
