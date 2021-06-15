@@ -4,6 +4,13 @@ module.exports = {
     pathPrefix: '/',
     siteMetadata: siteMetadata,
     plugins: [
+        {
+            resolve: "gatsby-plugin-google-tagmanager",
+            options: {
+              id: "GTM-MSL4NQP" 
+             
+            },
+        },
         `gatsby-plugin-react-helmet`,
         `gatsby-source-data`,
         `gatsby-transformer-remark`,
