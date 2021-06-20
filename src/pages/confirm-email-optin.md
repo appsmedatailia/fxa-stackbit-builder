@@ -4,7 +4,7 @@ template: page
 ---
 You’re almost there. First, **<span style="text-decoration:underline;">log into your inbox and click the confirmation button</span>**.
 
-Didn’t receive an email? 
+Didn’t receive an email?
 
 **_Step 1:_** **<span style="text-decoration:underline;">Check other folders</span>** of your inbox like Promotions, if not found then ...
 

@@ -275,7 +275,18 @@ collections:
                 label: Enable Subscribe Section
                 required: false
                 default: true
-                hint: Display the newsletter subscription section in the footer.
+                hint: Display the newsletter subscription section in the footer.                
+              - widget: boolean
+                name: has_embedded_form
+                label: Enable Embedded Form
+                required: false
+                default: false
+                hint: Display the embedded subscription form section in the footer.                
+              - widget: string
+                name: embedded_form
+                label: Embedded Form
+                required: false
+                hint: The embedded subscription form.
               - widget: string
                 name: subscribe_title
                 label: Title
