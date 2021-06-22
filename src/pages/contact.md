@@ -1,6 +1,5 @@
 ---
 img_path: /images/get-in-touch.webp
-img_alt: Get In Touch
 form_id: contactForm
 form_action: /contact-success
 form_fields:
