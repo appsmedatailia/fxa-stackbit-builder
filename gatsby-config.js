@@ -35,6 +35,27 @@ module.exports = {
                 sourceUrlPath: `fields.url`,
                 pageContextProperty: `menus`,
             }
-        }
+        },
+        'gatsby-plugin-robots-txt',
+        {
+            resolve: "gatsby-plugin-sitemap",
+            options: {
+
+                excludes: ['/confirm-email-optin/','/contact-success/','/subscribe-success/','/email-optin-confirmed/fba-guide-and-product-research-tools/'],
+                serialize: ({ path, modifiedGmt }) => {
+                    return {
+                    url: path,
+                    lastmod: modifiedGmt,
+                    }
+                },
+            },
+          },
+          {
+            resolve: `gatsby-plugin-canonical-urls`,
+            options: {
+              siteUrl: `https://blog.fennex.agency/`,
+              stripQueryString: true,
+            },
+          }
     ]
 };

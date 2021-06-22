@@ -13,8 +13,8 @@ export default class Body extends React.Component {
         return (
             <React.Fragment>
                 <Helmet>
-                    <title>{_.get(this.props, 'pageContext.frontmatter.seo.title', null) ? (_.get(this.props, 'pageContext.frontmatter.seo.title', null)) : _.get(this.props, 'pageContext.frontmatter.title', null) + ' | ' + _.get(this.props, 'pageContext.site.siteMetadata.title', null)}</title>
-                    <meta charSet="utf-8"/>
+                    <title lang="en">{_.get(this.props, 'pageContext.frontmatter.seo.title', null) ? (_.get(this.props, 'pageContext.frontmatter.seo.title', null)) : _.get(this.props, 'pageContext.frontmatter.title', null) + ' | ' + _.get(this.props, 'pageContext.site.siteMetadata.title', null)}</title>
+                    <meta charset="utf-8"/>
                     <meta name="viewport" content="width=device-width, initialScale=1.0" />
                     <meta name="google" content="notranslate" />
                     <meta name="description" content={_.get(this.props, 'pageContext.frontmatter.seo.description', null) || ''} />
@@ -42,7 +42,7 @@ export default class Body extends React.Component {
                     <link rel="icon" href={withPrefix(_.get(this.props, 'pageContext.site.siteMetadata.favicon', null))}/>
                     )}
 
-                    <script id="cookieyes" type="text/javascript" src="https://cdn-cookieyes.com/client_data/d38b3cf7633aad94bc76be41.js"></script>
+                    <script id="cookieyes" src="https://cdn-cookieyes.com/client_data/d38b3cf7633aad94bc76be41.js"></script>
                  
                  </Helmet>
                   <div id="page" className={'site layout-' + _.get(this.props, 'pageContext.site.siteMetadata.layout_style', null) + ' palette-' + _.get(this.props, 'pageContext.site.siteMetadata.palette', null)}>

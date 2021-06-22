@@ -1,10 +1,11 @@
 {
     "layout_style": "grid",
     "palette": "red",
+    "siteUrl":"https://blog.fennex.agency/",
     "header": {
         "type": "header",
         "title": "Fennex Agnecy Blog",
-        "logo_img": "/images/fxa-blog-logo-v3.webp",
+        "logo_img": "/images/fennex-agency-blog-logo.webp",
         "logo_img_alt": "Fennex Agnecy Blog Logo",
         "has_nav": true,
         "nav_links": [
@@ -33,8 +34,8 @@
     },
     "footer": {
         "type": "footer",
-        "content": "&copy; Stackbit. All rights reserved. This Jamstack site was created with <a href=\"https://www.stackbit.com/?utm_source=deployed-footer\" target=\"_blank\" rel=\"noopener\">Stackbit</a>. Create yours <a href=\"https://app.stackbit.com/create?theme=ampersand&utm_source=deployed-footer\" target=\"_blank\" rel=\"noopener\">now</a>.",
-        "has_social": true,
+        "content": "&copy;<a href=\"https://fennex.agency\" target=\"_blank\" rel=\"noopener\">Fennex Agency</a>. All rights reserved. This Jamstack site was created with Stackbit.",
+        "has_social": false,
         "social_links": [
             {
                 "type": "action",
