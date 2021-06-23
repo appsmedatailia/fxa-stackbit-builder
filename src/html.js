@@ -5,6 +5,7 @@ export default function HTML(props) {
   return (
     <html {...props.htmlAttributes}>
       <head>
+        <meta charSet="utf-8"/>  
         {props.headComponents}
       </head>
       <body {...props.bodyAttributes}>
