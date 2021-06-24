@@ -1,9 +1,8 @@
 ---
 title: Home
 has_intro: true
-intro_content: >
-  Learn How To Make Money Online. The Secrets To Building A Successful Business
-  And How Leveraging Digital Marketing To Grow And To Beat Competition.
+intro_content: >-
+  Learn How To Make Money Online. The Secrets To Building A Successful Business And How Leveraging Digital Marketing To Grow And To Beat Competition.
 intro_actions:
   - type: action
     label: Contact
@@ -15,8 +14,7 @@ seo:
   type: stackbit_page_meta
   title: Fennex Agency Blog
   description: >-
-    Learn How To Make Money Online. How To Build Successful Business And How To
-    Leverage Digital Marketing To Scale Up And Beat The Competition.
+    Learn How To Make Money Online. The Secrets To Building A Successful Business And How Leveraging Digital Marketing To Grow And To Beat Competition.
   extra:
     - name: 'og:type'
       value: website

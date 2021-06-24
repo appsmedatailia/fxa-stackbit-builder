@@ -56,6 +56,29 @@ module.exports = {
               siteUrl: `https://blog.fennex.agency/`,
               stripQueryString: true,
             },
+          },
+          {
+            resolve: `gatsby-plugin-gdpr-cookies`,
+            options: {
+              googleAnalytics: {
+                trackingId: 'G-1T5K47JBV0', // leave empty if you want to disable the tracker
+                cookieName: 'gatsby-gdpr-google-analytics', // default
+                anonymize: true, // default
+                allowAdFeatures: false // default
+              },
+              googleTagManager: {
+                trackingId: 'GTM-MSL4NQP', // leave empty if you want to disable the tracker
+                cookieName: 'gatsby-gdpr-google-tagmanager', // default
+                dataLayerName: 'dataLayer', // default,
+                routeChangeEvent:'gatsby-route-change'
+              },
+              facebookPixel: {
+                pixelId: '200151941962432', // leave empty if you want to disable the tracker
+                cookieName: 'gatsby-gdpr-facebook-pixel', // default
+              },
+              // defines the environments where the tracking should be available  - default is ["production"]
+              environments: ['production', 'development']
+            },
           }
     ]
 };
