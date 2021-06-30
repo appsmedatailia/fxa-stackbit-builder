@@ -1,8 +1,11 @@
 ---
 title: Home
 has_intro: true
-intro_content: >-
-  Learn How To Make Money Online. The Secrets To Building A Successful Business And How Leveraging Digital Marketing To Grow And To Beat Competition.
+intro_content: >
+  Learn how to leverage digital marketing and web technologies to build a successful business and grow it the right way.
+  
+  
+  Do you know why? ... Because Entrepreneurs and SMBs need to take advantage of the Internet, mobile technologies, and social networks to gain visibility, best serve their customers, and stay ahead of the competition.
 intro_actions:
   - type: action
     label: Contact
