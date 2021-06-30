@@ -32,7 +32,7 @@ seo:
         Learn How To Leverage Digital Marketing And Web Technologies To Build A Successful Online Business And Grow It The Right Way.
       keyName: property
     - name: 'og:image'
-      value: images/fxa-blog-preview.png
+      value: images/fxa-blog-preview.webp
       keyName: property
       relativeUrl: true
     - name: 'twitter:title'
@@ -41,7 +41,7 @@ seo:
       value: >-
         Learn How To Leverage Digital Marketing And Web Technologies To Build A Successful Online Business And Grow It The Right Way.
     - name: 'twitter:image'
-      value: images/fxa-blog-preview.png
+      value: images/fxa-blog-preview.webp
       relativeUrl: true
 template: home
 ---
