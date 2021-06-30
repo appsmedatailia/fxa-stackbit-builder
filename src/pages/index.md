@@ -1,11 +1,13 @@
 ---
 title: Home
 has_intro: true
-intro_content: >
-  Learn how to leverage digital marketing and web technologies to build a successful business and grow it the right way.
-  
-  
-  Do you know why? ... Because Entrepreneurs and SMBs need to take advantage of the Internet, mobile technologies, and social networks to gain visibility, best serve their customers, and stay ahead of the competition.
+intro_content: >-
+  Learn How To Leverage Digital Marketing And Web Technologies To Build A Successful Online Business And Grow It The Right Way. 
+      
+  Do You Know Why?
+      
+  Because Entrepreneurs And Smbs Need To Take Advantage Of The Internet, Mobile Technologies, And Social Networks To Gain Visibility, Best Serve Their Customers, And Stay Ahead Of The Competition.
+
 intro_actions:
   - type: action
     label: Contact
@@ -15,31 +17,29 @@ has_more_link: true
 more_link_text: Read more
 seo:
   type: stackbit_page_meta
-  title: Fennex Agency Blog
+  title: The Fennex Blog
   description: >-
-    Learn How To Make Money Online. The Secrets To Building A Successful Business And How Leveraging Digital Marketing To Grow And To Beat Competition.
+    Learn How To Leverage Digital Marketing And Web Technologies To Build A Successful Online Business And Grow It The Right Way.
   extra:
     - name: 'og:type'
       value: website
       keyName: property
     - name: 'og:title'
-      value: Fennex Agency Blog
+      value: The Fennex Blog
       keyName: property
     - name: 'og:description'
       value: >-
-        Learn How To Make Money Online. How To Build Successful Business And How
-        To Leverage Digital Marketing To Scale Up And Beat The Competition.
+        Learn How To Leverage Digital Marketing And Web Technologies To Build A Successful Online Business And Grow It The Right Way.
       keyName: property
     - name: 'og:image'
       value: images/fxa-blog-preview.png
       keyName: property
       relativeUrl: true
     - name: 'twitter:title'
-      value: Fennex Agency Blog
+      value: The Fennex Blog
     - name: 'twitter:description'
       value: >-
-        Learn How To Make Money Online. How To Build Successful Business And How
-        To Leverage Digital Marketing To Scale Up And Beat The Competition.
+        Learn How To Leverage Digital Marketing And Web Technologies To Build A Successful Online Business And Grow It The Right Way.
     - name: 'twitter:image'
       value: images/fxa-blog-preview.png
       relativeUrl: true
