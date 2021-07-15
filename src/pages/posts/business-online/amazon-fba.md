@@ -1,443 +1,306 @@
 ---
-title: Fulfillment By Amazon (fba) | How To Start A Business Online From Scratch.
+title: Fulfillment By Amazon (FBA), How To Start A Business Online
 subtitle: >-
-  Learn How Fulfillment By Amazon (FBA) Business Works, Pros, Cons, And How To
-  Leverage The Power Of Knowledge And Organization To Start A Successful Amazon
-  FBA Business. The Ultimate Guide For Entrepreneurs And Small Business Owners.
+  Learn How Fulfillment By Amazon (FBA) Business Works. The Ultimate Guide For Entrepreneurs And Small Business Owners On How To Sell Products On Amazon FBA.
 date: '2021-06-06'
 thumb_img_alt: Amazon FBA How To Start A Business Online
 content_img_alt: Amazon FBA How To Start A Business Online
 excerpt: >-
-  Learn How Fulfillment By Amazon (FBA) Business Works, Pros, Cons, And How To
-  Leverage The Power Of Knowledge And Organization To Start A Successful Amazon
-  FBA Business. The Ultimate Guide For Entrepreneurs And Small Business Owners.
+  Learn How Fulfillment By Amazon (FBA) Business Works. The Ultimate Guide For Entrepreneurs And Small Business Owners On How To Sell Products On Amazon FBA.
 seo:
   type: stackbit_page_meta
   description: >-
-    Learn How Fulfillment By Amazon (FBA) Business Works. The Ultimate Guide For
-    Entrepreneurs And Small Business Owners.
+    Learn How Fulfillment By Amazon (FBA) Business Works. The Ultimate Guide For Entrepreneurs And Small Business Owners On How To Sell Products On Amazon FBA.
   extra:
     - name: 'og:type'
       value: article
       keyName: property
     - name: 'og:title'
-      value: Fulfillment By Amazon (FBA) | How To Start A Business Online
+      value: Fulfillment By Amazon (FBA), How To Start A Business Online
       keyName: property
     - name: 'og:description'
       value: >-
-        Learn How Fulfillment By Amazon (FBA) Business Works. The Ultimate Guide
-        For Entrepreneurs And Small Business Owners.
+        Learn How Fulfillment By Amazon (FBA) Business Works. The Ultimate Guide For Entrepreneurs And Small Business Owners On How To Sell Products On Amazon FBA.
       keyName: property
     - name: 'og:image'
       value: /images/amazon-fba-how-to-start-a-business-online.webp
       keyName: property
       relativeUrl: true
-  title: Fulfillment By Amazon (FBA) | How To Start A Business Online
+  title: Fulfillment By Amazon (FBA), How To Start A Business Online
 template: post
 thumb_img_path: /images/amazon-fba-how-to-start-a-business-online.webp
 content_img_path: /images/amazon-fba-how-to-start-a-business-online.webp
 ---
-# How To Start An Amazon FBA Business From Scratch?
 
-We have all heard the saying "If you can't beat them, join them" Well, this is true. Amazon has been in the game for years and has cornered the market. That doesn't mean you have to join Amazon, instead, you can take advantage of Fulfillment by Amazon (FBA).
+[What Is Amazon FBA Business?](#what-is-amazon-fba-business)
 
-No matter what size business you're planning on starting, Amazon FBA has been a great success for many people.
+[How Does Amazon FBA Business Work?](#how-does-amazon-fba-business-work)
 
-The FBA business model has helped thousands of business owners start a profitable business online.
+[The Pros And Cons Of FBA](#the-pros-and-cons-of-fba)
 
-***To get you started with Amazon FBA and how you can sell your products, we have designed a free guide and tools that will take you from zero to hero with Amazon FBA.***
+[How Can I Get Started With Amazon FBA?](#how-can-i-get-started-with-amazon-fba)
 
-<div>
+[How To Sell On Amazon FBA Program?](#how-to-sell-on-amazon-fba-program)
+
+[Amazon FBA The Ultimate Step By Step Guide](#amazon-fba-the-ultimate-step-by-step-guide)
+
+We have all heard: “If you can’t beat them, join them” Well, this is true. Amazon has been in the game for years and has cornered the market. That doesn’t mean you have to join Amazon; instead, you can take advantage of Fulfillment by Amazon (FBA).
+
+No matter what size business you’re planning on starting, Amazon FBA has been a great success for many people.
+
+The FBA business model has helped thousands of business owners start profitable businesses online.
+
+**_To get you started with Amazon FBA and how you can sell your products, we have designed a free guide and tools that will take you from zero to hero with Amazon FBA._**
+
+<p>
   <script async data-uid="a5b571f857" src="https://blog-fennex-agency.ck.page/a5b571f857/index.js"></script>
-</div>
+</p>
 
-## What Is Amazon FBA?
+<h2 id="what-is-amazon-fba-business">What Is Amazon FBA Business?</h2>
 
 FBA, or Fulfillment By Amazon, is a service offered by Amazon that allows sellers to simplify their order fulfillment and shipping processes.
 
-If you're wondering what fulfillment is, it's the method of storing, packaging, and delivering orders, as well as dealing with returns and exchanges.
+If you’re wondering what fulfillment is, it’s the method of storing, packaging, and delivering orders, as well as dealing with returns and exchanges.
 
-FBA helps you sell your products on Amazon by sending them to Amazon fulfillment centers, which pick, pack, and ship your products as well as handle customer service.
+FBA helps you sell your products on Amazon. You send them to Amazon fulfillment centers, which pick, pack, and ship your products. FBA also handles customer service, which is an enormous advantage.
 
-## How Does Amazon FBA Work? What Is The Business Model?
+<h2 id="how-does-amazon-fba-business-work">How Does Amazon FBA Business Work?</h2>
 
-Amazon FBA is a business where you sell items through Amazon for a fee.
-
-It is a profitable business model because the revenue generated by selling an item on Amazon is higher than what you spend to sell that item.
+Amazon FBA is a business where you sell items through Amazon for a fee. It is a profitable business model because the revenue generated by selling an item on Amazon is higher than what you spend to sell that item.
 
 The detailed business model may seem complex, but its simplest version is:
 
-***Your profit is equal to the revenue generated by the sum of the sales of your products minus the fees collected by Amazon for fulfillment handling.***
+**_Your profit is equal to the revenue generated by the sum of the sales of your products minus the fees collected by Amazon for fulfillment handling._**
 
 We will discuss all the parameters that could affect the business model later.
 
-## The Pros And Cons Of FBA
+<h2 id="the-pros-and-cons-of-fba">The Pros And Cons Of FBA</h2>
 
-### Pros
+### FBA Pros
 
-Amazon is one of the most recognized brands in the world. It’s not just a retailer, but a technology company that helps customers buy things they want when they want, and then ship them right to their door.
+Amazon is one of the most recognized brands in the world. Amazon is a retailer that helps you buy what you want, when you want, and have it shipped to your house.
 
-Using FBA will help you save money and free up time, and make your goods available to a worldwide audience.
+Using FBA will help you save time and cash. FBA makes your goods available to a worldwide audience.
 
-With Amazon handling all the complicated and boring aspects of doing business online, you can focus on your business.
+With Amazon handling all the complicated and tedious aspects of doing business online, you can focus on your business.
 
-*   **Shipping and Logistics**: You won't have to worry about stocks as long as you keep track of the listings.
-
+*   **Shipping and Logistics**: You won’t have to worry about stocks as long as you keep track of the listings.
 *   **Return Management**: besides sales, FBA handles returns.
+*   **Customer Service Management**: Amazon provides its customer service for FBA sellers.
+*   **More Storage Space**: Thanks to Amazon’s vast warehouse network, you have essentially unlimited storage space at your disposal.
 
-*   Customer Service Management: Amazon provides its customer service for FBA sellers.
-
-*   **More Storage Space**: Thanks to Amazon's large warehouse network, you have essentially unlimited storage space at your disposal.
-
-### Cons
+### FBA Cons
 
 FBA might not be the right solution for your needs. Here are some factors to consider.
 
-*   **Cost**: FBA is an excellent service, but it is not free. Because of the way amazon (FBA fee) fees are calculated, this service is less suited to low-cost things, so you'll want to choose your products carefully.
+*   **Cost**: FBA is an excellent service, but it is not free. Because of how Amazon calculates fees (FBA fee), this service is less suited to low-cost things, so you’ll want to choose your products carefully.
+*   **More Returns**: This may result from Amazon’s open return policy.
+*   **Long-Term Storage Fees**: Items left in storage for a lengthy period cost more.
+*   **Product Prep Requirements**: Before you send your products to Amazon, you need to ensure that you have prepared them according to FBA requirements.
+*   **Amazon FBA Fee Payment**: You cannot use the next sale to pay for the previous sale. Before they made any payments to you, Amazon will deduct any amounts owed to it. To cover fees, you need a sufficient balance.
 
-*   **More Returns**: This may result from Amazon's open return policy.
-
-*   **Long-Term Storage Fees**: Items left in storage for a long period cost more.
-
-*   **Product Prep Requirements**: Before you send your products to Amazon, you need to ensure that they are prepared according to FBA requirements.
-
-*   **Amazon FBA Fee Payment**: You cannot use the next sale to pay for the previous sale. Amounts owed to Amazon will be deducted before any payments are made to you. To cover fees, you need a sufficient balance.
-
-For Amazon (FBA fee) fees, see[ ](https://sellercentral.amazon.com/hz/fba/profitabilitycalculator/index?lang=en_US)[Amazon FBA Fees Calculator](https://sellercentral.amazon.com/hz/fba/profitabilitycalculator/index?lang=en_US).
-
-## How Can I Get Started With Amazon FBA?
+<h2 id="how-can-i-get-started-with-amazon-fba">How Can I Get Started With Amazon FBA?</h2>
 
 Getting started with Amazon FBA Programs is very simple if you have your product ready to sell.
 
-You start by creating an Amazon Seller Account and activate FBA into it. Then create your product listing.
+You start by set up an Amazon Seller Account and activate FBA into it. After that, you create your product listing and select the fulfillment center that will manage your products. Finally, you send and track your shipment.
 
-After that, you create your product listing and select the fulfillment center you want to go with.
+That’s it! you now can get your first sale!
 
-Finally, you send and track your shipment.
+**_... Wait, is it as simple as that? ... unfortunately, no!_**
 
-That's it, now you can get your first sale!
-
-***... Wait, is it as simple as that? ... Unfortunately, no!***
-
-As with any business, the process is not as straightforward as it seems to be.
-
-To be successful with Amazon FBA Business, you need to work hard and smart before you get your first sale.
-
-But with focused knowledge and organization, you'll be on your way to success.
+As with any business, the process is not as straightforward as it seems to be. To be successful with Amazon FBA Business, you need to work hard and smart. But with focused knowledge and organization, you’ll be on your way to success.
 
 To help you with that, we get you helpful tools to go from zero to hero with FBA.
 
-## How To Sell On Amazon FBA Program?
+<h2 id="how-to-sell-on-amazon-fba-program">How To Sell On Amazon FBA Program?</h2>
 
-Every step in the Ultimate Guide above is a small action to take in your journey as an FBA business owner.
+Every step in the Ultimate Guide above is a small action to take in your journey as an FBA business owner. Don’t let the number of steps intimidate you. They are micro-actions, which means you haven’t to overwhelm your process.
 
-Don't be intimidated by the number of steps, they are micro-actions, which means you haven't to overwhelm your process.
+To make the process simpler, we divide the checklist into milestones and tasks. If you have ever worked with a project management system, you can consider the FBA adventure like a project. You set your goals, milestones, and tasks to achieve.
 
-To make the process simpler, we divide the checklist into milestones and tasks.
+We aimed to keep the guide as simple as possible to take action rapidly and not get into the analysis paralysis. For a better understanding, each milestone of the guide will be a subject of a blog post.
 
-If you have ever worked with a project management system, you can consider the FBA adventure like a project. You set your goals, milestones, and tasks to achieve.
+<h2 id="amazon-fba-the-ultimate-step-by-step-guide">Amazon FBA The Ultimate Step By Step Guide</h2>
 
-We aimed to keep the guide as simple as possible so that you can take action rapidly and not get into the analysis paralysis.
+### Milestone 1: [Niche Market Research](https://blog.fennex.agency/posts/business-online/profitable-niche-market-business/)
 
-For a better understanding, each milestone of the guide will be a subject of a blog post.
+*   _Niche Market Brainstorming_: to identify hobbies, passions, trends, and lifestyles
+*   _Niche Audience Brainstorming_: to identify who belongs to your niche
+*   _Problem and Solution Brainstorming_: to identify your audience's needs.
+*   _Keyword Validation_: to make sure that the niche you choose has a substantial demand.
+*   _Competition Analysis_: to see if you can compete in that niche market.
 
-## Amazon FBA The Ultimate Step By Step Guide.
+Here is a detailed guide on [How To Do Niche Market Research](https://blog.fennex.agency/posts/business-online/profitable-niche-market-business/).
 
-### Milestone 1: Niche Brainstorming
+<p>
+<a href="https://blog-fennex-agency.ck.page/niche-market-research-finding-profitable-niche-businesses">
+<img
+    src="/images/Download - eBook 9 Steps To Find Profitable Niche Business.webp"
+    alt="Subscribe and Get the Ebook - Niche Market Research"/>
+</a>
+</p>
 
-*   Go to the Amazon website and expand the categories, subcategories, and subcategories.
-*   Compile a list of all the niches that interest/attract you.      
-*   Groupe the niches into two types: audience niches and product niches.            
-*   Groupe niches in 4 categories: Passion vs Lifestyle vs Problem vs Others.           
-*   Eliminate Mass Market categories.           
-*   Eliminate market categories with very low growth potential.           
-*   Select your Top 10 niches
+### Milestone 2: Amazon Product Research ([Brainstorm Product Ideas](https://blog.fennex.agency/business-online/amazon-product-research/#amazon-seller-product-research-the-ultimate-guide))
 
-***The ideal niche is an audience niche that serves a passion, lifestyle, or  customer problem. It is a specialized market (opposite of a mass market) with real growth potential.***
+*   Set Amazon Product Research Criteria
+*   Generate Your Product List Idea
+*   Gather product data
+*   Do 1-week Tracking (optional)
+*   Compare products to identify potential opportunities
 
-### Milestone 2: Product Research (Products To Sell On Amazon FBA)
+### Milestone 3: Amazon Product Research ([Identify the winning products](https://blog.fennex.agency/business-online/amazon-product-research/#amazon-seller-product-research-the-ultimate-guide))
 
-*   Set Goals:
+*   Find Your Suppliers
+*   Differentiate Your Product
+*   Analyze The Competition
+*   Check Estimated ROI (Return On Investment)
 
-*   Number of products to pre-select (target 50 ).
+Here is a detailed guide on [How To Do Amazon Product Research](https://blog.fennex.agency/business-online/amazon-product-research/).
 
-*   Price range (avoid low ticket price products).
-
-*   Size (avoid oversized products).
-
-*   Weight (avoid heavy products).
-
-*   Demand and revenue.
-
-*   Competition.
-
-*   Search products.
-
-*   Do 1-week Tracking:
-
-*   Check Sales Figures (the 999 Cart Method).
-
-*   Check best seller rank (BSR).
-
- 
-
-### Milestone 3: Product Research | Top 5 Selection Of Amazon FBA Products
-
-*   Search on Alibaba estimated MOQ (Minimum Order Quantity) and Item Cost.
-
-*   Look for the product issues to improve.
-
-*   Look For Bundling Options.
-
-*   Check estimated ROI (Return On Investment) at least 100undefined Profit Margin.
-
-<div>
+<p>
   <script async data-uid="a5b571f857" src="https://blog-fennex-agency.ck.page/a5b571f857/index.js"></script>
-</div>
+</p>
 
-### Milestone 4: Sourcing Top 5 | 1st Stage
+### Milestone 4: Sourcing Top 5 Products
 
 *   Send Initial RFQ (Request for quotation).
-
 *   Build Rapports.
-
 *   Select 3 Best Suppliers.
-
 *   Search for FAB Fees.
-
 *   Search for Duties% (need HTS CODE).
-
-*   Calculate Landing Cost, LC = ((FOB + Shipping + Insurance) \* Duties%).
-
+*   Calculate Landing Cost, LC = ( (FOB + Shipping + Insurance) \* Duties%).
 *   Calculate Profit, P = (Est. Sale Price - Landing Cost).
+*   Select the Top 1 product To continue with it.
 
-*   Select the Top Product To Go With.
-
- 
-
-### Milestone 5: Sourcing Top 1 | 2nd Stage
+### Milestone 5: Sourcing Top 1 Product
 
 *   Request Samples.
-
 *   Ask Top Suppliers about the product design specifications.
-
 *   Ask Top Suppliers about the product testing certificates.
 
- 
-
-***… While waiting for the samples***
-
-***
+**_… While waiting for the samples_**
 
 ### Milestone 6: Branding | Brainstorming
 
 *   Find a Niche Brand Name (open-ended name).
-
 *   Find a Product (Brand) Name.
-
 *   Start Planning Packaging ASAP,
-
 *   Packaging Requirements.
-
 *   Customizing Product Packaging.
-
- 
 
 ### Milestone 7: Build Relationship
 
 *   Communicate with suppliers.
-
 *   Order competitor products (optional).
-
 *   Form relationships with shipping & inspection companies.
 
- 
-
-***… When the samples arrive***
-
-***
+**_… When the samples arrive_**
 
 ### Milestone 8: Product Validation (FBA Amazon Fees And Profits)
 
 *   Inspect package, stress test product, etc.
-
 *   Choose Final Supplier.
-
 *   Get Formal Quote.
-
-*   Calculate Landing Cost, LC = ((FOB + Shipping + Insurance) \* Duties%).
-
+*   Calculate Landing Cost, LC = ( (FOB + Shipping + Insurance) \* Duties%).
 *   Calculate Amazon FBA Fees
-
 *   Calculate Profit, P = (Est. Sale Price - Landing Cost).
-
-*   Is The Final Product & Profit Are Okay To Go With?
-
+*   Is The Final Product & Profit Are Okay?
 *   If so, get a Barcode (EAN).
-
 *   Else, repeat from Milestone 4 with the next product on your Top 5 list.
-
- 
 
 ### Milestone 9: Company Formation
 
 *   Set up the Company.
-
 *   Set up the Company Bank Account.
-
 *   Get Accountant.
-
 *   Research Product Liability Insurance.
-
 *   Get EORI Number.
 
- 
-
-### Milestone 10: Amazon FBA (US, UK, EUR) Account Set Up
+### Milestone 10: Amazon FBA (US, UK, EUR) Account Set-Up
 
 *   Set up an Amazon Seller Account.
-
 *   Add FBA to your account.
-
 *   Create a Basic Product Listing.
-
 *   Get FNSKU.
-
- 
 
 ### Milestone 11: Branding | Realization
 
 *   Contact Designer & Have Logo.
-
 *   Contact Designer & Have package designed.
-
-*   Register Domain and Setup Website.
-
- 
+*   Register Domain and Set-up Website.
 
 ### Milestone 12: Ordering
 
 *   Create a Master Budget.
-
 *   Get a 30/70 Payment Plan.
-
 *   Select Supplier Inspection.
-
 *   Send Payment.
-
 *   Send Logo & Package Design (with EAN & FNSKU).
 
- 
-
-***… When production starts***
-
-***
+**_… When production starts_**
 
 ### Milestone 13: Listing Creation
 
 *   Get Photos.
-
 *   Get Graphic Designed Photos.
-
 *   Reverse ASIN Search.
-
 *   Keyword Research.
-
 *   Get Optimized Title.
-
 *   Get Optimized Description.
-
 *   Get Optimized Bullet Points.
-
 *   Get Optimized Backend Keywords.
-
 *   Create Listing.
-
- 
 
 ### Milestone 14: Launch Preparation
 
 *   Create Amazon PPC Automatic Campaign.
-
 *   Create Amazon PPC Manual Campaign.
-
 *   Set Up Auto-Responder.
-
 *   Create Coupon Code Campaign (search 3rd party services).
 
- 
-
-***… When production ends***
-
-***
+**_… When production ends_**
 
 ### Milestone 15: Shipping Plan
 
 *   Confirm End Of Production.
-
 *   Get Shipment Dimensions From Supplier.
-
 *   Create Shipping Plan in Amazon Seller Account.
-
 *   Print Labels & Send to Supplier.
-
 *   Request Product Inspection (inspection company from milestone 7).
-
 *   Request Tracking ID #.
-
 *   Pay Customs Duty and VAT Upon Arrivals.
-
 *   Wait For Amazon To Receive Delivery.
 
- 
-
-***… When shipment received by Amazon warehouse***
-
-***
+**_… When shipment received by Amazon warehouse_**
 
 ### Milestone 16: Launching
 
 *   Turn on PPC Campaigns.
-
 *   Turn on 3rd party Campaigns (coupon code, discounts & others).
-
 *   Monitor BSR Rankings.
-
- 
 
 ### Milestone 17: Optimization
 
 *   Wait 1-2 weeks for data.
-
 *   Pull Search Term Report after Launch.
-
-*   Delete Keywords that don't Make Money.
-
+*   Delete Keywords that don’t Make Money.
 *   Create a New Manual Campaign.
-
 *   Optimize PPC Campaigns.
-
- 
 
 ### Milestone 18: Maintenance & Inventory
 
 *   Track Customer Reviews.
-
 *   Track Inventory.
-
 *   Track Profits.
-
 *   Scale PPC.
-
 *   Use Social Media For Added Exposure.
-
 *   Continue Optimizing Product Page.
 
+**_P.S. the guide above is worth a dozen of the best Amazon FBA Training & Courses._**
 
-***P.S. the guide above is worth a dozen of the best Amazon FBA Training & Courses***
-
-<div id="ck-form">
+<p>
   <script async data-uid="a5b571f857" src="https://blog-fennex-agency.ck.page/a5b571f857/index.js"></script>
-</div> 
+</p>
 
 <script async data-uid="d6d455881a" src="https://blog-fennex-agency.ck.page/d6d455881a/index.js"></script>
