@@ -31,10 +31,17 @@ template: post
 thumb_img_path: /images/niche-markets.webp
 content_img_path: /images/niche-markets.webp
 ---
-There are many ways to find new products to sell online, from keyword research to exploring Amazon product categories. But where do you start? How do you find niche products that aren't saturated with sellers yet? How can you find a profitable niche that you can build a business with?
+There are many ways to find new products to sell online, from keyword research to exploring Amazon product categories. 
 
-Techniques You Will Learn In This Course
-----------------------------------------
+But where do you start? How do you find niche products that aren't saturated with sellers yet? How can you find a profitable niche that you can build a business with?
+
+If you're asking these questions, then you’re in the right place.
+
+Today I’m going to show you  proven strategies and techniques that you can use to find your niche.
+
+Let’s do this!
+
+And here are the tactics you’ll learn about in this post.
 
 *   Generating niche market ideas.
 *   Conducting market research.
