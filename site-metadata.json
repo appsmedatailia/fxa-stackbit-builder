@@ -62,6 +62,20 @@
                 "new_window": true
             }
         ],
+        "links": [
+            {
+                "type": "action",
+                "label": "Privacy Policy",
+                "url": "/privacy-policy/",
+                "new_window": true
+            },
+            {
+                "type": "action",
+                "label": "Affiliate Disclaimer",
+                "url": "/affiliate-disclaimer/",
+                "new_window": true
+            }
+        ],
         "has_subscribe": true,
         "subscribe_title": "",
         "subscribe_content": "",
