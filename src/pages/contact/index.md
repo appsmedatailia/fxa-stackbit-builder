@@ -1,7 +1,7 @@
 ---
 img_path: /images/get-in-touch.webp
 form_id: contactForm
-form_action: /contact-success
+form_action: /contact/contact-success
 form_fields:
   - type: form_field
     input_type: text

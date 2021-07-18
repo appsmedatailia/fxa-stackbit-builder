@@ -36,12 +36,37 @@ module.exports = {
                 pageContextProperty: `menus`,
             }
         },
-        'gatsby-plugin-robots-txt',
+        {
+          resolve: 'gatsby-plugin-robots-txt',
+          options: {
+            policy: [
+              {
+                userAgent: "*",
+                disallow: [
+                  "/admin/",
+                  "/downloads/",
+                  "/email-optin-confirmed/",
+                  "/contact/",
+                  "/policies/"
+                ]                
+              }
+            ]
+          }
+        },
         {
             resolve: "gatsby-plugin-sitemap",
             options: {
 
-                excludes: ['/confirm-email-optin/','/contact-success/','/subscribe-success/','/email-optin-confirmed/fba-guide-and-product-research-tools/'],
+                excludes: [
+                '/contact/confirm-email-optin/',
+                '/contact/contact-success/',
+                '/contact/subscribe-success/',
+                '/email-optin-confirmed/fba-guide-and-product-research-tools/',
+                '/email-optin-confirmed/niche-market-research-finding-profitable-niche-businesses/',
+                '/policies/affiliate-disclaimer/',
+                '/policies/privacy-policy/',
+                '/policies/disclaimer/'
+              ],
                 serialize: ({ path, modifiedGmt }) => {
                     return {
                     url: path,

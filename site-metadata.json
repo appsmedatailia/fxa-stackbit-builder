@@ -66,13 +66,13 @@
             {
                 "type": "action",
                 "label": "Privacy Policy",
-                "url": "/privacy-policy/",
+                "url": "/policies/privacy-policy/",
                 "new_window": true
             },
             {
                 "type": "action",
-                "label": "Affiliate Disclaimer",
-                "url": "/affiliate-disclaimer/",
+                "label": "Disclaimer",
+                "url": "/policies/disclaimer/",
                 "new_window": true
             }
         ],
