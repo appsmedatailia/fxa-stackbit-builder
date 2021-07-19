@@ -40,9 +40,6 @@ export default class Body extends React.Component {
                     {_.get(this.props, 'pageContext.site.siteMetadata.favicon', null) && (
                     <link rel="icon" href={withPrefix(_.get(this.props, 'pageContext.site.siteMetadata.favicon', null))}/>
                     )}
-
-                    <script id="cookieyes" src="https://cdn-cookieyes.com/client_data/d38b3cf7633aad94bc76be41.js"></script>
-                 
                  </Helmet>
                   <div id="page" className={'site layout-' + _.get(this.props, 'pageContext.site.siteMetadata.layout_style', null) + ' palette-' + _.get(this.props, 'pageContext.site.siteMetadata.palette', null)}>
                     <Header {...this.props} />
