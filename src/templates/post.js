@@ -6,6 +6,8 @@ import {graphql} from 'gatsby';
 import {Layout} from '../components/index';
 import {htmlToReact, withPrefix} from '../utils';
 
+import { Disqus } from 'gatsby-plugin-disqus';
+
 // this minimal GraphQL query ensures that when 'gatsby develop' is running,
 // any changes to content files are reflected in browser
 export const query = graphql`
@@ -42,6 +44,11 @@ export default class Post extends React.Component {
                   {htmlToReact(_.get(this.props, 'pageContext.html', null))}
                 </div>
               </article>
+              <Disqus 
+                identifier= {withPrefix(_.get(this.props, 'path', null))}
+                title={_.get(this.props, 'pageContext.frontmatter.title', null)}
+                url={(_.trim(_.get(this.props, 'pageContext.site.siteMetadata.siteUrl', null), '/') + withPrefix(_.get(this.props, 'path', null)))}
+              />
             </Layout>
         );
     }

@@ -92,6 +92,20 @@ module.exports = {
                 routeChangeEvent:'gatsby-route-change'
               }
             },
+          },
+          {
+            resolve: "gatsby-plugin-social9-socialshare",
+            options: {
+              content:  "7099548b08024e37ab8b1e77e0b15348",
+              async: true,
+              defer: true
+            }
+          },
+          {
+            resolve: `gatsby-plugin-disqus`,
+            options: {
+                shortname: `fennex-blog`
+            }
           }
     ]
 };
