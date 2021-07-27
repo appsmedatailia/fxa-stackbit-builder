@@ -361,14 +361,14 @@ Keyword research volumes will be available too, which will help you find highly 
 
 Thus, you will have access to everything you need to find the right product.
 
-1.  Jungle Scout Amazon Product Research Tool
+1.  [Jungle Scout Amazon Product Research Tool](/posts/business-online/amazon-fba/jungle-scout-review/) 
 2.  Helium Amazon Product Research Tool
 3.  SellerApp Amazon Product Research Tool
 4.  IO Scout Amazon Product Research Tool
-5.  Viral Launch Amazon Product Research Tool
-6.  AMZScout Amazon Product Research Tool
+5.  [Viral Launch Amazon Product Research Tool](https://affiliates.viral-launch.com/idevaffiliate.php?id=3280)
+6.  [AMZScout Amazon Product Research Tool](https://amzscout.idevaffiliate.com/idevaffiliate.php?id=1272)
 7.  AmazeOwl Amazon Product Research Tool
-8.  Cash Cow Pro Amazon Product Research Tool
+8.  [Cash Cow Pro Amazon Product Research Tool](https://www.cashcowpro.com/?a_aid=60f301c0ca5e4)
 
 <p>
   <script async data-uid="a5b571f857" src="https://blog-fennex-agency.ck.page/a5b571f857/index.js"></script>
