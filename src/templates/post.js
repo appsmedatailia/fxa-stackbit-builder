@@ -20,6 +20,11 @@ export const query = graphql`
 
 export default class Post extends React.Component {
     render() {
+        const disqusConfig = {
+          url: _.trim(_.get(this.props, 'pageContext.site.siteMetadata.siteUrl', null), '/') + withPrefix(_.get(this.props, 'path', null)),
+          identifier: _.get(this.props, 'path', null),
+          title: _.get(this.props, 'pageContext.frontmatter.title', null),
+        };
         return (
             <Layout {...this.props}>
               <article className="post post-full">
@@ -44,11 +49,13 @@ export default class Post extends React.Component {
                   {htmlToReact(_.get(this.props, 'pageContext.html', null))}
                 </div>
               </article>
-              <Disqus 
-                identifier= {withPrefix(_.get(this.props, 'path', null))}
-                title={_.get(this.props, 'pageContext.frontmatter.title', null)}
-                url={(_.trim(_.get(this.props, 'pageContext.site.siteMetadata.siteUrl', null), '/') + withPrefix(_.get(this.props, 'path', null)))}
-              />
+
+              <div>
+                test
+                {_.get(this.props, 'path', null)}
+                {_.get(this.props, 'pageContext.site.siteMetadata.siteUrl', null)}
+              </div>
+              <Disqus config={disqusConfig} />
             </Layout>
         );
     }

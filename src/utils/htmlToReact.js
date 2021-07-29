@@ -20,7 +20,7 @@ export default function htmlToReact(html) {
                         </ScriptTag>
                     );
                 } else {
-                    return <ScriptTag key={index} {...node.attribs}/>;
+                    return <ScriptTag key={index} />;
                 }
             } else if (node.type === 'tag' && node.name === 'a') {
                 const href = node.attribs.href;

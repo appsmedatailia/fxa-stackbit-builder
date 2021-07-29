@@ -83,6 +83,7 @@
         "has_embedded_form": true,
         "embedded_form":"<script async data-uid=\"b3d830d40c\" src=\"https://blog-fennex-agency.ck.page/b3d830d40c/index.js\"></script>"
     },
-    "domain": "https://blog-fennex-agency.netlify.app",
+    "domain": "https://blog.fennex.agency/",
+    "favicon": "/images/favicon-32x32.png",
     "title": "Fennex Agency Blog"
 }
