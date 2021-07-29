@@ -49,12 +49,6 @@ export default class Post extends React.Component {
                   {htmlToReact(_.get(this.props, 'pageContext.html', null))}
                 </div>
               </article>
-
-              <div>
-                test
-                {_.get(this.props, 'path', null)}
-                {_.get(this.props, 'pageContext.site.siteMetadata.siteUrl', null)}
-              </div>
               <Disqus config={disqusConfig} />
             </Layout>
         );
