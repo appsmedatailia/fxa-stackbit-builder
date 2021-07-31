@@ -81,7 +81,7 @@ Before we talk about niche markets and niche products, you need to understand wh
 
 <h2 id="what-is-a-market">What Is A Market?</h2>
 
-If you do some web research, you can find multiple definitions of that. To keep things simple, we have selected for you a simple definition that relates to our context; doing business online by selling products and services on [Amazon FBA](https://blog.fennex.agency/posts/business-online/amazon-fba/).
+If you do some web research, you can find multiple definitions of that. To keep things simple, we have selected for you a simple definition that relates to our context; doing business online by selling products and services on [Amazon FBA](/posts/business-online/amazon-fba/the-definitive-guide/).
 
 A market is a group of people (customers and potential customers) with the same or similar needs.
 
@@ -101,7 +101,7 @@ Family riverside Camping and Wild mountain camping are even more specific sub-ni
 
 Niche Market Research is looking for profitable niche ideas with low competition; Then, select profitable products (niche products) that match the needs of the niche segment (the customer).
 
-You want to find the niche needs you can help with, and introduce your niche customers to beneficial solutions that you sell to them via [Amazon FBA](https://blog.fennex.agency/posts/business-online/amazon-fba/), eCommerce, dropshipping, or affiliate marketing.
+You want to find the niche needs you can help with, and introduce your niche customers to beneficial solutions that you sell to them via [Amazon FBA](/posts/business-online/amazon-fba/the-definitive-guide/), eCommerce, dropshipping, or affiliate marketing.
 
 <h2 id="why-do-you-need-to-do-niche-market-research">Why Do You Need To Do Niche Market Research?</h2>
 
@@ -184,7 +184,7 @@ Or, find a promising niche market and then master it through growing your market
 
 <h2 id="how-to-find-profitable-niches">How to Find Profitable Niches</h2>
 
-The following niche market research guide is the first millstone of a bigger workflow on [how to start an Amazon FBA business](https://blog.fennex.agency/posts/business-online/amazon-fba/). View it [here](https://blog.fennex.agency/posts/business-online/amazon-fba/) if you didn’t read the article yet.
+The following niche market research guide is the first millstone of a bigger workflow on [how to start an Amazon FBA business](/posts/business-online/amazon-fba/the-definitive-guide/). View it [here](/posts/business-online/amazon-fba/the-definitive-guide/) if you didn’t read the article yet.
 
 There are 5 steps to find a profitable niches:
 
@@ -255,11 +255,11 @@ You must consider the competitive landscape in a niche even when you know the to
 Conclusion
 ----------
 
-It is common to ask: what product should I choose when setting up an [Amazon FBA](https://blog.fennex.agency/posts/business-online/amazon-fba/) business or any other online business, including eCommerce, dropshipping, or affiliate marketing?
+It is common to ask: what product should I choose when setting up an [Amazon FBA](/posts/business-online/amazon-fba/the-definitive-guide/) business or any other online business, including eCommerce, dropshipping, or affiliate marketing?
 
 The answer is quite simple; you need to choose a profitable product. However, you are asking the wrong question!
 
-Having a long-term business strategy is essential if you want your business to succeed. So the right question would be: “[How Can I Find Profitable Niche Businesses?](https://blog.fennex.agency/posts/business-online/profitable-niche-market-business/)”.
+Having a long-term business strategy is essential if you want your business to succeed. So the right question would be: “[How Can I Find Profitable Niche Businesses?](/posts/business-online/amazon-fba/niche-market-research-how-to-find-profitable-business/)”.
 
 A successful online selling strategy involves building a brand. Today, being a brand means being in a market where you know exactly who your customers are and what they need. Therefore, identifying a niche market is the first step towards building a successful brand.
 

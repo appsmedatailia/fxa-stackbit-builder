@@ -7,8 +7,8 @@ Click the link below to claim your guide: “FBA Guide + FREE FBA Product Resear
 
 Even more awesome stuff is waiting for you in the future (and We cannot wait to share it with you).
 
-[DOWNLOAD - FBA Guide + FREE FBA Product Research Tools](https://blog.fennex.agency/downloads/fba-guide-and-product-research-tools.xlsx)
+[DOWNLOAD - FBA Guide + FREE FBA Product Research Tools](/downloads/fba-guide-and-product-research-tools.xlsx)
 
 
 
-[Fennex Blog Team](https://blog.fennex.agency/contact)
+[Fennex Blog Team](/contact)

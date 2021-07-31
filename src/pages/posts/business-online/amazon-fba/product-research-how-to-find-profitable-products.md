@@ -40,7 +40,7 @@ How do you select the right product? Here where things get complicated.
 
 Choosing the right product is no simple task. In this blog, we show you how to do amazon product research the right way. Within the amazon product research guide, you learn how to use the best Amazon seller research tools available for product research to simplify the process and get accurate data to make the right decision.
 
-Before we dig deeper, you need to know what are niche markets and niche products. See our blog [How To Do Niche Market Research To Find Profitable Niche Businesses](https://blog.fennex.agency/posts/business-online/profitable-niche-market-business/) for further information.
+Before we dig deeper, you need to know what are niche markets and niche products. See our blog [How To Do Niche Market Research To Find Profitable Niche Businesses](/posts/business-online/amazon-fba/niche-market-research-how-to-find-profitable-business/) for further information.
 
 [What Is Amazon FBA Product Research?](#what-is-amazon-fba-product-research)
 
@@ -107,11 +107,11 @@ Tasks are micro-actions that you should plan and limit in time so as not to over
 
 <h2 id="amazon-seller-product-research-the-ultimate-guide">Amazon Seller Product Research The Ultimate Guide</h2>
 
-The following Amazon FBA product research guide is part of a general workflow on [how to start an Amazon FBA business](https://blog.fennex.agency/posts/business-online/amazon-fba/). View it here if you didn’t read the article yet.
+The following Amazon FBA product research guide is part of a general workflow on [how to start an Amazon FBA business](/posts/business-online/amazon-fba/the-definitive-guide/). View it here if you didn’t read the article yet.
 
-We assume you have done your [niche market research](https://blog.fennex.agency/posts/business-online/profitable-niche-market-business/) and found a good niche audience. Doing so will provide you with a starting point for the investigation of niche products.
+We assume you have done your [niche market research](/posts/business-online/amazon-fba/niche-market-research-how-to-find-profitable-business/) and found a good niche audience. Doing so will provide you with a starting point for the investigation of niche products.
 
-Our product research process will comprise two millstones ([#2 and #3 from the main FBA workflow)](https://blog.fennex.agency/posts/business-online/amazon-fba/). And the goal is to pre-select about 50 products then analyze them above multiple criteria to filter the top 5 product opportunities.
+Our product research process will comprise two millstones ([#2 and #3 from the main FBA workflow)](/posts/business-online/amazon-fba/the-definitive-guide/). And the goal is to pre-select about 50 products then analyze them above multiple criteria to filter the top 5 product opportunities.
 
 ### **Brainstorm Product Ideas (Milestone #2 of the FBA Biz Workflow)**
 
@@ -361,14 +361,14 @@ Keyword research volumes will be available too, which will help you find highly 
 
 Thus, you will have access to everything you need to find the right product.
 
-1.  [Jungle Scout Amazon Product Research Tool](/posts/business-online/amazon-fba/jungle-scout-review/) 
+1.  [Jungle Scout Amazon Product Research Tool](/posts/business-online/amazon-fba/tools/jungle-scout-review/) 
 2.  Helium Amazon Product Research Tool
 3.  SellerApp Amazon Product Research Tool
 4.  IO Scout Amazon Product Research Tool
 5.  [Viral Launch Amazon Product Research Tool](https://affiliates.viral-launch.com/idevaffiliate.php?id=3280)
 6.  [AMZScout Amazon Product Research Tool](https://amzscout.idevaffiliate.com/idevaffiliate.php?id=1272)
 7.  AmazeOwl Amazon Product Research Tool
-8.  [Cash Cow Pro Amazon Product Research Tool](https://www.cashcowpro.com/?a_aid=60f301c0ca5e4)
+8.  [Cash Cow Pro Amazon Product Research Tool](/tools/amazon-fba-product-research/cashcowpro-amazon-product-research-tool/)
 
 <p>
   <script async data-uid="a5b571f857" src="https://blog-fennex-agency.ck.page/a5b571f857/index.js"></script>

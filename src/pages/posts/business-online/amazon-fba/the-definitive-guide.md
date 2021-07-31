@@ -127,7 +127,7 @@ We aimed to keep the guide as simple as possible to take action rapidly and not 
 
 <h2 id="amazon-fba-the-ultimate-step-by-step-guide">Amazon FBA The Ultimate Step By Step Guide</h2>
 
-### Milestone 1: [Niche Market Research](https://blog.fennex.agency/posts/business-online/profitable-niche-market-business/)
+### Milestone 1: [Niche Market Research](/posts/business-online/amazon-fba/niche-market-research-how-to-find-profitable-business/)
 
 *   _Niche Market Brainstorming_: to identify hobbies, passions, trends, and lifestyles
 *   _Niche Audience Brainstorming_: to identify who belongs to your niche
@@ -135,7 +135,7 @@ We aimed to keep the guide as simple as possible to take action rapidly and not 
 *   _Keyword Validation_: to make sure that the niche you choose has a substantial demand.
 *   _Competition Analysis_: to see if you can compete in that niche market.
 
-Here is a detailed guide on [How To Do Niche Market Research](https://blog.fennex.agency/posts/business-online/profitable-niche-market-business/).
+Here is a detailed guide on [How To Do Niche Market Research](/posts/business-online/amazon-fba/niche-market-research-how-to-find-profitable-business/).
 
 <p>
 <a href="https://blog-fennex-agency.ck.page/niche-market-research-finding-profitable-niche-businesses">
@@ -145,7 +145,7 @@ Here is a detailed guide on [How To Do Niche Market Research](https://blog.fenne
 </a>
 </p>
 
-### Milestone 2: Amazon Product Research ([Brainstorm Product Ideas](https://blog.fennex.agency/posts/business-online/amazon-product-research/#amazon-seller-product-research-the-ultimate-guide))
+### Milestone 2: Amazon Product Research ([Brainstorm Product Ideas](/posts/business-online/amazon-fba/product-research-how-to-find-profitable-products/#amazon-seller-product-research-the-ultimate-guide))
 
 *   Set Amazon Product Research Criteria
 *   Generate Your Product List Idea
@@ -153,14 +153,14 @@ Here is a detailed guide on [How To Do Niche Market Research](https://blog.fenne
 *   Do 1-week Tracking (optional)
 *   Compare products to identify potential opportunities
 
-### Milestone 3: Amazon Product Research ([Identify the winning products](https://blog.fennex.agency/posts/business-online/amazon-product-research/#amazon-seller-product-research-the-ultimate-guide))
+### Milestone 3: Amazon Product Research ([Identify the winning products](/posts/business-online/amazon-fba/product-research-how-to-find-profitable-products/#amazon-seller-product-research-the-ultimate-guide))
 
 *   Find Your Suppliers
 *   Differentiate Your Product
 *   Analyze The Competition
 *   Check Estimated ROI (Return On Investment)
 
-Here is a detailed guide on [How To Do Amazon Product Research](https://blog.fennex.agency/posts/business-online/amazon-product-research/).
+Here is a detailed guide on [How To Do Amazon Product Research](/posts/business-online/amazon-fba/product-research-how-to-find-profitable-products/).
 
 <p>
   <script async data-uid="a5b571f857" src="https://blog-fennex-agency.ck.page/a5b571f857/index.js"></script>

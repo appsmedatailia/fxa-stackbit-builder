@@ -101,7 +101,7 @@ If you’re new to this business, we recommend reading the previous articles.
 
 <h2 id="niche-market-research">Niche Market Research</h2>
 
-Here is a detailed guide on [How To Do Niche Market Research](https://blog.fennex.agency/posts/business-online/profitable-niche-market-business/).
+Here is a detailed guide on [How To Do Niche Market Research](/posts/business-online/amazon-fba/niche-market-research-how-to-find-profitable-business/).
 
 *   **Step 1: Niche Market Brainstorming**
 *   **Step 2: Niche Audience Brainstorming**
@@ -164,7 +164,7 @@ Finding profitable product ideas and uncovering niches is the secret to Amazon�
 
 <h2 id="brainstorm-product-ideas">Amazon Product Research (Brainstorm Product Ideas)</h2>
 
-Here is a detailed guide on [How To Do Amazon Product Research](https://blog.fennex.agency/posts/business-online/amazon-product-research/#amazon-seller-product-research-the-ultimate-guide).
+Here is a detailed guide on [How To Do Amazon Product Research](/posts/business-online/amazon-fba/product-research-how-to-find-profitable-products/#amazon-seller-product-research-the-ultimate-guide).
 
 *   **Step 1: Set Amazon Product Research Criteria (For Your Niche If Selected)**
 *   **Step 2: Generate Your Product List Idea**
@@ -210,7 +210,7 @@ You can read Jungle Scout blogs on how to use the [Keyword Rank Tracking](https
 
 <h2 id="identify-the-winning-products">Amazon Product Research (Identify the winning products)</h2>
 
-Here is a detailed guide on who to [Identify the winning products](https://blog.fennex.agency/posts/business-online/amazon-product-research/#amazon-seller-product-research-the-ultimate-guide).
+Here is a detailed guide on who to [Identify the winning products](/posts/business-online/amazon-fba/product-research-how-to-find-profitable-products/#amazon-seller-product-research-the-ultimate-guide).
   
 You can achieve this milestone using the [Supplier Database](https://junglescout.grsm.io/fennex-supplier-database), [Product Database](https://junglescout.grsm.io/fennex-product-database), [Product Tracker](https://junglescout.grsm.io/fennex-product-tracker), and [Keyword Scout](https://junglescout.grsm.io/fennex-keyword-scout) tools.
 
