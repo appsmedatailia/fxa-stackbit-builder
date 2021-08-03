@@ -188,11 +188,11 @@ The following niche market research guide is the first millstone of a bigger wor
 
 There are 5 steps to find a profitable niches:
 
-1.  **_Niche Market Brainstorming_**: to identify hobbies, passions, trends, and lifestyles
-2.  **_Niche Audience Brainstorming_**: to identify who belongs to your niche
-3.  **_Problem and Solution_**: to identify your audience's needs.
-4.  **_Keyword Validation_**: to make sure that the niche you choose has a substantial demand.
-5.  **_Competition_**: to see if you can compete in that niche market.
+1.  **_Niche Market Brainstorming_**: identify hobbies, passions, trends, and lifestyles.
+2.  **_Niche Audience Brainstorming_**: identify who belongs to your niche.
+3.  **_Problem and Solution Brainstorming_**: identify your audience's needs.
+4.  **_Keyword Validation_**: make sure that the niche you choose has a substantial demand.
+5.  **_Competition_**: see if you can compete in that niche market.
 
 <a href="https://blog-fennex-agency.ck.page/niche-market-research-finding-profitable-niche-businesses">
 <img

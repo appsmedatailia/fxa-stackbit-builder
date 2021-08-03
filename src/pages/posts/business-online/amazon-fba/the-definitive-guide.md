@@ -129,11 +129,11 @@ We aimed to keep the guide as simple as possible to take action rapidly and not 
 
 ### Milestone 1: [Niche Market Research](/posts/business-online/amazon-fba/niche-market-research-how-to-find-profitable-business/)
 
-*   _Niche Market Brainstorming_: to identify hobbies, passions, trends, and lifestyles
-*   _Niche Audience Brainstorming_: to identify who belongs to your niche
-*   _Problem and Solution Brainstorming_: to identify your audience's needs.
-*   _Keyword Validation_: to make sure that the niche you choose has a substantial demand.
-*   _Competition Analysis_: to see if you can compete in that niche market.
+*   Identify hobbies, passions, trends, and lifestyles niche ideas.
+*   Find out who belongs to each niche, these are your target audience.
+*   Identify the problems your target audience is facing, the solutions they are looking for or already using, and what they need.
+*   Ensure that the niche you choose has a substantial demand.
+*   Check whether you can compete in that market niche.
 
 Here is a detailed guide on [How To Do Niche Market Research](/posts/business-online/amazon-fba/niche-market-research-how-to-find-profitable-business/).
 
