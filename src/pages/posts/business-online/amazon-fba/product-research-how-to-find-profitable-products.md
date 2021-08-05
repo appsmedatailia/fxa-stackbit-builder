@@ -79,9 +79,11 @@ In other words, you must have an excellent product with a competitive price and 
 
 In reality, not surprising that most people who deal with FBA won’t begin until they have low competition, high demand, and private label products.
 
-<p>
-  <script async data-uid="a5b571f857" src="https://blog-fennex-agency.ck.page/a5b571f857/index.js"></script>
-</p>
+<a href="javascript:;" onclick="ml_webform_4515748('show')">
+<img
+    src="/images/free-fba-tools-fb.webp"
+    alt="Free Amazon FBA Product Research Tools"/>
+</a>
 
 <h2 id="quality-price-marketing">Quality Price Marketing</h2>
 
@@ -248,9 +250,11 @@ Check that “Item cost + shipping” is less than 30% to 40% of the selling pri
 
 Amazon fees are not over 40% of the cost of your product (due to size or weight). Use the FBA calculator to determine this.
 
-<p>
-  <script async data-uid="a5b571f857" src="https://blog-fennex-agency.ck.page/a5b571f857/index.js"></script>
-</p>
+<a href="javascript:;" onclick="ml_webform_4515748('show')">
+<img
+    src="/images/free-fba-tools-fb.webp"
+    alt="Free Amazon FBA Product Research Tools"/>
+</a>
 
 <h2 id="product-categories-to-avoid">Product Categories To Avoid</h2>
 
@@ -350,9 +354,11 @@ You can accomplish this in two ways. The first option would be to combine severa
 
 *   [SellerApp Listing Quality Check](https://www.sellerapp.com/amazon-listing-quality-check.html)
 
-<p>
-  <script async data-uid="a5b571f857" src="https://blog-fennex-agency.ck.page/a5b571f857/index.js"></script>
-</p>
+<a href="javascript:;" onclick="ml_webform_4515748('show')">
+<img
+    src="/images/free-fba-tools-fb.webp"
+    alt="Free Amazon FBA Product Research Tools"/>
+</a>
 
 <h2 id="best-all-in-one-amazon-product-research-tools">9 Best All-in-one Amazon Product Research Tools</h2>
 
@@ -373,8 +379,13 @@ Thus, you will have access to everything you need to find the right product.
 9.  [ZOOF Amazon Product Research Tool](https://zoof.com?via=fennex-blog)
 
 
-<p>
-  <script async data-uid="a5b571f857" src="https://blog-fennex-agency.ck.page/a5b571f857/index.js"></script>
-</p>
+<a href="javascript:;" onclick="ml_webform_4515748('show')">
+<img
+    src="/images/free-fba-tools-fb.webp"
+    alt="Free Amazon FBA Product Research Tools"/>
+</a>
 
-<script async data-uid="d6d455881a" src="https://blog-fennex-agency.ck.page/d6d455881a/index.js"></script>
+<script>
+    var ml_webform_4515748 = ml_account('webforms', '4515748', 'n0u9o3', 'load');
+    ml_webform_4515748('animation', 'fadeIn');
+</script>
