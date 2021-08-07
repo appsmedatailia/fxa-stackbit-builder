@@ -40,9 +40,23 @@ export default class Body extends React.Component {
                     {_.get(this.props, 'pageContext.site.siteMetadata.favicon', null) && (
                     <link rel="icon" href={withPrefix(_.get(this.props, 'pageContext.site.siteMetadata.favicon', null))}/>
                     )}
+                    <script>
+                    {`
+                      <!-- MailerLite Universal -->
+                      (function(m,a,i,l,e,r){ m['MailerLiteObject']=e;function f(){
+                      var c={ a:arguments,q:[]};var r=this.push(c);return "number"!=typeof r?r:f.bind(c.q);}
+                      f.q=f.q||[];m[e]=m[e]||f.bind(f.q);m[e].q=m[e].q||f.q;r=a.createElement(i);
+                      var _=a.getElementsByTagName(i)[0];r.async=1;r.src=l+'?v'+(~~(new Date().getTime()/1000000));
+                      _.parentNode.insertBefore(r,_);})(window, document, 'script', 'https://static.mailerlite.com/js/universal.js', 'ml');
+                      
+                      var ml_account = ml('accounts', '3346150', 'e2k4d6o1l1', 'load');
+                    `}
+                    </script>
                  </Helmet>
                   <div id="page" className={'site layout-' + _.get(this.props, 'pageContext.site.siteMetadata.layout_style', null) + ' palette-' + _.get(this.props, 'pageContext.site.siteMetadata.palette', null)}>
-                    <Header {...this.props} />
+                    {!_.get(this.props, 'pageContext.frontmatter.is_landing_page', null) && (
+                      <Header {...this.props} />
+                    )}                    
                     <div id="content" className="site-content outer">
                       <main id="main" className="site-main inner">
                         {this.props.children}
@@ -51,7 +65,9 @@ export default class Body extends React.Component {
                     {_.get(this.props, 'pageContext.site.siteMetadata.footer.has_subscribe', null) && (
                       <Subscribe {...this.props} />
                     )}
-                    <Footer {...this.props} />
+                    {!_.get(this.props, 'pageContext.frontmatter.is_landing_page', null) && (
+                      <Footer {...this.props} />
+                    )}                    
                   </div>
             </React.Fragment>
         );
