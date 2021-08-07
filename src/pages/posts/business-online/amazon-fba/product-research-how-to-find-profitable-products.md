@@ -79,7 +79,7 @@ In other words, you must have an excellent product with a competitive price and 
 
 In reality, not surprising that most people who deal with FBA won’t begin until they have low competition, high demand, and private label products.
 
-<a href="javascript:;" onclick="ml_webform_4515748('show')">
+<a href="/lp/free-amazon-fba-product-research-tools" target="_blank" rel="noopener noreferrer">
 <img
     src="/images/free-fba-tools-fb.webp"
     alt="Free Amazon FBA Product Research Tools"/>
@@ -250,7 +250,7 @@ Check that “Item cost + shipping” is less than 30% to 40% of the selling pri
 
 Amazon fees are not over 40% of the cost of your product (due to size or weight). Use the FBA calculator to determine this.
 
-<a href="javascript:;" onclick="ml_webform_4515748('show')">
+<a href="/lp/free-amazon-fba-product-research-tools" target="_blank" rel="noopener noreferrer">
 <img
     src="/images/free-fba-tools-fb.webp"
     alt="Free Amazon FBA Product Research Tools"/>
@@ -354,7 +354,7 @@ You can accomplish this in two ways. The first option would be to combine severa
 
 *   [SellerApp Listing Quality Check](https://www.sellerapp.com/amazon-listing-quality-check.html)
 
-<a href="javascript:;" onclick="ml_webform_4515748('show')">
+<a href="/lp/free-amazon-fba-product-research-tools" target="_blank" rel="noopener noreferrer">
 <img
     src="/images/free-fba-tools-fb.webp"
     alt="Free Amazon FBA Product Research Tools"/>
@@ -379,13 +379,8 @@ Thus, you will have access to everything you need to find the right product.
 9.  [ZOOF Amazon Product Research Tool](https://zoof.com?via=fennex-blog)
 
 
-<a href="javascript:;" onclick="ml_webform_4515748('show')">
+<a href="/lp/free-amazon-fba-product-research-tools" target="_blank" rel="noopener noreferrer">
 <img
     src="/images/free-fba-tools-fb.webp"
     alt="Free Amazon FBA Product Research Tools"/>
 </a>
-
-<script>
-    var ml_webform_4515748 = ml_account('webforms', '4515748', 'n0u9o3', 'load');
-    ml_webform_4515748('animation', 'fadeIn');
-</script>
