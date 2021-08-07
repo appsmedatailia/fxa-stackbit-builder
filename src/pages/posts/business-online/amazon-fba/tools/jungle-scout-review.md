@@ -309,6 +309,12 @@ With Jungle Scout Amazon FBA Profit Calculator, you can keep track of overhead c
 
 Or, use the [FREE](https://junglescout.grsm.io/fennex-fba-calculator-free) Jungle Scout [Amazon FBA Fee Calculator](https://junglescout.grsm.io/fennex-fba-calculator-free).
 
+<a href="/lp/jungle-scout-review-free-amazon-fba-product-research-tools" target="_blank" rel="noopener noreferrer">
+<img
+    src="/images/free-fba-tools-fb.webp"
+    alt="Free Amazon FBA Product Research Tools"/>
+</a>
+
 <h2 id="the-jungle-scout-academy">The Jungle Scout Academy</h2>
 
 Jungle Scout Academy is one of the major advantages you get when you subscribe to Jungle Scout Web App. It provides actionable and detailed training.
@@ -347,6 +353,12 @@ Free YouTube videos:
 
 *   [What to Sell on Amazon 2021 | Find a Profitable Product to Sell on Amazon | New Jungle Scout Tools](https://junglescout.grsm.io/fennex-js-yt-what-to-sell-on-amazon)
 *   [How to Sell on Amazon FBA for Beginners | Step by Step Tutorial by Jungle Scout Web App (2021)](https://junglescout.grsm.io/fennex-js-yt-how-to-sell-on-amazon-fba-for-beginners)
+
+<a href="/lp/jungle-scout-review-free-amazon-fba-product-research-tools" target="_blank" rel="noopener noreferrer">
+<img
+    src="/images/free-fba-tools-fb.webp"
+    alt="Free Amazon FBA Product Research Tools"/>
+</a>
 
 <h2 id="partner-advantage">Jungle Scout Partner Advantage</h2>
 
@@ -396,4 +408,10 @@ The truth is, you need appropriate tool to automate your Amazon business, and Ju
     alt="Jungle Scout Trustpilot Reviews"/>
 </a>
 </p>
+
+<a href="/lp/jungle-scout-review-free-amazon-fba-product-research-tools" target="_blank" rel="noopener noreferrer">
+<img
+    src="/images/free-fba-tools-fb.webp"
+    alt="Free Amazon FBA Product Research Tools"/>
+</a>
 
