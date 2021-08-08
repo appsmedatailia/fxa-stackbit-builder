@@ -35,7 +35,7 @@ content_img_path:
 <span style="color: rgb(246, 92, 77); background-color: rgb(255, 246, 246); font-size: 20px; font-family: &quot;Archivo Narrow&quot;, sans-serif;"><span class="font-style-heading">Whatever your situation, you need to focus on product research if you’re in the Amazon selling business</span></span>
 
 <img
-    src="/images/free-fba-tools-fb.webp"
+    src="/images/Free FBA Tools - Ad.webp"
     alt="Free Amazon FBA Product Research Tools"/>
 
 <div class="ml-form-embed"

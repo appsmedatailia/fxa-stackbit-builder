@@ -311,7 +311,7 @@ Or, use the [FREE](https://junglescout.grsm.io/fennex-fba-calculator-free) Jung
 
 <a href="/lp/jungle-scout-review-free-amazon-fba-product-research-tools" target="_blank" rel="noopener noreferrer">
 <img
-    src="/images/free-fba-tools-fb.webp"
+    src="/images/Download - Free FBA Tools.webp"
     alt="Free Amazon FBA Product Research Tools"/>
 </a>
 
@@ -356,7 +356,7 @@ Free YouTube videos:
 
 <a href="/lp/jungle-scout-review-free-amazon-fba-product-research-tools" target="_blank" rel="noopener noreferrer">
 <img
-    src="/images/free-fba-tools-fb.webp"
+    src="/images/Download - Free FBA Tools.webp"
     alt="Free Amazon FBA Product Research Tools"/>
 </a>
 
@@ -411,7 +411,7 @@ The truth is, you need appropriate tool to automate your Amazon business, and Ju
 
 <a href="/lp/jungle-scout-review-free-amazon-fba-product-research-tools" target="_blank" rel="noopener noreferrer">
 <img
-    src="/images/free-fba-tools-fb.webp"
+    src="/images/Download - Free FBA Tools.webp"
     alt="Free Amazon FBA Product Research Tools"/>
 </a>
 

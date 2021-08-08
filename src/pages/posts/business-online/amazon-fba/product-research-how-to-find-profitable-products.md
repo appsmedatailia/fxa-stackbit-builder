@@ -81,7 +81,7 @@ In reality, not surprising that most people who deal with FBA won’t begin unti
 
 <a href="/lp/free-amazon-fba-product-research-tools" target="_blank" rel="noopener noreferrer">
 <img
-    src="/images/free-fba-tools-fb.webp"
+    src="/images/Download - Free FBA Tools.webp"
     alt="Free Amazon FBA Product Research Tools"/>
 </a>
 
@@ -252,7 +252,7 @@ Amazon fees are not over 40% of the cost of your product (due to size or weight)
 
 <a href="/lp/free-amazon-fba-product-research-tools" target="_blank" rel="noopener noreferrer">
 <img
-    src="/images/free-fba-tools-fb.webp"
+    src="/images/Download - Free FBA Tools.webp"
     alt="Free Amazon FBA Product Research Tools"/>
 </a>
 
@@ -356,7 +356,7 @@ You can accomplish this in two ways. The first option would be to combine severa
 
 <a href="/lp/free-amazon-fba-product-research-tools" target="_blank" rel="noopener noreferrer">
 <img
-    src="/images/free-fba-tools-fb.webp"
+    src="/images/Download - Free FBA Tools.webp"
     alt="Free Amazon FBA Product Research Tools"/>
 </a>
 
@@ -381,6 +381,6 @@ Thus, you will have access to everything you need to find the right product.
 
 <a href="/lp/free-amazon-fba-product-research-tools" target="_blank" rel="noopener noreferrer">
 <img
-    src="/images/free-fba-tools-fb.webp"
+    src="/images/Free FBA Tools - Ad.webp"
     alt="Free Amazon FBA Product Research Tools"/>
 </a>
