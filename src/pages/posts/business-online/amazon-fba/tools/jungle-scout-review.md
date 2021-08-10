@@ -309,9 +309,9 @@ With Jungle Scout Amazon FBA Profit Calculator, you can keep track of overhead c
 
 Or, use the [FREE](https://junglescout.grsm.io/fennex-fba-calculator-free) Jungle Scout [Amazon FBA Fee Calculator](https://junglescout.grsm.io/fennex-fba-calculator-free).
 
-<a href="/lp/jungle-scout-review-free-amazon-fba-product-research-tools" target="_blank" rel="noopener noreferrer">
+<a href="/lp/free-amazon-fba-product-research-tools/jungle-scout" target="_blank" rel="noopener noreferrer">
 <img
-    src="/images/Download - Free FBA Tools.webp"
+    src="/images/amazon-fba/download-free-fba-tools.webp"
     alt="Free Amazon FBA Product Research Tools"/>
 </a>
 
@@ -354,9 +354,9 @@ Free YouTube videos:
 *   [What to Sell on Amazon 2021 | Find a Profitable Product to Sell on Amazon | New Jungle Scout Tools](https://junglescout.grsm.io/fennex-js-yt-what-to-sell-on-amazon)
 *   [How to Sell on Amazon FBA for Beginners | Step by Step Tutorial by Jungle Scout Web App (2021)](https://junglescout.grsm.io/fennex-js-yt-how-to-sell-on-amazon-fba-for-beginners)
 
-<a href="/lp/jungle-scout-review-free-amazon-fba-product-research-tools" target="_blank" rel="noopener noreferrer">
+<a href="/lp/free-amazon-fba-product-research-tools/jungle-scout" target="_blank" rel="noopener noreferrer">
 <img
-    src="/images/Download - Free FBA Tools.webp"
+    src="/images/amazon-fba/download-free-fba-tools.webp"
     alt="Free Amazon FBA Product Research Tools"/>
 </a>
 
@@ -409,9 +409,9 @@ The truth is, you need appropriate tool to automate your Amazon business, and Ju
 </a>
 </p>
 
-<a href="/lp/jungle-scout-review-free-amazon-fba-product-research-tools" target="_blank" rel="noopener noreferrer">
+<a href="/lp/free-amazon-fba-product-research-tools/jungle-scout" target="_blank" rel="noopener noreferrer">
 <img
-    src="/images/Download - Free FBA Tools.webp"
+    src="/images/amazon-fba/download-free-fba-tools.webp"
     alt="Free Amazon FBA Product Research Tools"/>
 </a>
 

@@ -24,18 +24,18 @@ seo:
         Validate Product Ideas To Discover Your Next Best-Seller! With Our Free Product Research Tools.
       keyName: property
     - name: 'og:image'
-      value: /images/free-fba-tools-fb.webp
+      value: /images/amazon-fba/free-fba-tools-lp.webp
       keyName: property
       relativeUrl: true
   title: Free Amazon Product Research Tools
 template: landing
-thumb_img_path: /images/free-fba-tools-fb.webp
+thumb_img_path: /images/amazon-fba/free-fba-tools-lp.webp
 content_img_path: 
 ---
 <span style="color: rgb(246, 92, 77); background-color: rgb(255, 246, 246); font-size: 20px; font-family: &quot;Archivo Narrow&quot;, sans-serif;"><span class="font-style-heading">Whatever your situation, you need to focus on product research if you’re in the Amazon selling business</span></span>
 
 <img
-    src="/images/Free FBA Tools - Ad.webp"
+    src="/images/amazon-fba/free-fba-tools-lp.webp"
     alt="Free Amazon FBA Product Research Tools"/>
 
 <div class="ml-form-embed"

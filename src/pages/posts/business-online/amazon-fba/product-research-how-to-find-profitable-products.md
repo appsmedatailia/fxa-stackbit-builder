@@ -23,13 +23,13 @@ seo:
         Learn How To Do Amazon FBA Product Research And How To Use The Best Free And Paid Research Tools To Find Profitable Products And Offers. No B.S. Guide And Tips.
       keyName: property
     - name: 'og:image'
-      value: /images/amazon-product-research.webp
+      value: /images/amazon-fba/amazon-fba-product-research.webp
       keyName: property
       relativeUrl: true
   title: Amazon FBA Product Research, How To Find Profitable Products For Your Amazon FBA Seller Business
 template: post
-thumb_img_path: /images/amazon-product-research.webp
-content_img_path: /images/amazon-product-research.webp
+thumb_img_path: /images/amazon-fba/amazon-fba-product-research.webp
+content_img_path: /images/amazon-fba/amazon-fba-product-research.webp
 ---
 
 If you are in the Amazon FBA business, picking the right product is vital for your business, especially if you are starting.
@@ -58,7 +58,7 @@ Before we dig deeper, you need to know what are niche markets and niche products
 
 [15 Best Free Amazon Product Research Tools](#best-free-amazon-product-research-tools)
 
-[8 Best All-in-one Amazon Product Research Tools](#best-all-in-one-amazon-product-research-tools)
+[9 Best All-in-one Amazon Product Research Tools](#best-all-in-one-amazon-product-research-tools)
 
 
 <h2 id="what-is-amazon-fba-product-research">What Is Amazon FBA Product Research?</h2>
@@ -79,9 +79,9 @@ In other words, you must have an excellent product with a competitive price and 
 
 In reality, not surprising that most people who deal with FBA won’t begin until they have low competition, high demand, and private label products.
 
-<a href="/lp/free-amazon-fba-product-research-tools" target="_blank" rel="noopener noreferrer">
+<a href="/lp/free-amazon-fba-product-research-tools/" target="_blank" rel="noopener noreferrer">
 <img
-    src="/images/Download - Free FBA Tools.webp"
+    src="/images/amazon-fba/download-free-fba-tools.webp"
     alt="Free Amazon FBA Product Research Tools"/>
 </a>
 
@@ -250,9 +250,9 @@ Check that “Item cost + shipping” is less than 30% to 40% of the selling pri
 
 Amazon fees are not over 40% of the cost of your product (due to size or weight). Use the FBA calculator to determine this.
 
-<a href="/lp/free-amazon-fba-product-research-tools" target="_blank" rel="noopener noreferrer">
+<a href="/lp/free-amazon-fba-product-research-tools/" target="_blank" rel="noopener noreferrer">
 <img
-    src="/images/Download - Free FBA Tools.webp"
+    src="/images/amazon-fba/download-free-fba-tools.webp"
     alt="Free Amazon FBA Product Research Tools"/>
 </a>
 
@@ -354,9 +354,9 @@ You can accomplish this in two ways. The first option would be to combine severa
 
 *   [SellerApp Listing Quality Check](https://www.sellerapp.com/amazon-listing-quality-check.html)
 
-<a href="/lp/free-amazon-fba-product-research-tools" target="_blank" rel="noopener noreferrer">
+<a href="/lp/free-amazon-fba-product-research-tools/" target="_blank" rel="noopener noreferrer">
 <img
-    src="/images/Download - Free FBA Tools.webp"
+    src="/images/amazon-fba/download-free-fba-tools.webp"
     alt="Free Amazon FBA Product Research Tools"/>
 </a>
 
@@ -379,8 +379,8 @@ Thus, you will have access to everything you need to find the right product.
 9.  [ZOOF Amazon Product Research Tool](https://zoof.com?via=fennex-blog)
 
 
-<a href="/lp/free-amazon-fba-product-research-tools" target="_blank" rel="noopener noreferrer">
+<a href="/lp/free-amazon-fba-product-research-tools/" target="_blank" rel="noopener noreferrer">
 <img
-    src="/images/Free FBA Tools - Ad.webp"
+    src="/images/amazon-fba/download-free-fba-tools.webp"
     alt="Free Amazon FBA Product Research Tools"/>
 </a>

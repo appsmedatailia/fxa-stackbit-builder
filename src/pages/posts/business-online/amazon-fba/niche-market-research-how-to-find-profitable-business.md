@@ -23,13 +23,13 @@ seo:
         Identify Profitable Niche Markets For Your Online Business. Learn How To Do Niche Market Recherche And The Benefits Of Niches In The Online Selling Business.
       keyName: property
     - name: 'og:image'
-      value: /images/niche-markets.webp
+      value: /images/amazon-fba/amazon-fba-niche-market-research.webp
       keyName: property
       relativeUrl: true
   title: How To Do Niche Market Research To Find Profitable Niche Businesses
 template: post
-thumb_img_path: /images/niche-markets.webp
-content_img_path: /images/niche-markets.webp
+thumb_img_path: /images/amazon-fba/amazon-fba-niche-market-research.webp
+content_img_path: /images/amazon-fba/amazon-fba-niche-market-research.webp
 ---
 There are many ways to find new products to sell online, from keyword research to exploring Amazon product categories. 
 
@@ -58,7 +58,7 @@ Before we talk about niche markets and niche products, you need to understand wh
 <p>
 <a href="https://blog-fennex-agency.ck.page/niche-market-research-finding-profitable-niche-businesses">
 <img
-    src="/images/Download - eBook 9 Steps To Find Profitable Niche Business.webp"
+    src="/images/amazon-fba/download-ebook-9-steps-to-find-profitable-niches.webp"
     alt="Subscribe and Get the Ebook - Niche Market Research"/>
 </a>
 </p>
@@ -111,7 +111,7 @@ Also, to generate profits, you must appear on page one of Amazon search results 
 
 <a href="https://blog-fennex-agency.ck.page/niche-market-research-finding-profitable-niche-businesses">
 <img
-    src="/images/Download - eBook 9 Steps To Find Profitable Niche Business.webp"
+    src="/images/amazon-fba/download-ebook-9-steps-to-find-profitable-niches.webp"
     alt="Subscribe and Get the Ebook - Niche Market Research"/>
 </a>
 
@@ -196,7 +196,7 @@ There are 5 steps to find a profitable niches:
 
 <a href="https://blog-fennex-agency.ck.page/niche-market-research-finding-profitable-niche-businesses">
 <img
-    src="/images/Download - eBook 9 Steps To Find Profitable Niche Business.webp"
+    src="/images/amazon-fba/download-ebook-9-steps-to-find-profitable-niches.webp"
     alt="Subscribe and Get the Ebook - Niche Market Research"/>
 </a>
 
@@ -267,7 +267,7 @@ Niche market research is fundamental if you want to build your brand and diversi
 
 <a href="https://blog-fennex-agency.ck.page/niche-market-research-finding-profitable-niche-businesses">
 <img
-    src="/images/Download - eBook 9 Steps To Find Profitable Niche Business.webp"
+    src="/images/amazon-fba/download-ebook-9-steps-to-find-profitable-niches.webp"
     alt="Subscribe and Get the Ebook - Niche Market Research"/>
 </a>
 

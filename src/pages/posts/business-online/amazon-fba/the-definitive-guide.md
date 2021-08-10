@@ -23,13 +23,13 @@ seo:
         Learn How Fulfillment By Amazon (FBA) Business Works. The Ultimate Guide For Entrepreneurs And Small Business Owners On How To Sell Products On Amazon FBA.
       keyName: property
     - name: 'og:image'
-      value: /images/amazon-fba-how-to-start-a-business-online.webp
+      value: /images/amazon-fba/amazon-fba-the-definitive-guide.webp
       keyName: property
       relativeUrl: true
   title: Fulfillment By Amazon (FBA), How To Start A Business Online
 template: post
-thumb_img_path: /images/amazon-fba-how-to-start-a-business-online.webp
-content_img_path: /images/amazon-fba-how-to-start-a-business-online.webp
+thumb_img_path: /images/amazon-fba/amazon-fba-the-definitive-guide.webp
+content_img_path: /images/amazon-fba/amazon-fba-the-definitive-guide.webp
 ---
 
 This is a complete guide to Amazon FBA Business.
@@ -140,7 +140,7 @@ Here is a detailed guide on [How To Do Niche Market Research](/posts/business-on
 <p>
 <a href="https://blog-fennex-agency.ck.page/niche-market-research-finding-profitable-niche-businesses">
 <img
-    src="/images/Download - eBook 9 Steps To Find Profitable Niche Business.webp"
+    src="/images/amazon-fba/download-ebook-9-steps-to-find-profitable-niches.webp"
     alt="Subscribe and Get the Ebook - Niche Market Research"/>
 </a>
 </p>
