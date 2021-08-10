@@ -44,4 +44,4 @@ template: page
 
 <p style="text-align:center">&nbsp;</p>
 
-<p style="text-align:center"><a href="https://junglescout.grsm.io/fennex-jungle-scout-offer" target="_blank" rel="noopener noreferrer"><span style="font-size:20px"><strong><span style="color:#ffffff"><span style="background-color:#f65c4d">CLICK HERE TO CONTINUE</span></span></strong></span></a></p>
+<p style="text-align:center"><a href="https://junglescout.grsm.io/fennex-jungle-scout-offer" target="_blank" rel="noopener nofollow sponsored"><span style="font-size:20px"><strong><span style="color:#ffffff"><span style="background-color:#f65c4d">CLICK HERE TO CONTINUE</span></span></strong></span></a></p>

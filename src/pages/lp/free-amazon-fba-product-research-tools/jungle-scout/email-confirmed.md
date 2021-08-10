@@ -4,7 +4,7 @@ subtitle: >-
     Click The Link Below To Claim Your Free Materials
 template: page
 ---
-<p style="text-align:center"><span style="font-size:20px"><a href="/downloads/fba-guide-and-product-research-tools.xlsx" target="_blank"><span style="color:#ffffff"><span style="background-color:#23a7a8">DOWNLOAD - FBA Product Research Tools + FBA Workflow</span></span></a></span></p>
+<p style="text-align:center"><span style="font-size:20px"><a href="/downloads/fba-guide-and-product-research-tools.xlsx" target="_blank" rel="noopener"><span style="color:#ffffff"><span style="background-color:#23a7a8">DOWNLOAD - FBA Product Research Tools + FBA Workflow</span></span></a></span></p>
 
 <p style="text-align:center">&nbsp;</p>
 
@@ -46,4 +46,4 @@ template: page
 
 <p style="text-align:center">&nbsp;</p>
 
-<p style="text-align:center"><a href="https://junglescout.grsm.io/fennex-jungle-scout-offer" target="_blank" rel="noopener noreferrer"><span style="font-size:20px"><strong><span style="color:#ffffff"><span style="background-color:#f65c4d">CLICK HERE TO CONTINUE</span></span></strong></span></a></p>
+<p style="text-align:center"><a href="https://junglescout.grsm.io/fennex-jungle-scout-offer" target="_blank" rel="noopener nofollow sponsored"><span style="font-size:20px"><strong><span style="color:#ffffff"><span style="background-color:#f65c4d">CLICK HERE TO CONTINUE</span></span></strong></span></a></p>

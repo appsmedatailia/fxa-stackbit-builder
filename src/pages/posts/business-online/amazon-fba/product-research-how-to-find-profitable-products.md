@@ -79,7 +79,7 @@ In other words, you must have an excellent product with a competitive price and 
 
 In reality, not surprising that most people who deal with FBA won’t begin until they have low competition, high demand, and private label products.
 
-<a href="/lp/free-amazon-fba-product-research-tools/" target="_blank" rel="noopener noreferrer">
+<a href="/lp/free-amazon-fba-product-research-tools/" target="_blank" rel="noopener">
 <img
     src="/images/amazon-fba/download-free-fba-tools.webp"
     alt="Free Amazon FBA Product Research Tools"/>
@@ -250,7 +250,7 @@ Check that “Item cost + shipping” is less than 30% to 40% of the selling pri
 
 Amazon fees are not over 40% of the cost of your product (due to size or weight). Use the FBA calculator to determine this.
 
-<a href="/lp/free-amazon-fba-product-research-tools/" target="_blank" rel="noopener noreferrer">
+<a href="/lp/free-amazon-fba-product-research-tools/" target="_blank" rel="noopener">
 <img
     src="/images/amazon-fba/download-free-fba-tools.webp"
     alt="Free Amazon FBA Product Research Tools"/>
@@ -322,39 +322,40 @@ You can accomplish this in two ways. The first option would be to combine severa
 
 #### **For Keyword Discovery, Reverse AISN KW Discovery, Keyword Search Volume, And Keyword Trending**
 
-*   [SellerApp Keyword Research](https://www.sellerapp.com/amazon-keyword-search.html)
-*   [kinwords](https://kinwords.com/)
-*   [ScientificSeller keyword tool](https://app.scientificseller.com/keywordtool#)
-*   [keywordtool.io](https://keywordtool.io/amazon)
-*   [Helium10 Keyword Research](https://www.helium10.com/amazon-keyword-research-tool/)
-*   [Google Keyword Planner](https://ads.google.com/)
-*   [Google Trends](https://trends.google.com/)
+*   <a href="https://www.sellerapp.com/amazon-keyword-search.html" target="_blank" rel="noopener">SellerApp Keyword Research</a>
+*   <a href="https://kinwords.com/" target="_blank" rel="noopener">kinwords</a>
+*   <a href="https://app.scientificseller.com/keywordtool#" target="_blank" rel="noopener">ScientificSeller keyword tool</a>
+*   <a href="https://keywordtool.io/amazon" target="_blank" rel="noopener">keywordtool.io</a>
+*   <a href="https://www.helium10.com/amazon-keyword-research-tool/" target="_blank" rel="noopener">Helium10 Keyword Research</a>
+*   <a href="https://ads.google.com/" target="_blank" rel="noopener">Google Keyword Planner</a>
+*   <a href="https://trends.google.com/" target="_blank" rel="noopener">Google Trends</a>
 
 #### **For Sells Estimation**
 
-*   [JungleScout Sales Estimator](https://junglescout.grsm.io/fennex-sales-estimator)
-*   [AmzScout Sales Estimator](https://amzscout.net/sales-estimator/)
-*   [SellerApp Sales Estimator](https://www.sellerapp.com/amazon-sales-estimator.html)
+*   <a href="https://junglescout.grsm.io/fennex-sales-estimator" target="_blank" rel="noopener nofollow sponsored">JungleScout Sales Estimator</a>
+*   <a href="https://amzscout.net/sales-estimator/" target="_blank" rel="noopener">AmzScout Sales Estimator</a>
+*   <a href="https://www.sellerapp.com/amazon-sales-estimator.html" target="_blank" rel="noopener">SellerApp Sales Estimator</a>
 
 #### **For Product Size And Weight, FBA Fees, Product Profit, And Margin Estimation**
 
-*   [Jungle Scout Free FBA Calculator](https://junglescout.grsm.io/fennex-fba-calculator-free)
-*   [SellerApp Chrome Extension](https://chrome.google.com/webstore/detail/fba-calculator-for-amazon/bkdkbhjcfhfkmkbffkdklaiepfbllbgg) or [FBA Calculator](https://www.sellerapp.com/amazon-fba-calculator.html)
-*   [AMZScout Chrome Extension](https://chrome.google.com/webstore/detail/fba-calculator-free-exten/dkgjopcolgcafhnicdahjemapkniikeh)
-*   [Viral Launch FBA Calculator](https://viral-launch.com/amazon-fba-calculator.html)
+*   <a href="https://junglescout.grsm.io/fennex-fba-calculator-free" target="_blank" rel="noopener nofollow sponsored">Jungle Scout Free FBA Calculator</a>
+*   <a href="https://chrome.google.com/webstore/detail/fba-calculator-for-amazon/bkdkbhjcfhfkmkbffkdklaiepfbllbgg" target="_blank" rel="noopener">SellerApp Chrome Extension</a>
+*	<a href="https://www.sellerapp.com/amazon-fba-calculator.html" target="_blank" rel="noopener">FBA Calculator</a>
+*   <a href="https://chrome.google.com/webstore/detail/fba-calculator-free-exten/dkgjopcolgcafhnicdahjemapkniikeh" target="_blank" rel="noopener">AMZScout Chrome Extension</a>
+*   <a href="https://viral-launch.com/amazon-fba-calculator.html" target="_blank" rel="noopener">Viral Launch FBA Calculator</a>
 
 ### **Free Tools To Analyze The Competition**
 
 #### **For Price History**
 
-*   [Camelcamelcamel](https://camelcamelcamel.com/)
-*   [Keepa](https://keepa.com/)
+*   <a href="https://camelcamelcamel.com/" target="_blank" rel="noopener">Camelcamelcamel</a>
+*   <a href="https://keepa.com/" target="_blank" rel="noopener">Keepa</a>
 
 #### **For Listing Quality**
 
-*   [SellerApp Listing Quality Check](https://www.sellerapp.com/amazon-listing-quality-check.html)
+*   <a href="https://www.sellerapp.com/amazon-listing-quality-check.html" target="_blank" rel="noopener">SellerApp Listing Quality Check</a>
 
-<a href="/lp/free-amazon-fba-product-research-tools/" target="_blank" rel="noopener noreferrer">
+<a href="/lp/free-amazon-fba-product-research-tools/" target="_blank" rel="noopener">
 <img
     src="/images/amazon-fba/download-free-fba-tools.webp"
     alt="Free Amazon FBA Product Research Tools"/>
@@ -379,7 +380,7 @@ Thus, you will have access to everything you need to find the right product.
 9.  [ZOOF Amazon Product Research Tool](https://zoof.com?via=fennex-blog)
 
 
-<a href="/lp/free-amazon-fba-product-research-tools/" target="_blank" rel="noopener noreferrer">
+<a href="/lp/free-amazon-fba-product-research-tools/" target="_blank" rel="noopener">
 <img
     src="/images/amazon-fba/download-free-fba-tools.webp"
     alt="Free Amazon FBA Product Research Tools"/>

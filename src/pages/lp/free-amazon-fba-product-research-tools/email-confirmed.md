@@ -4,7 +4,7 @@ subtitle: >-
     Click The Link Below To Claim Your Free Materials
 template: page
 ---
-<p style="text-align:center"><span style="font-size:20px"><a href="/downloads/fba-guide-and-product-research-tools.xlsx" target="_blank"><span style="color:#ffffff"><span style="background-color:#23a7a8">DOWNLOAD - FBA Product Research Tools + FBA Workflow</span></span></a></span></p>
+<p style="text-align:center"><span style="font-size:20px"><a href="/downloads/fba-guide-and-product-research-tools.xlsx" target="_blank" rel="noopener"><span style="color:#ffffff"><span style="background-color:#23a7a8">DOWNLOAD - FBA Product Research Tools + FBA Workflow</span></span></a></span></p>
 
 <p style="text-align:center">&nbsp;</p>
 
