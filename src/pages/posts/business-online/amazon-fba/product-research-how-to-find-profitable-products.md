@@ -322,27 +322,27 @@ You can accomplish this in two ways. The first option would be to combine severa
 
 #### **For Keyword Discovery, Reverse AISN KW Discovery, Keyword Search Volume, And Keyword Trending**
 
-*   <a href="https://www.sellerapp.com/amazon-keyword-search.html" target="_blank" rel="noopener">SellerApp Keyword Research</a>
+*   <a href="https://idevaffiliate.sellerapp.com/idevaffiliate.php?id=318&url=21" target="_blank" rel="noopener nofollow sponsored">SellerApp Keyword Research</a>
 *   <a href="https://kinwords.com/" target="_blank" rel="noopener">kinwords</a>
 *   <a href="https://app.scientificseller.com/keywordtool#" target="_blank" rel="noopener">ScientificSeller keyword tool</a>
 *   <a href="https://keywordtool.io/amazon" target="_blank" rel="noopener">keywordtool.io</a>
-*   <a href="https://www.helium10.com/amazon-keyword-research-tool/" target="_blank" rel="noopener">Helium10 Keyword Research</a>
+*   <a href="https://crushtrk.com/?a=4429&c=7&p=r&s1=" target="_blank" rel="noopener nofollow sponsored">Helium10 Home Page > Resources > Amazon Keyword Research</a>
 *   <a href="https://ads.google.com/" target="_blank" rel="noopener">Google Keyword Planner</a>
 *   <a href="https://trends.google.com/" target="_blank" rel="noopener">Google Trends</a>
 
 #### **For Sells Estimation**
 
 *   <a href="https://junglescout.grsm.io/fennex-sales-estimator" target="_blank" rel="noopener nofollow sponsored">JungleScout Sales Estimator</a>
-*   <a href="https://amzscout.net/sales-estimator/" target="_blank" rel="noopener">AmzScout Sales Estimator</a>
-*   <a href="https://www.sellerapp.com/amazon-sales-estimator.html" target="_blank" rel="noopener">SellerApp Sales Estimator</a>
+*   <a href="https://amzscout.idevaffiliate.com/idevaffiliate.php?id=1272&url=2129" target="_blank" rel="noopener nofollow sponsored">AmzScout Sales Estimator</a>
+*   <a href="https://idevaffiliate.sellerapp.com/idevaffiliate.php?id=318&url=22" target="_blank" rel="noopener nofollow sponsored">SellerApp Sales Estimator</a>
 
 #### **For Product Size And Weight, FBA Fees, Product Profit, And Margin Estimation**
 
 *   <a href="https://junglescout.grsm.io/fennex-fba-calculator-free" target="_blank" rel="noopener nofollow sponsored">Jungle Scout Free FBA Calculator</a>
-*   <a href="https://chrome.google.com/webstore/detail/fba-calculator-for-amazon/bkdkbhjcfhfkmkbffkdklaiepfbllbgg" target="_blank" rel="noopener">SellerApp Chrome Extension</a>
-*	<a href="https://www.sellerapp.com/amazon-fba-calculator.html" target="_blank" rel="noopener">FBA Calculator</a>
+*   <a href="https://chrome.google.com/webstore/detail/fba-calculator-for-amazon/bkdkbhjcfhfkmkbffkdklaiepfbllbgg" target="_blank" rel="noopener nofollow sponsored">SellerApp Chrome Extension</a>
+*	<a href="https://idevaffiliate.sellerapp.com/idevaffiliate.php?id=318&url=23" target="_blank" rel="noopener nofollow sponsored">FBA Calculator</a>
 *   <a href="https://chrome.google.com/webstore/detail/fba-calculator-free-exten/dkgjopcolgcafhnicdahjemapkniikeh" target="_blank" rel="noopener">AMZScout Chrome Extension</a>
-*   <a href="https://viral-launch.com/amazon-fba-calculator.html" target="_blank" rel="noopener">Viral Launch FBA Calculator</a>
+*   <a href="https://affiliates.viral-launch.com/idevaffiliate.php?id=3280&url=259" target="_blank" rel="noopener nofollow sponsored">Viral Launch FBA Calculator</a>
 
 ### **Free Tools To Analyze The Competition**
 
@@ -353,7 +353,7 @@ You can accomplish this in two ways. The first option would be to combine severa
 
 #### **For Listing Quality**
 
-*   <a href="https://www.sellerapp.com/amazon-listing-quality-check.html" target="_blank" rel="noopener">SellerApp Listing Quality Check</a>
+*   <a href="https://idevaffiliate.sellerapp.com/idevaffiliate.php?id=318&url=24" target="_blank" rel="noopener nofollow sponsored">SellerApp Listing Quality Check</a>
 
 <a href="/lp/free-amazon-fba-product-research-tools/" target="_blank" rel="noopener">
 <img
@@ -369,16 +369,15 @@ Keyword research volumes will be available too, which will help you find highly 
 
 Thus, you will have access to everything you need to find the right product.
 
-1.  [Jungle Scout Amazon Product Research Tool](/posts/business-online/amazon-fba/tools/jungle-scout-review/) 
-2.  Helium Amazon Product Research Tool
-3.  SellerApp Amazon Product Research Tool
-4.  IO Scout Amazon Product Research Tool
-5.  [Viral Launch Amazon Product Research Tool](https://affiliates.viral-launch.com/idevaffiliate.php?id=3280)
-6.  [AMZScout Amazon Product Research Tool](https://amzscout.idevaffiliate.com/idevaffiliate.php?id=1272)
+1.  <a href="/posts/business-online/amazon-fba/tools/jungle-scout-review/" target="_blank" rel="noopener">Jungle Scout Amazon Product Research Tool</a>
+2.  <a href="https://crushtrk.com/?a=4429&c=57&p=r&s1=" target="_blank" rel="noopener nofollow sponsored">Helium Amazon Product Research Tool</a>
+3.  <a href="https://idevaffiliate.sellerapp.com/idevaffiliate.php?id=318&url=25" target="_blank" rel="noopener nofollow sponsored">SellerApp Amazon Product Research Tool</a>
+4.  <a href="https://ioscout.io/product-finder" target="_blank" rel="noopener">IO Scout Amazon Product Research Tool</a>
+5.  <a href="https://affiliates.viral-launch.com/idevaffiliate.php?id=3280" target="_blank" rel="noopener nofollow sponsored">Viral Launch Amazon Product Research Tool</a>
+6.  <a href="https://amzscout.idevaffiliate.com/idevaffiliate.php?id=1272&url=2077" target="_blank" rel="noopener nofollow sponsored">AMZScout Amazon Product Research Tool</a>
 7.  AmazeOwl Amazon Product Research Tool
-8.  [Cash Cow Pro Amazon Product Research Tool](/tools/amazon-fba-product-research/cashcowpro-amazon-product-research-tool/)
-9.  [ZOOF Amazon Product Research Tool](https://zoof.com?via=fennex-blog)
-
+8.  <a href="https://www.cashcowpro.com?a_aid=60f301c0ca5e4&a_bid=f89a3ff8" target="_blank" rel="noopener nofollow sponsored">Cash Cow Pro Amazon Product Research Tool</a>
+9.  <a href="https://zoof.com?via=fennex-blog" target="_blank" rel="noopener nofollow sponsored">ZOOF Amazon Product Research Tool</a>
 
 <a href="/lp/free-amazon-fba-product-research-tools/" target="_blank" rel="noopener">
 <img
