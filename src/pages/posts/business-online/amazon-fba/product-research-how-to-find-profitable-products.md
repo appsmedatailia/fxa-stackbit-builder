@@ -369,7 +369,6 @@ Keyword research volumes will be available too, which will help you find highly 
 
 Thus, you will have access to everything you need to find the right product.
 
-1.  <a href="/posts/business-online/amazon-fba/tools/jungle-scout-review/" target="_blank" rel="noopener">Jungle Scout Amazon Product Research Tool</a>
 1.  <a href="/posts/business-online/amazon-fba/tools/jungle-scout-review/" target="_blank" rel="noopener">Jungle Scout</a>
 2.  <a href="/tools/amazon-fba/product-research-tools/" target="_blank" rel="noopener">Helium</a>
 3.  <a href="/tools/amazon-fba/product-research-tools/" target="_blank" rel="noopener">SellerApp</a>
