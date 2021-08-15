@@ -17,6 +17,12 @@
             },
             {
                 "type": "action",
+                "label": "Tools",
+                "url": "/tools/amazon-fba/product-research-tools",
+                "style": "link"
+            },
+            {
+                "type": "action",
                 "label": "Contact",
                 "url": "/contact",
                 "style": "primary"
