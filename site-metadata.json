@@ -4,9 +4,9 @@
     "siteUrl":"https://blog.fennex.agency/",
     "header": {
         "type": "header",
-        "title": "Fennex Agnecy Blog",
+        "title": "Fennex Blog",
         "logo_img": "/images/fennex-agency-blog-logo.webp",
-        "logo_img_alt": "Fennex Agnecy Blog Logo",
+        "logo_img_alt": "Fennex Blog Logo",
         "has_nav": true,
         "nav_links": [
             {
