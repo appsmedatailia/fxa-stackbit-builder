@@ -38,7 +38,7 @@ template: page
 
 <p style="text-align:center">&nbsp;</p>
 
-<p style="text-align:center"><span style="font-size:20px">Or <span style="color:#23a7a8"><em><strong>Delegate The Boring Staff</strong></em> </span>To An Automated Tool That Will <span style="color:#23a7a8"><strong><em>Gather All The Data You Need In One Click.</em></strong></span></span></p>
+<p style="text-align:center"><span style="font-size:20px">Or <span style="color:#23a7a8"><em><strong>Delegate The Boring Stuff</strong></em> </span>To An Automated Tool That Will <span style="color:#23a7a8"><strong><em>Gather All The Data You Need In One Click.</em></strong></span></span></p>
 
 <p style="text-align:center">&nbsp;</p>
 
