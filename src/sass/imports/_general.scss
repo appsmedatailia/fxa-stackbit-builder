@@ -60,6 +60,9 @@ h3 {
 
 h4 {
   font-size: 1.33333em;
+  color: _palette(secondary);
+  font-family: _font(secondary);
+  font-style: italic;
 }
 
 h5 {
@@ -446,8 +449,9 @@ video {
 
 /* Images */
 img {
+  aspect-ratio: attr(width) / attr(height);
   height: auto;
-  max-width: 100%;
+  width: 100%;
 }
 
 .post-thumbnail,
