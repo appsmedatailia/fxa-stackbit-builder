@@ -138,7 +138,7 @@ We aimed to keep the guide as simple as possible to take action rapidly and not 
 Here is a detailed guide on [How To Do Niche Market Research](/posts/business-online/amazon-fba/niche-market-research-how-to-find-profitable-business/).
 
 <p>
-<a href="https://blog-fennex-agency.ck.page/niche-market-research-finding-profitable-niche-businesses">
+<a href="https://fennex-blog.ck.page/amazon-fba/how-to-do-niche-market-research-to-find-profitable-niche-businesses" target="_blank" rel="noopener">
 <img
     src="/images/amazon-fba/download-ebook-9-steps-to-find-profitable-niches.webp"
     alt="Subscribe and Get the Ebook - Niche Market Research"/>

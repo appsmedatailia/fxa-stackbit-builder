@@ -381,7 +381,7 @@ Get your free ebook and start searching profitable amazon product categories for
 your amazon FBA business.
 </p>
 <p>
-<a href="https://blog-fennex-agency.ck.page/niche-market-research-finding-profitable-niche-businesses">
+<a href="https://fennex-blog.ck.page/amazon-fba/how-to-do-niche-market-research-to-find-profitable-niche-businesses" target="_blank" rel="noopener">
 <img
     src="/images/amazon-fba/download-ebook-9-steps-to-find-profitable-niches.webp"
     alt="Subscribe and Get the Ebook - Niche Market Research"/>
@@ -786,7 +786,7 @@ Guidelines</a>
   </tr>
 </table>
 <p>
-<a href="https://blog-fennex-agency.ck.page/niche-market-research-finding-profitable-niche-businesses">
+<a href="https://fennex-blog.ck.page/amazon-fba/how-to-do-niche-market-research-to-find-profitable-niche-businesses" target="_blank" rel="noopener">
 <img
     src="/images/amazon-fba/download-ebook-9-steps-to-find-profitable-niches.webp"
     alt="Subscribe and Get the Ebook - Niche Market Research"/>

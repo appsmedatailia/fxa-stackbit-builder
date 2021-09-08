@@ -56,7 +56,7 @@ But if you want to last in the business for a while you need to think about shif
 Before we talk about niche markets and niche products, you need to understand what a Market is and its characteristics.
 
 <p>
-<a href="https://blog-fennex-agency.ck.page/niche-market-research-finding-profitable-niche-businesses">
+<a href="https://fennex-blog.ck.page/amazon-fba/how-to-do-niche-market-research-to-find-profitable-niche-businesses" target="_blank" rel="noopener">
 <img
     src="/images/amazon-fba/download-ebook-9-steps-to-find-profitable-niches.webp"
     alt="Subscribe and Get the Ebook - Niche Market Research"/>
@@ -109,7 +109,7 @@ Because, if you identify a profitable niche market business, you can address a g
 
 Also, to generate profits, you must appear on page one of Amazon search results for as many buying keywords as possible. As a result, you need to compete for page one, and to avoid a higher level of competition, target a niche or even a micro niche.
 
-<a href="https://blog-fennex-agency.ck.page/niche-market-research-finding-profitable-niche-businesses">
+<a href="https://fennex-blog.ck.page/amazon-fba/how-to-do-niche-market-research-to-find-profitable-niche-businesses" target="_blank" rel="noopener">
 <img
     src="/images/amazon-fba/download-ebook-9-steps-to-find-profitable-niches.webp"
     alt="Subscribe and Get the Ebook - Niche Market Research"/>
@@ -194,7 +194,7 @@ There are 5 steps to find a profitable niches:
 4.  **_Keyword Validation_**: make sure that the niche you choose has a substantial demand.
 5.  **_Competition_**: see if you can compete in that niche market.
 
-<a href="https://blog-fennex-agency.ck.page/niche-market-research-finding-profitable-niche-businesses">
+<a href="https://fennex-blog.ck.page/amazon-fba/how-to-do-niche-market-research-to-find-profitable-niche-businesses" target="_blank" rel="noopener">
 <img
     src="/images/amazon-fba/download-ebook-9-steps-to-find-profitable-niches.webp"
     alt="Subscribe and Get the Ebook - Niche Market Research"/>
@@ -265,7 +265,7 @@ A successful online selling strategy involves building a brand. Today, being a b
 
 Niche market research is fundamental if you want to build your brand and diversify your online business.
 
-<a href="https://blog-fennex-agency.ck.page/niche-market-research-finding-profitable-niche-businesses">
+<a href="https://fennex-blog.ck.page/amazon-fba/how-to-do-niche-market-research-to-find-profitable-niche-businesses" target="_blank" rel="noopener">
 <img
     src="/images/amazon-fba/download-ebook-9-steps-to-find-profitable-niches.webp"
     alt="Subscribe and Get the Ebook - Niche Market Research"/>
