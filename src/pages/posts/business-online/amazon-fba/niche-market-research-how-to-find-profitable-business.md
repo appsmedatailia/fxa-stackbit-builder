@@ -271,4 +271,4 @@ Niche market research is fundamental if you want to build your brand and diversi
     alt="Subscribe and Get the Ebook - Niche Market Research"/>
 </a>
 
-<script async data-uid="1a5e7f2684" src="https://blog-fennex-agency.ck.page/1a5e7f2684/index.js"></script>
+<script async data-uid="1a5e7f2684" src="https://fennex-blog.ck.page/1a5e7f2684/index.js"></script>
