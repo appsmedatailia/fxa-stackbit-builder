@@ -45,7 +45,6 @@ module.exports = {
                 disallow: [
                   "/admin/",
                   "/downloads/",
-                  "/email-optin-confirmed/",
                   "/contact/",
                   "/policies/",
                   "/lp/"
@@ -62,14 +61,17 @@ module.exports = {
                 '/contact/confirm-email-optin/',
                 '/contact/contact-success/',
                 '/contact/subscribe-success/',
-                '/email-optin-confirmed/niche-market-research-finding-profitable-niche-businesses/',
                 '/policies/affiliate-disclaimer/',
                 '/policies/privacy-policy/',
                 '/policies/disclaimer/',
                 '/lp/free-amazon-fba-product-research-tools/email-confirmed/',
                 '/lp/free-amazon-fba-product-research-tools/thank-you/',
                 '/lp/free-amazon-fba-product-research-tools/jungle-scout/email-confirmed/',
-                '/lp/free-amazon-fba-product-research-tools/jungle-scout/thank-you/'
+                '/lp/free-amazon-fba-product-research-tools/jungle-scout/thank-you/',
+                '/lp/free-amazon-fba-niche-market-research-ebook/thank-you/',
+                '/lp/free-amazon-fba-niche-market-research-ebook/email-confirmed/',
+                '/lp/free-amazon-fba-workflow-blueprint/thank-you/',
+                '/lp/free-amazon-fba-workflow-blueprint/email-confirmed/'
               ],
                 serialize: ({ path, modifiedGmt }) => {
                     return {
