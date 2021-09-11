@@ -18,18 +18,18 @@
             {
                 "type": "action",
                 "label": "Tools",
-                "url": "/tools/amazon-fba/product-research-tools",
+                "url": "/tools/amazon-fba/product-research-tools/",
                 "style": "link"
             },
             {
                 "type": "action",
                 "label": "Contact",
-                "url": "/contact",
+                "url": "/contact/",
                 "style": "primary"
             },
             {
                 "label": "Fennex Agency",
-                "url": "https://www.fennex.agency",
+                "url": "https://www.fennex.agency/",
                 "style": "secondary",
                 "icon_class": "dev",
                 "new_window": true,
@@ -79,6 +79,18 @@
                 "type": "action",
                 "label": "Disclaimer",
                 "url": "/policies/disclaimer/",
+                "new_window": true
+            },
+            {
+                "type": "action",
+                "label": "Fennex Blog Home",
+                "url": "/",
+                "new_window": true
+            },
+            {
+                "type": "action",
+                "label": "Get In Touch",
+                "url": "/contact/",
                 "new_window": true
             }
         ],

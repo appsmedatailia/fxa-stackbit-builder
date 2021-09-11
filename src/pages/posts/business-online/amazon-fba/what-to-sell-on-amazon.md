@@ -155,7 +155,7 @@ competition and high demand.</em></strong>
 <a href="/lp/free-amazon-fba-product-research-tools/" target="_blank" rel="noopener">
 <img
     src="/images/amazon-fba/download-free-fba-tools.webp"
-    alt="Free Amazon FBA Product Research Tools"/>
+    alt="Free Amazon FBA Product Research Tools" title="Free Amazon FBA Product Research Tools"/>
 </a>
 
 <h2
@@ -382,7 +382,7 @@ and how you can improve it, etc.
 <a href="/lp/free-amazon-fba-product-research-tools/" target="_blank" rel="noopener">
 <img
     src="/images/amazon-fba/download-free-fba-tools.webp"
-    alt="Free Amazon FBA Product Research Tools"/>
+    alt="Free Amazon FBA Product Research Tools" title="Free Amazon FBA Product Research Tools"/>
 </a>
 
 <h2
@@ -532,7 +532,7 @@ item based on a set of criteria.
 <a href="/lp/free-amazon-fba-product-research-tools/" target="_blank" rel="noopener">
 <img
     src="/images/amazon-fba/download-free-fba-tools.webp"
-    alt="Free Amazon FBA Product Research Tools"/>
+    alt="Free Amazon FBA Product Research Tools" title="Free Amazon FBA Product Research Tools"/>
 </a>
 
 <h3>How does it work?</h3>
@@ -553,5 +553,5 @@ products based on an advanced set of criteria.
 <a href="/lp/free-amazon-fba-product-research-tools/" target="_blank" rel="noopener">
 <img
     src="/images/amazon-fba/download-free-fba-tools.webp"
-    alt="Free Amazon FBA Product Research Tools"/>
+    alt="Free Amazon FBA Product Research Tools" title="Free Amazon FBA Product Research Tools"/>
 </a>

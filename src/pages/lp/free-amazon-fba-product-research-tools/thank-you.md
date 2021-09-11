@@ -26,6 +26,6 @@ template: page
 
 <p>&nbsp;</p>
 
-<p><strong>If this did not help, please&nbsp;<a href="https://blog.fennex.agency/contact">contact</a>&nbsp;us.</strong></p>
+<p><strong>If this did not help, please&nbsp;<a href="https://blog.fennex.agency/contact/">contact</a>&nbsp;us.</strong></p>
 
-<p><a href="https://blog.fennex.agency/contact">Fennex Blog Team</a></p>
+<p><a href="https://blog.fennex.agency/contact/">Fennex Blog Team</a></p>

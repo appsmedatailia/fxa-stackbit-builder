@@ -59,7 +59,7 @@ Before we talk about niche markets and niche products, you need to understand wh
 <a href="https://fennex-blog.ck.page/amazon-fba/how-to-do-niche-market-research-to-find-profitable-niche-businesses" target="_blank" rel="noopener">
 <img
     src="/images/amazon-fba/download-ebook-9-steps-to-find-profitable-niches.webp"
-    alt="Subscribe and Get the Ebook - Niche Market Research"/>
+    alt="Subscribe and Get the Ebook - Niche Market Research" title="Subscribe and Get the Ebook - Niche Market Research"/>
 </a>
 </p>
 
@@ -112,7 +112,7 @@ Also, to generate profits, you must appear on page one of Amazon search results 
 <a href="https://fennex-blog.ck.page/amazon-fba/how-to-do-niche-market-research-to-find-profitable-niche-businesses" target="_blank" rel="noopener">
 <img
     src="/images/amazon-fba/download-ebook-9-steps-to-find-profitable-niches.webp"
-    alt="Subscribe and Get the Ebook - Niche Market Research"/>
+    alt="Subscribe and Get the Ebook - Niche Market Research" title="Subscribe and Get the Ebook - Niche Market Research"/>
 </a>
 
 <h2 id="niche-market-typologies">Niche Market Typologies</h2>
@@ -197,7 +197,7 @@ There are 5 steps to find a profitable niches:
 <a href="https://fennex-blog.ck.page/amazon-fba/how-to-do-niche-market-research-to-find-profitable-niche-businesses" target="_blank" rel="noopener">
 <img
     src="/images/amazon-fba/download-ebook-9-steps-to-find-profitable-niches.webp"
-    alt="Subscribe and Get the Ebook - Niche Market Research"/>
+    alt="Subscribe and Get the Ebook - Niche Market Research" title="Subscribe and Get the Ebook - Niche Market Research"/>
 </a>
 
 ### **Niche Market Brainstorm**
@@ -268,7 +268,7 @@ Niche market research is fundamental if you want to build your brand and diversi
 <a href="https://fennex-blog.ck.page/amazon-fba/how-to-do-niche-market-research-to-find-profitable-niche-businesses" target="_blank" rel="noopener">
 <img
     src="/images/amazon-fba/download-ebook-9-steps-to-find-profitable-niches.webp"
-    alt="Subscribe and Get the Ebook - Niche Market Research"/>
+    alt="Subscribe and Get the Ebook - Niche Market Research" title="Subscribe and Get the Ebook - Niche Market Research"/>
 </a>
 
 <script async data-uid="1a5e7f2684" src="https://fennex-blog.ck.page/1a5e7f2684/index.js"></script>

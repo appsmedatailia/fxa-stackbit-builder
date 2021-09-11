@@ -1,6 +1,10 @@
 ---
 title: Disclaimer
 template: page
+seo:
+  type: stackbit_page_meta
+  description: >-
+    The Fennex Blog Disclaimer Page.
 ---
 
 Last updated: 2021-07-18

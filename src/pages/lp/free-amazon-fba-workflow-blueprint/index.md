@@ -37,7 +37,7 @@ content_img_path:
 
 <img
     src="/images/lp-amazon-blueprint/free-amazon-fba-blueprint.webp"
-    alt="Free Amazon FBA Product Research Tools"/>
+    alt="Free Amazon FBA Product Research Tools" title="Free Amazon FBA Product Research Tools"/>
 
 <div class="ml-form-embed"
   data-account="3346150:e2k4d6o1l1"

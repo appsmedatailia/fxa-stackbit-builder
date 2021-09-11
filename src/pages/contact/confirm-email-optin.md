@@ -12,7 +12,7 @@ Didn’t receive an email?
 
 **_Step 3:_** If you find my email there, **<span style="text-decoration:underline;">please move it to your primary inbox</span>** for more frequent updates. 
 
-**If this did not help, please [contact](/contact) us.**
+**If this did not help, please [contact](/contact/) us.**
 
 
-[Fennex Blog Team](/contact)
+[Fennex Blog Team](/contact/)

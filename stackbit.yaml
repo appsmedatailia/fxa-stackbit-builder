@@ -279,7 +279,7 @@ models:
           - stackbit_page_meta
   contact:
     type: page
-    urlPath: /contact
+    urlPath: /contact/
     label: Contact
     layout: contact
     file: contact.md

@@ -384,7 +384,7 @@ your amazon FBA business.
 <a href="https://fennex-blog.ck.page/amazon-fba/how-to-do-niche-market-research-to-find-profitable-niche-businesses" target="_blank" rel="noopener">
 <img
     src="/images/amazon-fba/download-ebook-9-steps-to-find-profitable-niches.webp"
-    alt="Subscribe and Get the Ebook - Niche Market Research"/>
+    alt="Subscribe and Get the Ebook - Niche Market Research" title="Subscribe and Get the Ebook - Niche Market Research"/>
 </a>
 </p>
 <h2 id="amazon-ungated-categories">Amazon Ungated Categories</h2>
@@ -549,7 +549,7 @@ Guidelines</a>
    <td>Yes
 <p>
 <a
- target="_blank" rel="noopener" href="https://sellercentral.amazon.com/gp/help/external/gp/help/G32431?language=en_US&ref=efph_xx_cont_G200332540">Selling
+ target="_blank" rel="noopener" href="https://sellercentral.amazon.com/">Selling
 Guidelines</a>
    </td>
   </tr>
@@ -561,7 +561,7 @@ Guidelines</a>
    <td>While listing in the Software, Video Games, and Consumer Electronics
 categories is generally open to all sellers, specific products may require
 pre-approval. <a
- target="_blank" rel="noopener" href="https://sellercentral.amazon.com/gp/help/external/gp/help/G200998650?language=en_US&ref=efph_xx_cont_G200332540">Selling
+ target="_blank" rel="noopener" href="https://sellercentral.amazon.com/">Selling
 Guidelines</a>
    </td>
   </tr>
@@ -789,6 +789,6 @@ Guidelines</a>
 <a href="https://fennex-blog.ck.page/amazon-fba/how-to-do-niche-market-research-to-find-profitable-niche-businesses" target="_blank" rel="noopener">
 <img
     src="/images/amazon-fba/download-ebook-9-steps-to-find-profitable-niches.webp"
-    alt="Subscribe and Get the Ebook - Niche Market Research"/>
+    alt="Subscribe and Get the Ebook - Niche Market Research" title="Subscribe and Get the Ebook - Niche Market Research"/>
 </a>
 </p>

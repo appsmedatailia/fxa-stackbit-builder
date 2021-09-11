@@ -1,6 +1,10 @@
 ---
 title: Affiliate Disclaimer
 template: page
+seo:
+  type: stackbit_page_meta
+  description: >-
+    The Fennex Blog Affiliate Disclaimer Page.
 ---
 Hey Guys and Gals.
 

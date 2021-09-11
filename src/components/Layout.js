@@ -53,9 +53,7 @@ export default class Body extends React.Component {
                     {_.get(this.props, 'pageContext.site.siteMetadata.footer.has_subscribe', null) && (
                       <Subscribe {...this.props} />
                     )}
-                    {!_.get(this.props, 'pageContext.frontmatter.is_landing_page', null) && (
-                      <Footer {...this.props} />
-                    )}                    
+                    <Footer {...this.props} />                   
                   </div>
             </React.Fragment>
         );

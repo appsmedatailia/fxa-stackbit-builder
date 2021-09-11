@@ -46,7 +46,7 @@ Our Amazon Jungle Scout review guide will differ from the rest, as we based it o
 
 Okay, let’s do it!
 
-# Table of Contents
+<h2>Table of Contents</h2>
   * [What is Jungle Scout Web App?](#what-is-jungle-scout-web-app)
   * [How To Use Jungle Scout In Product Research](#how-to-use-jungle-scout-in-product-research)
   * [Niche Market Research (JS Opportunity Finder)](#niche-market-research)
@@ -84,8 +84,8 @@ In summary, Jungle Scout Web App is an all-in-one tool to help Amazon FBA seller
 
 <p>
 <img
-    src="\images\jungle-scout\How JS Helps Amazon Sellers.webp"
-    alt="How JS Helps Amazon Sellers"/>
+    src="/images/jungle-scout/How JS Helps Amazon Sellers.webp"
+    alt="How JS Helps Amazon Sellers" title="How JS Helps Amazon Sellers"/>
 </a>
 </p>
 
@@ -122,8 +122,8 @@ Opportunity Finder provides countless opportunities that are in high demand and 
 <p>
 <a href="https://junglescout.grsm.io/fennex-opportunity-finder" target="_blank" rel="noopener nofollow sponsored">
 <img
-    src="\images\jungle-scout\Opportunity Finder.webp"
-    alt="Jungle Scout Opportunity Finder"/>
+    src="/images/jungle-scout/Opportunity Finder.webp"
+    alt="Jungle Scout Opportunity Finder" title="Jungle Scout Opportunity Finder"/>
 </a>
 </p>
 
@@ -139,8 +139,8 @@ By filtering by one or more of the following, you can find product niches to sel
 <p>
 <a href="https://junglescout.grsm.io/fennex-opportunity-finder" target="_blank" rel="noopener nofollow sponsored">
 <img
-    src="\images\jungle-scout\Opp Finder.webp"
-    alt="Jungle Scout Opportunity Finder Filters"/>
+    src="/images/jungle-scout/Opp Finder.webp"
+    alt="Jungle Scout Opportunity Finder Filters" title="Jungle Scout Opportunity Finder Filters"/>
 </a>
 </p>
 
@@ -149,8 +149,8 @@ Opportunity Finder includes graphs and charts that show the past performance of 
 <p>
 <a href="https://junglescout.grsm.io/fennex-opportunity-finder" target="_blank" rel="noopener nofollow sponsored">
 <img
-    src="\images\jungle-scout\Opp Finder 2.webp"
-    alt="Jungle Scout Opportunity Finder Graphs"/>
+    src="/images/jungle-scout/Opp Finder 2.webp"
+    alt="Jungle Scout Opportunity Finder Graphs" title="Jungle Scout Opportunity Finder Graphs"/>
 </a>
 </p>
 
@@ -187,8 +187,8 @@ Explore products that match your exact search criteria and generate ideas in sec
 <p>
 <a href="https://junglescout.grsm.io/fennex-product-database" target="_blank" rel="noopener nofollow sponsored">
 <img
-    src="\images\jungle-scout\Product Database.webp"
-    alt="Jungle Scout Product Database"/>
+    src="/images/jungle-scout/Product Database.webp"
+    alt="Jungle Scout Product Database" title="Jungle Scout Product Database"/>
 </a>
 </p>
 
@@ -201,8 +201,8 @@ Use Keyword Scout to discover what Amazon shoppers want. Analyze multiple ASINs 
 <p>
 <a href="https://junglescout.grsm.io/fennex-keyword-scout" target="_blank" rel="noopener nofollow sponsored">
 <img
-    src="\images\jungle-scout\KWS2.webp"
-    alt="Jungle Scout Keyword Scout"/>
+    src="/images/jungle-scout/KWS2.webp"
+    alt="Jungle Scout Keyword Scout" title="Jungle Scout Keyword Scout"/>
 </a>
 </p>
 
@@ -239,8 +239,8 @@ One of Amazon’s unique selling tools, the <a href="https://junglescout.grsm.io
 <p>
 <a href="https://junglescout.grsm.io/fennex-supplier-database" target="_blank" rel="noopener nofollow sponsored">
 <img
-    src="\images\jungle-scout\Supplier Database.webp"
-    alt="Jungle Scout Supplier Database"/>
+    src="/images/jungle-scout/Supplier Database.webp"
+    alt="Jungle Scout Supplier Database" title="Jungle Scout Supplier Database"/>
 </a>
 </p>
   
@@ -249,8 +249,8 @@ Find all global suppliers of your product and check their customer volume or con
 <p>
 <a href="https://junglescout.grsm.io/fennex-supplier-database" target="_blank" rel="noopener nofollow sponsored">
 <img
-    src="\images\jungle-scout\Supplier Overview 4.webp"
-    alt="Jungle Scout Supplier Database Overview"/>
+    src="/images/jungle-scout/Supplier Overview 4.webp"
+    alt="Jungle Scout Supplier Database Overview" title="Jungle Scout Supplier Database Overview"/>
 </a>
 </p>
 
@@ -259,8 +259,8 @@ The Supplier Tracker tool helps you organize your supplier lists, compare quotes
 <p>
 <a href="https://junglescout.grsm.io/fennex-supplier-database" target="_blank" rel="noopener nofollow sponsored">
 <img
-    src="\images\jungle-scout\Supplier Tracker.png"
-    alt="Jungle Scout Supplier Database Tracker"/>
+    src="/images/jungle-scout/Supplier Tracker.png"
+    alt="Jungle Scout Supplier Database Tracker" title="Jungle Scout Supplier Database Tracker"/>
 </a>
 </p>
 
@@ -289,8 +289,8 @@ For each product, you can view key metrics, including price, rank, and average d
 <p>
 <a href="https://junglescout.grsm.io/fennex-product-tracker" target="_blank" rel="noopener nofollow sponsored">
 <img
-    src="\images\jungle-scout\Product Tracker.webp"
-    alt="Jungle Scout Product Tracker"/>
+    src="/images/jungle-scout/Product Tracker.webp"
+    alt="Jungle Scout Product Tracker" title="Jungle Scout Product Tracker"/>
 </a>
 </p>
 
@@ -298,8 +298,8 @@ You can also use the Listing Grader to evaluate the listing quality of any produ
 
 <p>
 <img
-    src="\images\jungle-scout\Listing Grader.png"
-    alt="Jungle Scout Listing Grader"/>
+    src="/images/jungle-scout/Listing Grader.png"
+    alt="Jungle Scout Listing Grader" title="Jungle Scout Listing Grader"/>
 </a>
 </p>
 
@@ -310,8 +310,8 @@ Use the integrated Amazon FBA Fee Calculator in the Product Database or Product 
 <p>
 <a href="https://junglescout.grsm.io/fennex-product-database" target="_blank" rel="noopener nofollow sponsored">
 <img
-    src="\images\jungle-scout\FBA Profit Calculator.png"
-    alt="Jungle Scout FBA Profit Calculator"/>
+    src="/images/jungle-scout/FBA Profit Calculator.png"
+    alt="Jungle Scout FBA Profit Calculator" title="Jungle Scout FBA Profit Calculator"/>
 </a>
 </p>
 
@@ -319,10 +319,10 @@ With Jungle Scout Amazon FBA Profit Calculator, you can keep track of overhead c
 
 Or, use the <a href="https://junglescout.grsm.io/fennex-fba-calculator-free" target="_blank" rel="noopener nofollow sponsored">FREE</a> Jungle Scout <a href="https://junglescout.grsm.io/fennex-fba-calculator-free" target="_blank" rel="noopener nofollow sponsored">Amazon FBA Fee Calculator</a>.
 
-<a href="/lp/free-amazon-fba-product-research-tools/jungle-scout" target="_blank" rel="noopener">
+<a href="/lp/free-amazon-fba-product-research-tools/" target="_blank" rel="noopener">
 <img
     src="/images/amazon-fba/download-free-fba-tools.webp"
-    alt="Free Amazon FBA Product Research Tools"/>
+    alt="Free Amazon FBA Product Research Tools" title="Free Amazon FBA Product Research Tools"/>
 </a>
 
 <h2 id="the-jungle-scout-academy">The Jungle Scout Academy</h2>
@@ -332,8 +332,8 @@ Jungle Scout Academy is one of the major advantages you get when you subscribe t
 <p>
 <a href="https://junglescout.grsm.io/fennex-academy" target="_blank" rel="noopener nofollow sponsored">
 <img
-    src="\images\jungle-scout\Academy.webp"
-    alt="Jungle Scout Academy"/>
+    src="/images/jungle-scout/Academy.webp"
+    alt="Jungle Scout Academy" title="Jungle Scout Academy"/>
 </a>
 </p>
 
@@ -342,8 +342,8 @@ Integrated right into your Jungle Scout Web App account, <a href="https://jungl
 <p>
 <a href="https://junglescout.grsm.io/fennex-academy" target="_blank" rel="noopener nofollow sponsored">
 <img
-    src="\images\jungle-scout\JS Academy.webp"
-    alt="Jungle Scout Academy Course"/>
+    src="/images/jungle-scout/JS Academy.webp"
+    alt="Jungle Scout Academy Course" title="Jungle Scout Academy Course"/>
 </a>
 </p>
 
@@ -364,10 +364,10 @@ Free YouTube videos:
 *   <a href="https://junglescout.grsm.io/fennex-js-yt-what-to-sell-on-amazon" target="_blank" rel="noopener nofollow sponsored">What to Sell on Amazon 2021 | Find a Profitable Product to Sell on Amazon | New Jungle Scout Tools</a>
 *   <a href="https://junglescout.grsm.io/fennex-js-yt-how-to-sell-on-amazon-fba-for-beginners" target="_blank" rel="noopener nofollow sponsored">How to Sell on Amazon FBA for Beginners | Step by Step Tutorial by Jungle Scout Web App (2021)</a>
 
-<a href="/lp/free-amazon-fba-product-research-tools/jungle-scout" target="_blank" rel="noopener">
+<a href="/lp/free-amazon-fba-product-research-tools/" target="_blank" rel="noopener">
 <img
     src="/images/amazon-fba/download-free-fba-tools.webp"
-    alt="Free Amazon FBA Product Research Tools"/>
+    alt="Free Amazon FBA Product Research Tools" title="Free Amazon FBA Product Research Tools"/>
 </a>
 
 <h2 id="partner-advantage">Jungle Scout Partner Advantage</h2>
@@ -377,8 +377,8 @@ We get you an enormous advantage! Over 60% off the standard price, plus a 7-day 
 <p>
 <a href="https://junglescout.grsm.io/fennex-jungle-scout-offer" target="_blank" rel="noopener nofollow sponsored">
 <img
-    src="\images\jungle-scout\partner-pricing.png"
-    alt="Jungle Scout Partner Offer"/>
+    src="/images/jungle-scout/partner-pricing.png"
+    alt="Jungle Scout Partner Offer" title="Jungle Scout Partner Offer"/>
 </a>
 </p>
 
@@ -386,8 +386,8 @@ We get you an enormous advantage! Over 60% off the standard price, plus a 7-day 
 
 <p>
 <img
-    src="\images\jungle-scout\js-pricing.png"
-    alt="Jungle Scout Pricing"/>
+    src="/images/jungle-scout/js-pricing.png"
+    alt="Jungle Scout Pricing" title="Jungle Scout Pricing"/>
 </a>
 </p>
 
@@ -414,14 +414,14 @@ The truth is, you need appropriate tool to automate your Amazon business, and Ju
 <p>
 <a href="https://www.trustpilot.com/review/junglescout.com" target="_blank" rel="noopener nofollow sponsored">
 <img
-    src="\images\jungle-scout\Jungle Scout Trustpilot Reviews.webp"
-    alt="Jungle Scout Trustpilot Reviews"/>
+    src="/images/jungle-scout/Jungle Scout Trustpilot Reviews.webp"
+    alt="Jungle Scout Trustpilot Reviews" title="Jungle Scout Trustpilot Reviews"/>
 </a>
 </p>
 
-<a href="/lp/free-amazon-fba-product-research-tools/jungle-scout" target="_blank" rel="noopener">
+<a href="/lp/free-amazon-fba-product-research-tools/" target="_blank" rel="noopener">
 <img
     src="/images/amazon-fba/download-free-fba-tools.webp"
-    alt="Free Amazon FBA Product Research Tools"/>
+    alt="Free Amazon FBA Product Research Tools" title="Free Amazon FBA Product Research Tools"/>
 </a>
 

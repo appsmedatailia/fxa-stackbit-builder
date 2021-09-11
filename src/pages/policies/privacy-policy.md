@@ -1,6 +1,10 @@
 ---
 title: Privacy Policy
 template: page
+seo:
+  type: stackbit_page_meta
+  description: >-
+    The Fennex Blog Privacy Policy Page.
 ---
 
 Effective date: 2021-07-18
