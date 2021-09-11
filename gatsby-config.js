@@ -43,7 +43,8 @@ module.exports = {
               {
                 userAgent: "*",
                 allow: [
-                  "/"
+                  "/",
+                  "/contact/",
                 ],
                 disallow: [
                   "/admin/",
