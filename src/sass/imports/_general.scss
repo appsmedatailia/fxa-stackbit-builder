@@ -449,7 +449,6 @@ video {
 
 /* Images */
 img {
-  aspect-ratio: attr(width) / attr(height);
   height: auto;
   width: 100%;
 }

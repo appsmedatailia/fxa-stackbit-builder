@@ -78,75 +78,75 @@ Amazon FBA?</a>
 Guide</a>
 </p>
 <ul>
-<p>
+<li>
     <a href="#milestone-1-niche-market-research">Milestone 1: Niche Market
 Research</a>
-</p>
-<p>
+</li>
+<li>
     <a
 href="#milestone-2-amazon-product-research-brainstorm-product-ideas">Milestone
 2: Amazon Product Research (Brainstorm Product Ideas)</a>
-</p>
-<p>
+</li>
+<li>
     <a
 href="#milestone-3-amazon-product-research-identify-the-winning-products">Milestone
 3: Amazon Product Research (Identify the winning products)</a>
-</p>
-<p>
+</li>
+<li>
     <a href="#milestone-4-sourcing-top-5-products">Milestone 4: Sourcing Top 5
 Products</a>
-</p>
-<p>
+</li>
+<li>
     <a href="#milestone-5-sourcing-top-1-product">Milestone 5: Sourcing Top 1
 Product</a>
-</p>
-<p>
+</li>
+<li>
     <a href="#milestone-6-branding-|-brainstorming">Milestone 6: Branding |
 Brainstorming</a>
-</p>
-<p>
+</li>
+<li>
     <a href="#milestone-7-build-relationship">Milestone 7: Build
 Relationship</a>
-</p>
-<p>
+</li>
+<li>
     <a
 href="#milestone-8-product-validation-fba-amazon-fees-and-profits">Milestone 8:
 Product Validation (FBA Amazon Fees And Profits)</a>
-</p>
-<p>
+</li>
+<li>
     <a href="#milestone-9-company-formation">Milestone 9: Company Formation</a>
-</p>
-<p>
+</li>
+<li>
     <a href="#milestone-10-amazon-fba-us-uk-eur-account-set-up">Milestone 10:
 Amazon FBA (US, UK, EUR) Account Set-Up</a>
-</p>
-<p>
+</li>
+<li>
     <a href="#milestone-11-branding-|-realization">Milestone 11: Branding |
 Realization</a>
-</p>
-<p>
+</li>
+<li>
     <a href="#milestone-12-ordering">Milestone 12: Ordering</a>
-</p>
-<p>
+</li>
+<li>
     <a href="#milestone-13-listing-creation">Milestone 13: Listing Creation</a>
-</p>
-<p>
+</li>
+<li>
     <a href="#milestone-14-launch-preparation">Milestone 14: Launch
 Preparation</a>
-</p>
-<p>
+</li>
+<li>
     <a href="#milestone-15-shipping-plan">Milestone 15: Shipping Plan</a>
-</p>
-<p>
+</li>
+<li>
     <a href="#milestone-16-launching">Milestone 16: Launching</a>
-</p>
-<p>
+</li>
+<li>
     <a href="#milestone-17-optimization">Milestone 17: Optimization</a>
-</p>
-<p>
+</li>
+<li>
     <a href="#milestone-18-maintenance-&-inventory">Milestone 18: Maintenance &
 Inventory</a>
-</p>
+</li>
 </ul>
 
 <p>

@@ -63,33 +63,33 @@ Is The Strategy To Find A Great Product To Sell On Amazon?</a>
 Of An Awesome Product For Amazon FBA</a>
 </p>
 <ul>
-<p>
+<li>
     <a href="#seasonality-&-trending">Seasonality & Trending</a>
-</p>
-<p>
+</li>
+<li>
     <a href="#number-of-reviews">Number Of Reviews</a>
-</p>
-<p>
+</li>
+<li>
     <a href="#bsr-amazon-best-seller-rank">BSR (Amazon Best Seller Rank)</a>
-</p>
-<p>
+</li>
+<li>
     <a href="#price-range">Price Range</a>
-</p>
-<p>
+</li>
+<li>
     <a href="#profit-margin">Profit Margin</a>
-</p>
-<p>
+</li>
+<li>
     <a href="#size-&-weight">Size & Weight</a>
-</p>
-<p>
+</li>
+<li>
     <a href="#quality-&-usability">Quality & Usability</a>
-</p>
-<p>
+</li>
+<li>
     <a href="#trademark-&-uniqueness">Trademark & Uniqueness</a>
-</p>
-<p>
+</li>
+<li>
     <a href="#types-of-packaging">Types Of Packaging</a>
-</p>
+</li>
 </ul>
 <p>
 <a href="#examples-of-great-items-to-sell-for-amazon-fba-business">Examples Of
