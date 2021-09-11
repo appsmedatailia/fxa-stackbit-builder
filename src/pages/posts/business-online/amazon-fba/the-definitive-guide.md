@@ -45,7 +45,7 @@ We’ve got a lot to cover, so let’s get started.
 <p>
 <strong><em>Note: If you've already done your research about FBA and know what
 it is, skip right to the [<a
-href="/posts/business-online/amazon-fba/the-definitive-guide-updated/#the-18-milestones-step-by-step-guide">The
+href="/posts/business-online/amazon-fba/the-definitive-guide/#the-18-milestones-step-by-step-guide">The
 18 Milestones Step By Step Guide</a>] section.</em></strong>
 </p>
 <p>
@@ -148,6 +148,14 @@ Preparation</a>
 Inventory</a>
 </p>
 </ul>
+
+<p>
+<a href="/lp/free-amazon-fba-workflow-blueprint/" target="_blank" rel="noopener">
+<img
+    src="/images/lp-amazon-blueprint/download-amazon-fba-blueprint.webp"
+    alt="Free Amazon FBA Product Research Tools" title="Free Amazon FBA Product Research Tools"/>
+</a>
+</p>
 
 <h2 id="what-is-amazon-fba-business">What is Amazon FBA Business?</h2>
 <p>
@@ -551,6 +559,11 @@ get into the analysis paralysis. For a better understanding, each milestone of
 the guide will be a subject of a blog post.
 </p>
 <p>
+<a href="/lp/free-amazon-fba-workflow-blueprint/" target="_blank" rel="noopener">
+<img
+    src="/images/lp-amazon-blueprint/download-amazon-fba-blueprint.webp"
+    alt="Free Amazon FBA Product Research Tools" title="Free Amazon FBA Product Research Tools"/>
+</a>
 </p>
 <h3 id="milestone-1-niche-market-research">Milestone 1: <a
 href="/posts/business-online/amazon-fba/niche-market-research-how-to-find-profitable-business/">Niche
@@ -575,7 +588,7 @@ To Do Niche Market Research</a>.
 <a href="https://fennex-blog.ck.page/amazon-fba/how-to-do-niche-market-research-to-find-profitable-niche-businesses" target="_blank" rel="noopener">
 <img
     src="/images/amazon-fba/download-ebook-9-steps-to-find-profitable-niches.webp"
-    alt="Subscribe and Get the Ebook - Niche Market Research"/>
+    alt="Subscribe and Get the Ebook - Niche Market Research" title="Subscribe and Get the Ebook - Niche Market Research"/>
 </a>
 </p>
 <h3 id="milestone-2-amazon-product-research-brainstorm-product-ideas">Milestone
@@ -611,7 +624,7 @@ To Do Amazon Product Research</a>.
 <a href="/lp/free-amazon-fba-product-research-tools/" target="_blank" rel="noopener">
 <img
     src="/images/amazon-fba/download-free-fba-tools.webp"
-    alt="Free Amazon FBA Product Research Tools"/>
+    alt="Free Amazon FBA Product Research Tools" title="Free Amazon FBA Product Research Tools"/>
 </a>
 </p>
 <h3 id="milestone-4-sourcing-top-5-products">Milestone 4: Sourcing Top 5
@@ -787,14 +800,15 @@ Training & Courses.</em></strong>
 <a href="https://fennex-blog.ck.page/amazon-fba/how-to-do-niche-market-research-to-find-profitable-niche-businesses" target="_blank" rel="noopener">
 <img
     src="/images/amazon-fba/download-ebook-9-steps-to-find-profitable-niches.webp"
-    alt="Subscribe and Get the Ebook - Niche Market Research"/>
+    alt="Subscribe and Get the Ebook - Niche Market Research" title="Subscribe and Get the Ebook - Niche Market Research"/>
 </a>
+</p>
 
 <h2>Amazon Product Research - Free Tools</h2>
-</p>
+<p>
 <a href="/lp/free-amazon-fba-product-research-tools/" target="_blank" rel="noopener">
 <img
     src="/images/amazon-fba/download-free-fba-tools.webp"
-    alt="Free Amazon FBA Product Research Tools"/>
+    alt="Free Amazon FBA Product Research Tools" title="Free Amazon FBA Product Research Tools"/>
 </a>
 </p>
