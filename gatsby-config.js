@@ -85,7 +85,18 @@ module.exports = {
               siteUrl: `https://blog.fennex.agency`,
               stripQueryString: true,
             },
-          },,
+          },
+          {
+            resolve: `gatsby-plugin-gdpr-cookies`,
+            options: {              
+              googleTagManager: {
+                trackingId: 'GTM-MSL4NQP', // leave empty if you want to disable the tracker
+                cookieName: 'cookieyes-analytics', // default
+                dataLayerName: 'dataLayer', // default,
+                routeChangeEvent:'gatsby-route-change'
+              }
+            },
+          },
           {
             resolve: "gatsby-plugin-social9-socialshare",
             options: {
