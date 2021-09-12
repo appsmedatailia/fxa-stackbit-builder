@@ -7,6 +7,7 @@ subtitle: >-
 cta: Download Your Free Tools Now!
 thumb_img_alt: Free Amazon FBA Workflow Blueprint
 content_img_alt: Free Amazon FBA Workflow Blueprint
+img_title: Free Amazon FBA Workflow Blueprint
 seo:
   type: stackbit_page_meta
   description: >-

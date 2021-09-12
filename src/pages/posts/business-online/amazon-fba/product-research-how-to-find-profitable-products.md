@@ -5,6 +5,7 @@ subtitle: >-
 date: '2021-07-14'
 thumb_img_alt: Amazon Product Research
 content_img_alt: Amazon Product Research
+img_title: Amazon Product Research
 excerpt: >-
   Learn How To Do Amazon FBA Product Research And How To Use The Best Free And Paid Research Tools To Find Profitable Products And Offers. No B.S. Guide And Tips.
 seo:

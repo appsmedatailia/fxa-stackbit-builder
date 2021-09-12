@@ -8,6 +8,7 @@ subtitle: >-
 cta: Download Your Free Tools Now!
 thumb_img_alt: Free Amazon Product Research Tools
 content_img_alt: Free Amazon Product Research Tools
+img_title: Free Amazon Product Research Tools
 seo:
   type: stackbit_page_meta
   description: >-

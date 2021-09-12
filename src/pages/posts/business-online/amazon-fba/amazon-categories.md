@@ -5,6 +5,7 @@ subtitle: >-
 date: '2021-09-05'
 thumb_img_alt: Amazon Product Research Best Criteria
 content_img_alt: Amazon Product Research Best Criteria
+img_title: Amazon Product Research Best Criteria
 excerpt: >-
   Learn how to find out which Amazon FBA categories are the best for your products. Find out how to use Amazon’s Category Explorer and check out the best product categories to sell on Amazon with this guide.
 seo:

@@ -5,6 +5,7 @@ subtitle: >-
 date: '2021-08-24'
 thumb_img_alt: Amazon Product Research Best Criteria
 content_img_alt: Amazon Product Research Best Criteria
+img_title: Amazon Product Research Best Criteria
 excerpt: >-
   Learn how to find profitable items that will fit your fba needs. Find out what criteria you should use when researching products on Amazon FBA.
 seo:

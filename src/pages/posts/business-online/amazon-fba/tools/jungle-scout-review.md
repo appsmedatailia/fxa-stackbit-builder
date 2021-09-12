@@ -5,6 +5,7 @@ subtitle: >-
 date: '2021-07-27'
 thumb_img_alt: Jungle Scout Review
 content_img_alt: Jungle Scout Review
+img_title: Jungle Scout Review
 excerpt: >-
   Are You Wondering Which Tool You Need For Your Amazon Business? Read Our Jungle Scout Review & Learn How To Use Jungle Scout To Do Product Research
 seo:
