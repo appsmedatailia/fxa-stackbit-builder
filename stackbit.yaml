@@ -375,6 +375,10 @@ models:
         name: date
         label: Date
         required: true
+      - type: date
+        name: update_date
+        label: Update Date
+        required: false
       - type: image
         name: thumb_img_path
         label: Image (blog feed)
