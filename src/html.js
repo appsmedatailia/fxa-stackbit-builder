@@ -6,9 +6,7 @@ export default function HTML(props) {
     <html {...props.htmlAttributes}>
       <head>
         <meta charSet="utf-8"/>
-        
-        <script id="cookieyes" src="https://cdn-cookieyes.com/client_data/14e5c8c76cf4bf2ebd769392.js"></script>
-        
+                
         {props.headComponents}
       </head>
       <body {...props.bodyAttributes}>

@@ -71,12 +71,28 @@ module.exports = {
                 '/lp/free-amazon-fba-workflow-blueprint/thank-you/',
                 '/lp/free-amazon-fba-workflow-blueprint/email-confirmed/'
               ],
-                serialize: ({ path, modifiedGmt }) => {
-                    return {
-                    url: path,
-                    lastmod: modifiedGmt,
+              query: `
+              {
+                allSitePage {
+                  nodes {
+                    path
+                    context {
+                      frontmatter {
+                        date          
+                        update_date
+                      }
                     }
-                },
+                  }
+                }
+              }
+              `,
+              resolveSiteUrl: () => siteMetadata.siteUrl,
+              serialize: ({ path, context}) => {
+                return {
+                  url: path,
+                  lastmod: (context.frontmatter.update_date===null ? context.frontmatter.date:context.frontmatter.update_date),                  
+                }
+              },
             },
           },
           {
@@ -84,17 +100,6 @@ module.exports = {
             options: {
               siteUrl: `https://blog.fennex.agency`,
               stripQueryString: true,
-            },
-          },
-          {
-            resolve: `gatsby-plugin-gdpr-cookies`,
-            options: {              
-              googleTagManager: {
-                trackingId: 'GTM-MSL4NQP', // leave empty if you want to disable the tracker
-                cookieName: 'cookieyes-analytics', // default
-                dataLayerName: 'dataLayer', // default,
-                routeChangeEvent:'gatsby-route-change'
-              }
             },
           },
           {
