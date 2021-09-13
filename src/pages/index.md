@@ -2,11 +2,13 @@
 title: Home
 has_intro: true
 intro_content: >-
-  Learn How To Leverage Digital Marketing And Web Technologies To Build A Successful Online Business And Grow It The Right Way. 
-      
-  Do You Know Why?
-      
-  Because Entrepreneurs And Smbs Need To Take Advantage Of The Internet, Mobile Technologies, And Social Networks To Gain Visibility, Best Serve Their Customers, And Stay Ahead Of The Competition.
+    One of the biggest marketplaces in the world is Amazon. Billions of customers shop online and Amazon marketplace is the # 1 destination!
+    
+
+    Do you see the potential of an online entrepreneur having their business on Amazon?
+
+
+    Become an Amazon seller and start your business online today!
 
 intro_actions:
   - type: action
@@ -19,7 +21,7 @@ seo:
   type: stackbit_page_meta
   title: The Fennex Blog
   description: >-
-    Learn How To Leverage Digital Marketing And Web Technologies To Build A Successful Online Business And Grow It The Right Way.
+    Become an Amazon seller and start your FBA business online today! Learn The Amazon FBA Business
   extra:
     - name: 'og:type'
       value: website
@@ -29,7 +31,7 @@ seo:
       keyName: property
     - name: 'og:description'
       value: >-
-        Learn How To Leverage Digital Marketing And Web Technologies To Build A Successful Online Business And Grow It The Right Way.
+        Become an Amazon seller and start your FBA business online today! Learn The Amazon FBA Business
       keyName: property
     - name: 'og:image'
       value: images/fxa-blog-preview.webp
@@ -39,7 +41,7 @@ seo:
       value: The Fennex Blog
     - name: 'twitter:description'
       value: >-
-        Learn How To Leverage Digital Marketing And Web Technologies To Build A Successful Online Business And Grow It The Right Way.
+         Become an Amazon seller and start your FBA business online today! Learn The Amazon FBA Business
     - name: 'twitter:image'
       value: images/fxa-blog-preview.webp
       relativeUrl: true
