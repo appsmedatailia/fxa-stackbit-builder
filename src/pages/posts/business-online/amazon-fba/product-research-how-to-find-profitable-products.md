@@ -323,38 +323,38 @@ You can accomplish this in two ways. The first option would be to combine severa
 
 #### **For Keyword Discovery, Reverse AISN KW Discovery, Keyword Search Volume, And Keyword Trending**
 
-*   <a href="/tools/amazon-fba/product-research-tools/#free-tools" target="_blank" rel="noopener">SellerApp Keyword Research</a>
-*   <a href="/tools/amazon-fba/product-research-tools/#free-tools" target="_blank" rel="noopener">kinwords</a>
-*   <a href="/tools/amazon-fba/product-research-tools/#free-tools" target="_blank" rel="noopener">ScientificSeller keyword tool</a>
-*   <a href="/tools/amazon-fba/product-research-tools/#free-tools" target="_blank" rel="noopener">keywordtool.io</a>
-*   <a href="/tools/amazon-fba/product-research-tools/#free-tools" target="_blank" rel="noopener">Helium10 Home Page > Resources > Amazon Keyword Research</a>
-*   <a href="/tools/amazon-fba/product-research-tools/#free-tools" target="_blank" rel="noopener">Google Keyword Planner</a>
-*   <a href="/tools/amazon-fba/product-research-tools/#free-tools" target="_blank" rel="noopener">Google Trends</a>
+*   <a href="/tools/amazon-fba/#free-tools" target="_blank" rel="noopener">SellerApp Keyword Research</a>
+*   <a href="/tools/amazon-fba/#free-tools" target="_blank" rel="noopener">kinwords</a>
+*   <a href="/tools/amazon-fba/#free-tools" target="_blank" rel="noopener">ScientificSeller keyword tool</a>
+*   <a href="/tools/amazon-fba/#free-tools" target="_blank" rel="noopener">keywordtool.io</a>
+*   <a href="/tools/amazon-fba/#free-tools" target="_blank" rel="noopener">Helium10 Home Page > Resources > Amazon Keyword Research</a>
+*   <a href="/tools/amazon-fba/#free-tools" target="_blank" rel="noopener">Google Keyword Planner</a>
+*   <a href="/tools/amazon-fba/#free-tools" target="_blank" rel="noopener">Google Trends</a>
 
 #### **For Sells Estimation**
 
-*   <a href="/tools/amazon-fba/product-research-tools/#free-tools" target="_blank" rel="noopener">JungleScout Sales Estimator</a>
-*   <a href="/tools/amazon-fba/product-research-tools/#free-tools" target="_blank" rel="noopener">AmzScout Sales Estimator</a>
-*   <a href="/tools/amazon-fba/product-research-tools/#free-tools" target="_blank" rel="noopener">SellerApp Sales Estimator</a>
+*   <a href="/tools/amazon-fba/#free-tools" target="_blank" rel="noopener">JungleScout Sales Estimator</a>
+*   <a href="/tools/amazon-fba/#free-tools" target="_blank" rel="noopener">AmzScout Sales Estimator</a>
+*   <a href="/tools/amazon-fba/#free-tools" target="_blank" rel="noopener">SellerApp Sales Estimator</a>
 
 #### **For Product Size And Weight, FBA Fees, Product Profit, And Margin Estimation**
 
-*   <a href="/tools/amazon-fba/product-research-tools/#free-tools" target="_blank" rel="noopener">Jungle Scout Free FBA Calculator</a>
-*   <a href="/tools/amazon-fba/product-research-tools/#free-tools" target="_blank" rel="noopener">SellerApp Chrome Extension</a>
-*	<a href="/tools/amazon-fba/product-research-tools/#free-tools" target="_blank" rel="noopener">FBA Calculator</a>
-*   <a href="/tools/amazon-fba/product-research-tools/#free-tools" target="_blank" rel="noopener">AMZScout Chrome Extension</a>
-*   <a href="/tools/amazon-fba/product-research-tools/#free-tools" target="_blank" rel="noopener">Viral Launch FBA Calculator</a>
+*   <a href="/tools/amazon-fba/#free-tools" target="_blank" rel="noopener">Jungle Scout Free FBA Calculator</a>
+*   <a href="/tools/amazon-fba/#free-tools" target="_blank" rel="noopener">SellerApp Chrome Extension</a>
+*	<a href="/tools/amazon-fba/#free-tools" target="_blank" rel="noopener">FBA Calculator</a>
+*   <a href="/tools/amazon-fba/#free-tools" target="_blank" rel="noopener">AMZScout Chrome Extension</a>
+*   <a href="/tools/amazon-fba/#free-tools" target="_blank" rel="noopener">Viral Launch FBA Calculator</a>
 
 ### **Free Tools To Analyze The Competition**
 
 #### **For Price History**
 
-*   <a href="/tools/amazon-fba/product-research-tools/#free-tools" target="_blank" rel="noopener">Camelcamelcamel</a>
-*   <a href="/tools/amazon-fba/product-research-tools/#free-tools" target="_blank" rel="noopener">Keepa</a>
+*   <a href="/tools/amazon-fba/#free-tools" target="_blank" rel="noopener">Camelcamelcamel</a>
+*   <a href="/tools/amazon-fba/#free-tools" target="_blank" rel="noopener">Keepa</a>
 
 #### **For Listing Quality**
 
-*   <a href="/tools/amazon-fba/product-research-tools/#free-tools" target="_blank" rel="noopener">SellerApp Listing Quality Check</a>
+*   <a href="/tools/amazon-fba/#free-tools" target="_blank" rel="noopener">SellerApp Listing Quality Check</a>
 
 <a href="/lp/free-amazon-fba-product-research-tools/" target="_blank" rel="noopener">
 <img
@@ -371,15 +371,15 @@ Keyword research volumes will be available too, which will help you find highly 
 Thus, you will have access to everything you need to find the right product.
 
 1.  <a href="/posts/business-online/amazon-fba/tools/jungle-scout-review/" target="_blank" rel="noopener">Jungle Scout</a>
-2.  <a href="/tools/amazon-fba/product-research-tools/" target="_blank" rel="noopener">Helium10</a>
-3.  <a href="/tools/amazon-fba/product-research-tools/" target="_blank" rel="noopener">SellerApp</a>
-4.  <a href="/tools/amazon-fba/product-research-tools/" target="_blank" rel="noopener">IO Scout</a>
-5.  <a href="/tools/amazon-fba/product-research-tools/" target="_blank" rel="noopener">Viral Launch</a>
-6.  <a href="/tools/amazon-fba/product-research-tools/" target="_blank" rel="noopener">AMZScout</a>
-7.  <a href="/tools/amazon-fba/product-research-tools/" target="_blank" rel="noopener">AmazeOwl</a>
-8.  <a href="/tools/amazon-fba/product-research-tools/" target="_blank" rel="noopener">Cash Cow Pro</a>
-9.  <a href="/tools/amazon-fba/product-research-tools/" target="_blank" rel="noopener">ZOOF</a>
-10. <a href="/tools/amazon-fba/product-research-tools/" target="_blank" rel="noopener">ZonBase</a>
+2.  <a href="/tools/amazon-fba/" target="_blank" rel="noopener">Helium10</a>
+3.  <a href="/tools/amazon-fba/" target="_blank" rel="noopener">SellerApp</a>
+4.  <a href="/tools/amazon-fba/" target="_blank" rel="noopener">IO Scout</a>
+5.  <a href="/tools/amazon-fba/" target="_blank" rel="noopener">Viral Launch</a>
+6.  <a href="/tools/amazon-fba/" target="_blank" rel="noopener">AMZScout</a>
+7.  <a href="/tools/amazon-fba/" target="_blank" rel="noopener">AmazeOwl</a>
+8.  <a href="/tools/amazon-fba/" target="_blank" rel="noopener">Cash Cow Pro</a>
+9.  <a href="/tools/amazon-fba/" target="_blank" rel="noopener">ZOOF</a>
+10. <a href="/tools/amazon-fba/" target="_blank" rel="noopener">ZonBase</a>
 
 <a href="/lp/free-amazon-fba-product-research-tools/" target="_blank" rel="noopener">
 <img

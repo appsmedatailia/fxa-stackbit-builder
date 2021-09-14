@@ -3,7 +3,7 @@ title: 'Fulfillment By Amazon (FBA): The Definitive Guide [18 Milestones To Go F
 subtitle: >-
   Learn How Fulfillment By Amazon (FBA) Business Works. The Ultimate Guide For Entrepreneurs And Small Business Owners On How To Sell Products On Amazon FBA.
 date: '2021-06-06'
-update_date: '2021-09-12'
+update_date: '2021-09-14'
 thumb_img_alt: Amazon FBA How To Start A Business Online
 content_img_alt: Amazon FBA How To Start A Business Online
 img_title: Amazon FBA How To Start A Business Online
@@ -155,7 +155,7 @@ Inventory</a>
 <a href="/lp/free-amazon-fba-workflow-blueprint/" target="_blank" rel="noopener">
 <img
     src="/images/lp-amazon-blueprint/download-amazon-fba-blueprint.webp"
-    alt="Free Amazon FBA Product Research Tools" title="Free Amazon FBA Product Research Tools"/>
+    alt="Free Amazon FBA Product Blueprint" title="Free Amazon FBA Product Blueprint"/>
 </a>
 </p>
 
@@ -564,7 +564,7 @@ the guide will be a subject of a blog post.
 <a href="/lp/free-amazon-fba-workflow-blueprint/" target="_blank" rel="noopener">
 <img
     src="/images/lp-amazon-blueprint/download-amazon-fba-blueprint.webp"
-    alt="Free Amazon FBA Product Research Tools" title="Free Amazon FBA Product Research Tools"/>
+    alt="Free Amazon FBA Product Blueprint" title="Free Amazon FBA Product Blueprint"/>
 </a>
 </p>
 <h3 id="milestone-1-niche-market-research">Milestone 1: <a
@@ -796,6 +796,12 @@ Inventory</h3>
 <strong><em>P.S. the guide above is worth a dozen of the best Amazon FBA
 Training & Courses.</em></strong>
 </p>
+
+<h2>See The Best Amazon FBA Tools & Courses</h2>
+
+[Amazon FBA Tools](/tools/amazon-fba/)
+
+[Amazon FBA Courses & Training](/courses/amazon-fba/)
 
 <h2>Niche Market Research - Free eBook</h2>
 <p>

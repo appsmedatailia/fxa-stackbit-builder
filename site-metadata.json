@@ -17,8 +17,20 @@
             },
             {
                 "type": "action",
+                "label": "Start Here!",
+                "url": "/posts/business-online/amazon-fba/the-definitive-guide/",
+                "style": "link"
+            },
+            {
+                "type": "action",
                 "label": "Tools",
-                "url": "/tools/amazon-fba/product-research-tools/",
+                "url": "/tools/amazon-fba/",
+                "style": "link"
+            },
+            {
+                "type": "action",
+                "label": "Courses",
+                "url": "/courses/amazon-fba/",
                 "style": "link"
             },
             {

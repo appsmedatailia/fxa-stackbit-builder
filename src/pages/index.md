@@ -12,8 +12,8 @@ intro_content: >-
 
 intro_actions:
   - type: action
-    label: Contact
-    url: /contact/
+    label: Let's Start!
+    url: /posts/business-online/amazon-fba/the-definitive-guide/
     style: secondary
 has_more_link: true
 more_link_text: Read more

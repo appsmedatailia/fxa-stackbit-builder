@@ -46,4 +46,8 @@ template: page
 
 <p style="text-align:center">&nbsp;</p>
 
-<p style="text-align:center"><a href="/posts/business-online/amazon-fba/tools/jungle-scout-review/"><span style="font-size:20px"><strong><span style="color:#ffffff"><span style="background-color:#f65c4d">CLICK HERE TO CONTINUE</span></span></strong></span></a></p>
+<p style="text-align:center"><a href="/tools/amazon-fba/" target="_blank" rel="noopener"><span style="font-size:20px"><strong><span style="color:#ffffff"><span style="background-color:#f65c4d">CLICK HERE TO CONTINUE</span></span></strong></span></a></p>
+
+<p style="text-align:center">&nbsp;</p>
+
+<p style="text-align:center"><a href="/courses/amazon-fba/" target="_blank" rel="noopener"><span style="color:#ffffff"><span style="font-size:20px"><span style="background-color:#f1c40f">OR TAKE YOUR LEARNING TO THE NEXT LEVEL</span></span></span></a></p>
