@@ -40,8 +40,8 @@
                 "style": "primary"
             },
             {
-                "label": "Fennex Agency",
-                "url": "https://www.fennex.agency/",
+                "label": "FB Group",
+                "url": "https://www.facebook.com/groups/amazon.fba.fennex.blog/",
                 "style": "secondary",
                 "icon_class": "dev",
                 "new_window": true,
@@ -53,30 +53,14 @@
     "footer": {
         "type": "footer",
         "content": "&copy;<a href=\"https://fennex.agency\" target=\"_blank\" rel=\"noopener\">Fennex Agency</a>. All rights reserved. This Jamstack site was created with Stackbit.",
-        "has_social": false,
+        "has_social": true,
         "social_links": [
             {
                 "type": "action",
-                "label": "Twitter",
-                "url": "https://twitter.com/",
+                "label": "Facebook",
+                "url": "https://www.facebook.com/groups/amazon.fba.fennex.blog/",
                 "style": "icon",
-                "icon_class": "twitter",
-                "new_window": true
-            },
-            {
-                "type": "action",
-                "label": "Instagram",
-                "url": "https://www.instagram.com/",
-                "style": "icon",
-                "icon_class": "instagram",
-                "new_window": true
-            },
-            {
-                "type": "action",
-                "label": "LinkedIn",
-                "url": "https://www.linkedin.com/",
-                "style": "icon",
-                "icon_class": "linkedin",
+                "icon_class": "facebook",
                 "new_window": true
             }
         ],

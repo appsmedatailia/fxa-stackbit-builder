@@ -1,5 +1,5 @@
 ---
-title: Amazon FBA Product Research, How To Find Profitable Products For Your Amazon FBA Seller Business
+title: How To Find Profitable Products For Your Amazon FBA Seller Business
 subtitle: >-
   Learn How To Do Amazon FBA Product Research And How To Use The Best Free And Paid Research Tools To Find Profitable Products And Offers. No B.S. Guide And Tips.
 date: '2021-07-14'
@@ -17,7 +17,7 @@ seo:
       value: article
       keyName: property
     - name: 'og:title'
-      value: Amazon FBA Product Research, How To Find Profitable Products For Your Amazon FBA Seller Business
+      value: How To Find Profitable Products For Your Amazon FBA Seller Business
       keyName: property
     - name: 'og:description'
       value: >-
@@ -27,7 +27,7 @@ seo:
       value: /images/amazon-fba/amazon-fba-product-research.webp
       keyName: property
       relativeUrl: true
-  title: Amazon FBA Product Research, How To Find Profitable Products For Your Amazon FBA Seller Business
+  title: How To Find Profitable Products For Your Amazon FBA Seller Business
 template: post
 thumb_img_path: /images/amazon-fba/amazon-fba-product-research.webp
 content_img_path: /images/amazon-fba/amazon-fba-product-research.webp
