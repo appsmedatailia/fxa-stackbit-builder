@@ -6,7 +6,7 @@ template: page
 ---
 <p style="text-align:center">&nbsp;</p>
 
-<p style="text-align:center"><span style="font-size:20px"><strong><span style="background-color:#23a7a8"><a href="https://blog.fennex.agency/downloads/amazon-fba-workflow-blueprint.pdf"><span style="color:#ffffff">DOWNLOAD - Amazon FBA Workflow Blueprint</span></a></span></strong></span></p>
+<p style="text-align:center"><span style="font-size:20px"><strong><span style="background-color:#23a7a8"><a href="https://blog.fennex.agency/downloads/amazon-fba-workflow-blueprint.pdf" target="_blank" rel="noopener"><span style="color:#ffffff">DOWNLOAD - Amazon FBA Workflow Blueprint</span></a></span></strong></span></p>
 
 <p style="text-align:center">&nbsp;</p>
 

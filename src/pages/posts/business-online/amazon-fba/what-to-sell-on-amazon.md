@@ -1,5 +1,5 @@
 ---
-title: 'Amazon Product Research: Best Criteria To Find Profitable FBA Products'
+title: 'Amazon Product Research: The Best Criteria For FBA Business'
 subtitle: >-
   Learn how to find profitable items that will fit your FBA needs. Find out what criteria you should use when researching products on Amazon FBA.
 date: '2021-08-24'
@@ -17,7 +17,7 @@ seo:
       value: article
       keyName: property
     - name: 'og:title'
-      value: 'Amazon Product Research: Best criteria to find a profitable fba product'
+      value: 'Amazon Product Research: The Best Criteria For FBA Business'
       keyName: property
     - name: 'og:description'
       value: >-
@@ -27,7 +27,7 @@ seo:
       value: /images/amazon-fba/what-to-sell-on-amazon.webp
       keyName: property
       relativeUrl: true
-  title: 'Amazon Product Research: Best criteria to find a profitable fba product'
+  title: 'Amazon Product Research: The Best Criteria For FBA Business'
 template: post
 thumb_img_path: /images/amazon-fba/what-to-sell-on-amazon.webp
 content_img_path: /images/amazon-fba/what-to-sell-on-amazon.webp

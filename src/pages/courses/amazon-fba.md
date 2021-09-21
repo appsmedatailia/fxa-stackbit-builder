@@ -3,7 +3,7 @@ title: The Best Amazon FBA Courses And Training In 2021
 seo:
   type: stackbit_page_meta
   description: >-
-    A One-Stop To The Best Amazon FBA Courses And Training In 2021
+    Are you a new seller? Or want to take your Amazon business to the next level? Learn how to sell products on Amazon from The Best Amazon FBA courses and training
   extra:
     - name: 'og:type'
       value: article
@@ -13,7 +13,7 @@ seo:
       keyName: property
     - name: 'og:description'
       value: >-
-        A One-Stop To The Best Amazon FBA Courses And Training In 2021
+        Are you a new seller? Or want to take your Amazon business to the next level? Learn how to sell products on Amazon from The Best Amazon FBA courses and training
       keyName: property
     - name: 'og:image'
       value: 

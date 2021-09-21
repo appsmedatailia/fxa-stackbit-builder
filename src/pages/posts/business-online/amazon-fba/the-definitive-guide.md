@@ -18,7 +18,7 @@ seo:
       value: article
       keyName: property
     - name: 'og:title'
-      value: Fulfillment By Amazon (FBA), How To Start A Business Online
+      value: 'Fulfillment By Amazon (FBA): The Definitive Guide [18 Milestones To Go From Zero To Hero]'
       keyName: property
     - name: 'og:description'
       value: >-
@@ -28,7 +28,7 @@ seo:
       value: /images/amazon-fba/amazon-fba-the-definitive-guide.webp
       keyName: property
       relativeUrl: true
-  title: Fulfillment By Amazon (FBA), How To Start A Business Online
+  title: 'Fulfillment By Amazon (FBA): The Definitive Guide [18 Milestones To Go From Zero To Hero]'
 template: post
 thumb_img_path: /images/amazon-fba/amazon-fba-the-definitive-guide.webp
 content_img_path: /images/amazon-fba/amazon-fba-the-definitive-guide.webp

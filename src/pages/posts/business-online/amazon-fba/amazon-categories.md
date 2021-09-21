@@ -1,33 +1,33 @@
 ---
-title: 'Amazon Product Categories: How To Find The Best Selling Categories On Amazon'
+title: 'Amazon Product Research: How To Find The Best Selling Categories'
 subtitle: >-
-  Learn how to find out which Amazon FBA categories are the best for your products. Find out how to use Amazon’s Category Explorer and check out the best product categories to sell on Amazon with this guide.
+  Find out how to use Amazon’s Category Explorer and check out the best product categories to sell on Amazon with this guide.
 date: '2021-09-05'
 thumb_img_alt: Amazon Product Research Best Criteria
 content_img_alt: Amazon Product Research Best Criteria
 img_title: Amazon Product Research Best Criteria
 excerpt: >-
-  Learn how to find out which Amazon FBA categories are the best for your products. Find out how to use Amazon’s Category Explorer and check out the best product categories to sell on Amazon with this guide.
+  Find out how to use Amazon’s Category Explorer and check out the best product categories to sell on Amazon with this guide.
 seo:
   type: stackbit_page_meta
   description: >-
-    Learn how to find out which Amazon FBA categories are the best for your products. Find out how to use Amazon’s Category Explorer and check out the best product categories to sell on Amazon with this guide.
+    Find out how to use Amazon’s Category Explorer and check out the best product categories to sell on Amazon with this guide.
   extra:
     - name: 'og:type'
       value: article
       keyName: property
     - name: 'og:title'
-      value: 'Amazon Product Categories: How To Find The Best Selling Categories On Amazon'
+      value: 'Amazon Product Research: How To Find The Best Selling Categories'
       keyName: property
     - name: 'og:description'
       value: >-
-        Learn how to find out which Amazon FBA categories are the best for your products. Find out how to use Amazon’s Category Explorer and check out the best product categories to sell on Amazon with this guide.
+        Find out how to use Amazon’s Category Explorer and check out the best product categories to sell on Amazon with this guide.
       keyName: property
     - name: 'og:image'
       value: /images/amazon-fba/amazon-product-categories.webp
       keyName: property
       relativeUrl: true
-  title: 'Amazon Product Categories: How To Find The Best Selling Categories On Amazon'
+  title: 'Amazon Product Research: How To Find The Best Selling Categories'
 template: post
 thumb_img_path: /images/amazon-fba/amazon-product-categories.webp
 content_img_path: /images/amazon-fba/amazon-product-categories.webp

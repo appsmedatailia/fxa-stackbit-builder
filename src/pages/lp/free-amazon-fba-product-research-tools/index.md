@@ -4,7 +4,7 @@ lead_magnet_type: Free Tools
 title: Validate Product Ideas And Discover Your Next Best-Seller!
 subtitle: >-  
   Are you an Amazon seller looking for your next best seller product?
-  Or maybe you are newbie to Amazon FBA and you struggle choosing a winning product?
+  Or maybe you are a newbie to Amazon FBA and you struggle choosing a winning product?
 cta: Download Your Free Tools Now!
 thumb_img_alt: Free Amazon Product Research Tools
 content_img_alt: Free Amazon Product Research Tools
@@ -12,7 +12,7 @@ img_title: Free Amazon Product Research Tools
 seo:
   type: stackbit_page_meta
   description: >-
-    Validate Product Ideas To Discover Your Next Best-Seller! With Our Free Product Research Tools.
+    Are you an Amazon seller looking for your next best seller product? Validate your product ideas with our Free Product Research Tools
   extra:
     - name: 'og:type'
       value: article
@@ -22,7 +22,7 @@ seo:
       keyName: property
     - name: 'og:description'
       value: >-
-        Validate Product Ideas To Discover Your Next Best-Seller! With Our Free Product Research Tools.
+        Are you an Amazon seller looking for your next best seller product? Validate your product ideas with our Free Product Research Tools
       keyName: property
     - name: 'og:image'
       value: /images/amazon-fba/free-fba-tools-lp.webp

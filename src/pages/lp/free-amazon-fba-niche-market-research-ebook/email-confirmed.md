@@ -6,7 +6,7 @@ template: page
 ---
 <p style="text-align:center">&nbsp;</p>
 
-<p style="text-align:center"><span style="font-size:20px"><strong><span style="background-color:#23a7a8"><a href="https://blog.fennex.agency/downloads/9-Steps-To-Find-Profitable-Niche-Business.pdf"><span style="color:#ffffff">DOWNLOAD - 9 Steps To Find Profitable Niche Business eBook</span></a></span></strong></span></p>
+<p style="text-align:center"><span style="font-size:20px"><strong><span style="background-color:#23a7a8"><a href="https://blog.fennex.agency/downloads/9-Steps-To-Find-Profitable-Niche-Business.pdf" target="_blank" rel="noopener"><span style="color:#ffffff">DOWNLOAD - 9 Steps To Find Profitable Niche Business eBook</span></a></span></strong></span></p>
 
 <p style="text-align:center">&nbsp;</p>
 
